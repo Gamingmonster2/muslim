@@ -1,0 +1,1155 @@
+{
+  "id": "Saud_Al-Shuraim_Quran",
+  "title": {
+    "ar": "المصحف المرتل — سعود الشريم",
+    "en": "The Holy Qur'an — Murattal — Saud Al-Shuraim"
+  },
+  "creator": {
+    "ar": "سعود الشريم",
+    "en": "Saud Al-Shuraim"
+  },
+  "cover": "/images/library/Saud_Al-Shuraim_Quran.jpg",
+  "sourceUrl": "https://archive.org/details/Saud_Al-Shuraim_Quran",
+  "tracks": [
+    {
+      "id": "Saud_Al-Shuraim_Quran-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/001.mp3",
+      "duration": 38,
+      "surahIndex": 1
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/002.mp3",
+      "duration": 5223,
+      "surahIndex": 2
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/003.mp3",
+      "duration": 2831,
+      "surahIndex": 3
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/004.mp3",
+      "duration": 3138,
+      "surahIndex": 4
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/005.mp3",
+      "duration": 2381,
+      "surahIndex": 5
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/006.mp3",
+      "duration": 2589,
+      "surahIndex": 6
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/007.mp3",
+      "duration": 2895,
+      "surahIndex": 7
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/008.mp3",
+      "duration": 1088,
+      "surahIndex": 8
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/009.mp3",
+      "duration": 2151,
+      "surahIndex": 9
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/010.mp3",
+      "duration": 1466,
+      "surahIndex": 10
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/011.mp3",
+      "duration": 1606,
+      "surahIndex": 11
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/012.mp3",
+      "duration": 1517,
+      "surahIndex": 12
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/013.mp3",
+      "duration": 759,
+      "surahIndex": 13
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/014.mp3",
+      "duration": 769,
+      "surahIndex": 14
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/015.mp3",
+      "duration": 572,
+      "surahIndex": 15
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/016.mp3",
+      "duration": 1535,
+      "surahIndex": 16
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/017.mp3",
+      "duration": 1286,
+      "surahIndex": 17
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/018.mp3",
+      "duration": 1287,
+      "surahIndex": 18
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/019.mp3",
+      "duration": 771,
+      "surahIndex": 19
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/020.mp3",
+      "duration": 1024,
+      "surahIndex": 20
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/021.mp3",
+      "duration": 992,
+      "surahIndex": 21
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/022.mp3",
+      "duration": 996,
+      "surahIndex": 22
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/023.mp3",
+      "duration": 897,
+      "surahIndex": 23
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/024.mp3",
+      "duration": 1112,
+      "surahIndex": 24
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/025.mp3",
+      "duration": 769,
+      "surahIndex": 25
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/026.mp3",
+      "duration": 1137,
+      "surahIndex": 26
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/027.mp3",
+      "duration": 965,
+      "surahIndex": 27
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/028.mp3",
+      "duration": 1192,
+      "surahIndex": 28
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/029.mp3",
+      "duration": 825,
+      "surahIndex": 29
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/030.mp3",
+      "duration": 660,
+      "surahIndex": 30
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/031.mp3",
+      "duration": 429,
+      "surahIndex": 31
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/032.mp3",
+      "duration": 299,
+      "surahIndex": 32
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/033.mp3",
+      "duration": 1095,
+      "surahIndex": 33
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/034.mp3",
+      "duration": 709,
+      "surahIndex": 34
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/035.mp3",
+      "duration": 645,
+      "surahIndex": 35
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/036.mp3",
+      "duration": 618,
+      "surahIndex": 36
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/037.mp3",
+      "duration": 766,
+      "surahIndex": 37
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/038.mp3",
+      "duration": 637,
+      "surahIndex": 38
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/039.mp3",
+      "duration": 979,
+      "surahIndex": 39
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/040.mp3",
+      "duration": 995,
+      "surahIndex": 40
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/041.mp3",
+      "duration": 708,
+      "surahIndex": 41
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/042.mp3",
+      "duration": 686,
+      "surahIndex": 42
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/043.mp3",
+      "duration": 750,
+      "surahIndex": 43
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/044.mp3",
+      "duration": 347,
+      "surahIndex": 44
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/045.mp3",
+      "duration": 412,
+      "surahIndex": 45
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/046.mp3",
+      "duration": 517,
+      "surahIndex": 46
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/047.mp3",
+      "duration": 456,
+      "surahIndex": 47
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/048.mp3",
+      "duration": 522,
+      "surahIndex": 48
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/049.mp3",
+      "duration": 329,
+      "surahIndex": 49
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/050.mp3",
+      "duration": 319,
+      "surahIndex": 50
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/051.mp3",
+      "duration": 304,
+      "surahIndex": 51
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/052.mp3",
+      "duration": 261,
+      "surahIndex": 52
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/053.mp3",
+      "duration": 290,
+      "surahIndex": 53
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/054.mp3",
+      "duration": 295,
+      "surahIndex": 54
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/055.mp3",
+      "duration": 376,
+      "surahIndex": 55
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/056.mp3",
+      "duration": 397,
+      "surahIndex": 56
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/057.mp3",
+      "duration": 482,
+      "surahIndex": 57
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/058.mp3",
+      "duration": 422,
+      "surahIndex": 58
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/059.mp3",
+      "duration": 360,
+      "surahIndex": 59
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/060.mp3",
+      "duration": 281,
+      "surahIndex": 60
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/061.mp3",
+      "duration": 177,
+      "surahIndex": 61
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/062.mp3",
+      "duration": 149,
+      "surahIndex": 62
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/063.mp3",
+      "duration": 170,
+      "surahIndex": 63
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/064.mp3",
+      "duration": 206,
+      "surahIndex": 64
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/065.mp3",
+      "duration": 245,
+      "surahIndex": 65
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/066.mp3",
+      "duration": 226,
+      "surahIndex": 66
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/067.mp3",
+      "duration": 274,
+      "surahIndex": 67
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/068.mp3",
+      "duration": 270,
+      "surahIndex": 68
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/069.mp3",
+      "duration": 268,
+      "surahIndex": 69
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/070.mp3",
+      "duration": 201,
+      "surahIndex": 70
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/071.mp3",
+      "duration": 194,
+      "surahIndex": 71
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/072.mp3",
+      "duration": 229,
+      "surahIndex": 72
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/073.mp3",
+      "duration": 171,
+      "surahIndex": 73
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/074.mp3",
+      "duration": 223,
+      "surahIndex": 74
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/075.mp3",
+      "duration": 139,
+      "surahIndex": 75
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/076.mp3",
+      "duration": 221,
+      "surahIndex": 76
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/077.mp3",
+      "duration": 177,
+      "surahIndex": 77
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/078.mp3",
+      "duration": 177,
+      "surahIndex": 78
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/079.mp3",
+      "duration": 163,
+      "surahIndex": 79
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/080.mp3",
+      "duration": 132,
+      "surahIndex": 80
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/081.mp3",
+      "duration": 106,
+      "surahIndex": 81
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/082.mp3",
+      "duration": 70,
+      "surahIndex": 82
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/083.mp3",
+      "duration": 152,
+      "surahIndex": 83
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/084.mp3",
+      "duration": 93,
+      "surahIndex": 84
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/085.mp3",
+      "duration": 91,
+      "surahIndex": 85
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/086.mp3",
+      "duration": 55,
+      "surahIndex": 86
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/087.mp3",
+      "duration": 63,
+      "surahIndex": 87
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/088.mp3",
+      "duration": 75,
+      "surahIndex": 88
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/089.mp3",
+      "duration": 124,
+      "surahIndex": 89
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/090.mp3",
+      "duration": 64,
+      "surahIndex": 90
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/091.mp3",
+      "duration": 51,
+      "surahIndex": 91
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/092.mp3",
+      "duration": 61,
+      "surahIndex": 92
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/093.mp3",
+      "duration": 37,
+      "surahIndex": 93
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/094.mp3",
+      "duration": 23,
+      "surahIndex": 94
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/095.mp3",
+      "duration": 33,
+      "surahIndex": 95
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/096.mp3",
+      "duration": 57,
+      "surahIndex": 96
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/097.mp3",
+      "duration": 23,
+      "surahIndex": 97
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/098.mp3",
+      "duration": 73,
+      "surahIndex": 98
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/099.mp3",
+      "duration": 36,
+      "surahIndex": 99
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/100.mp3",
+      "duration": 41,
+      "surahIndex": 100
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/101.mp3",
+      "duration": 35,
+      "surahIndex": 101
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/102.mp3",
+      "duration": 29,
+      "surahIndex": 102
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/103.mp3",
+      "duration": 16,
+      "surahIndex": 103
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/104.mp3",
+      "duration": 32,
+      "surahIndex": 104
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/105.mp3",
+      "duration": 24,
+      "surahIndex": 105
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/106.mp3",
+      "duration": 20,
+      "surahIndex": 106
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/107.mp3",
+      "duration": 27,
+      "surahIndex": 107
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/108.mp3",
+      "duration": 12,
+      "surahIndex": 108
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/109.mp3",
+      "duration": 24,
+      "surahIndex": 109
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/110.mp3",
+      "duration": 20,
+      "surahIndex": 110
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/111.mp3",
+      "duration": 22,
+      "surahIndex": 111
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/112.mp3",
+      "duration": 13,
+      "surahIndex": 112
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/113.mp3",
+      "duration": 19,
+      "surahIndex": 113
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Saud_Al-Shuraim_Quran/114.mp3",
+      "duration": 24,
+      "surahIndex": 114
+    }
+  ]
+}

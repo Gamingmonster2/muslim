@@ -1,0 +1,1155 @@
+{
+  "id": "Fares_Abbad_el-moslem.com",
+  "title": {
+    "ar": "المصحف المرتل — فارس عباد",
+    "en": "The Holy Qur'an — Murattal — Fares Abbad"
+  },
+  "creator": {
+    "ar": "فارس عباد",
+    "en": "Fares Abbad"
+  },
+  "cover": "/images/library/Fares_Abbad_el-moslem.com.jpg",
+  "sourceUrl": "https://archive.org/details/Fares_Abbad_el-moslem.com",
+  "tracks": [
+    {
+      "id": "Fares_Abbad_el-moslem.com-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/001.mp3",
+      "duration": 44,
+      "surahIndex": 1
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/002.mp3",
+      "duration": 6774,
+      "surahIndex": 2
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/003.mp3",
+      "duration": 3718,
+      "surahIndex": 3
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/004.mp3",
+      "duration": 3811,
+      "surahIndex": 4
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/005.mp3",
+      "duration": 2957,
+      "surahIndex": 5
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/006.mp3",
+      "duration": 3105,
+      "surahIndex": 6
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/007.mp3",
+      "duration": 3486,
+      "surahIndex": 7
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/008.mp3",
+      "duration": 1312,
+      "surahIndex": 8
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/009.mp3",
+      "duration": 2627,
+      "surahIndex": 9
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/010.mp3",
+      "duration": 1881,
+      "surahIndex": 10
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/011.mp3",
+      "duration": 1971,
+      "surahIndex": 11
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/012.mp3",
+      "duration": 1943,
+      "surahIndex": 12
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/013.mp3",
+      "duration": 897,
+      "surahIndex": 13
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/014.mp3",
+      "duration": 939,
+      "surahIndex": 14
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/015.mp3",
+      "duration": 795,
+      "surahIndex": 15
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/016.mp3",
+      "duration": 1966,
+      "surahIndex": 16
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/017.mp3",
+      "duration": 1628,
+      "surahIndex": 17
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/018.mp3",
+      "duration": 1629,
+      "surahIndex": 18
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/019.mp3",
+      "duration": 1091,
+      "surahIndex": 19
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/020.mp3",
+      "duration": 1436,
+      "surahIndex": 20
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/021.mp3",
+      "duration": 1361,
+      "surahIndex": 21
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/022.mp3",
+      "duration": 1458,
+      "surahIndex": 22
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/023.mp3",
+      "duration": 1259,
+      "surahIndex": 23
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/024.mp3",
+      "duration": 1483,
+      "surahIndex": 24
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/025.mp3",
+      "duration": 988,
+      "surahIndex": 25
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/026.mp3",
+      "duration": 1644,
+      "surahIndex": 26
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/027.mp3",
+      "duration": 1353,
+      "surahIndex": 27
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/028.mp3",
+      "duration": 1587,
+      "surahIndex": 28
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/029.mp3",
+      "duration": 1107,
+      "surahIndex": 29
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/030.mp3",
+      "duration": 950,
+      "surahIndex": 30
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/031.mp3",
+      "duration": 598,
+      "surahIndex": 31
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/032.mp3",
+      "duration": 437,
+      "surahIndex": 32
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/033.mp3",
+      "duration": 1545,
+      "surahIndex": 33
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/034.mp3",
+      "duration": 981,
+      "surahIndex": 34
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/035.mp3",
+      "duration": 841,
+      "surahIndex": 35
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/036.mp3",
+      "duration": 820,
+      "surahIndex": 36
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/037.mp3",
+      "duration": 1036,
+      "surahIndex": 37
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/038.mp3",
+      "duration": 791,
+      "surahIndex": 38
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/039.mp3",
+      "duration": 1066,
+      "surahIndex": 39
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/040.mp3",
+      "duration": 1233,
+      "surahIndex": 40
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/041.mp3",
+      "duration": 854,
+      "surahIndex": 41
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/042.mp3",
+      "duration": 867,
+      "surahIndex": 42
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/043.mp3",
+      "duration": 903,
+      "surahIndex": 43
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/044.mp3",
+      "duration": 385,
+      "surahIndex": 44
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/045.mp3",
+      "duration": 484,
+      "surahIndex": 45
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/046.mp3",
+      "duration": 629,
+      "surahIndex": 46
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/047.mp3",
+      "duration": 551,
+      "surahIndex": 47
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/048.mp3",
+      "duration": 543,
+      "surahIndex": 48
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/049.mp3",
+      "duration": 351,
+      "surahIndex": 49
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/050.mp3",
+      "duration": 380,
+      "surahIndex": 50
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/051.mp3",
+      "duration": 407,
+      "surahIndex": 51
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/052.mp3",
+      "duration": 347,
+      "surahIndex": 52
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/053.mp3",
+      "duration": 367,
+      "surahIndex": 53
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/054.mp3",
+      "duration": 385,
+      "surahIndex": 54
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/055.mp3",
+      "duration": 488,
+      "surahIndex": 55
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/056.mp3",
+      "duration": 479,
+      "surahIndex": 56
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/057.mp3",
+      "duration": 586,
+      "surahIndex": 57
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/058.mp3",
+      "duration": 490,
+      "surahIndex": 58
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/059.mp3",
+      "duration": 483,
+      "surahIndex": 59
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/060.mp3",
+      "duration": 368,
+      "surahIndex": 60
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/061.mp3",
+      "duration": 231,
+      "surahIndex": 61
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/062.mp3",
+      "duration": 197,
+      "surahIndex": 62
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/063.mp3",
+      "duration": 210,
+      "surahIndex": 63
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/064.mp3",
+      "duration": 269,
+      "surahIndex": 64
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/065.mp3",
+      "duration": 301,
+      "surahIndex": 65
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/066.mp3",
+      "duration": 272,
+      "surahIndex": 66
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/067.mp3",
+      "duration": 345,
+      "surahIndex": 67
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/068.mp3",
+      "duration": 339,
+      "surahIndex": 68
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/069.mp3",
+      "duration": 300,
+      "surahIndex": 69
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/070.mp3",
+      "duration": 248,
+      "surahIndex": 70
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/071.mp3",
+      "duration": 238,
+      "surahIndex": 71
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/072.mp3",
+      "duration": 279,
+      "surahIndex": 72
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/073.mp3",
+      "duration": 216,
+      "surahIndex": 73
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/074.mp3",
+      "duration": 272,
+      "surahIndex": 74
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/075.mp3",
+      "duration": 179,
+      "surahIndex": 75
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/076.mp3",
+      "duration": 278,
+      "surahIndex": 76
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/077.mp3",
+      "duration": 219,
+      "surahIndex": 77
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/078.mp3",
+      "duration": 213,
+      "surahIndex": 78
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/079.mp3",
+      "duration": 207,
+      "surahIndex": 79
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/080.mp3",
+      "duration": 175,
+      "surahIndex": 80
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/081.mp3",
+      "duration": 121,
+      "surahIndex": 81
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/082.mp3",
+      "duration": 102,
+      "surahIndex": 82
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/083.mp3",
+      "duration": 208,
+      "surahIndex": 83
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/084.mp3",
+      "duration": 124,
+      "surahIndex": 84
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/085.mp3",
+      "duration": 124,
+      "surahIndex": 85
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/086.mp3",
+      "duration": 80,
+      "surahIndex": 86
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/087.mp3",
+      "duration": 83,
+      "surahIndex": 87
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/088.mp3",
+      "duration": 111,
+      "surahIndex": 88
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/089.mp3",
+      "duration": 169,
+      "surahIndex": 89
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/090.mp3",
+      "duration": 90,
+      "surahIndex": 90
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/091.mp3",
+      "duration": 67,
+      "surahIndex": 91
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/092.mp3",
+      "duration": 87,
+      "surahIndex": 92
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/093.mp3",
+      "duration": 50,
+      "surahIndex": 93
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/094.mp3",
+      "duration": 31,
+      "surahIndex": 94
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/095.mp3",
+      "duration": 44,
+      "surahIndex": 95
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/096.mp3",
+      "duration": 79,
+      "surahIndex": 96
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/097.mp3",
+      "duration": 36,
+      "surahIndex": 97
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/098.mp3",
+      "duration": 96,
+      "surahIndex": 98
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/099.mp3",
+      "duration": 46,
+      "surahIndex": 99
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/100.mp3",
+      "duration": 54,
+      "surahIndex": 100
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/101.mp3",
+      "duration": 49,
+      "surahIndex": 101
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/102.mp3",
+      "duration": 40,
+      "surahIndex": 102
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/103.mp3",
+      "duration": 20,
+      "surahIndex": 103
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/104.mp3",
+      "duration": 40,
+      "surahIndex": 104
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/105.mp3",
+      "duration": 32,
+      "surahIndex": 105
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/106.mp3",
+      "duration": 27,
+      "surahIndex": 106
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/107.mp3",
+      "duration": 33,
+      "surahIndex": 107
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/108.mp3",
+      "duration": 17,
+      "surahIndex": 108
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/109.mp3",
+      "duration": 37,
+      "surahIndex": 109
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/110.mp3",
+      "duration": 25,
+      "surahIndex": 110
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/111.mp3",
+      "duration": 29,
+      "surahIndex": 111
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/112.mp3",
+      "duration": 16,
+      "surahIndex": 112
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/113.mp3",
+      "duration": 25,
+      "surahIndex": 113
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Fares_Abbad_el-moslem.com/114.mp3",
+      "duration": 30,
+      "surahIndex": 114
+    }
+  ]
+}

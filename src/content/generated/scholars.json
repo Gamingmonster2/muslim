@@ -1,0 +1,747 @@
+{
+  "generatedAt": "2026-11-16T20:24:59.070Z",
+  "source": "https://www.tvquran.com",
+  "featuredOrder": [
+    "212",
+    "121"
+  ],
+  "scholars": [
+    {
+      "id": "212",
+      "slug": "%D8%B9%D8%B5%D8%A7%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D9%88%D9%8A%D8%AF",
+      "name": {
+        "ar": "عصام عبد العزيز العويد",
+        "en": "Essam Al-Owaid"
+      },
+      "bio": {
+        "ar": "عصام بن عبد العزيز العويد داعية من المملكة العربية السعودية، اشتهر بتسجيلاته ومحاضراته الدينية، ويعمل داعية في وزارة الشؤون الإسلامية بالرياض. تُعدّ رقيته الشرعية من أكثر التسجيلات استماعاً وانتفاعاً بين الناس.",
+        "en": "Essam bin Abdulaziz Al-Owaid is a Saudi da'wah preacher known for his religious recordings and lectures. He works as a preacher at the Ministry of Islamic Affairs in Riyadh. His ruqyah recording is among the most listened-to and beneficial."
+      },
+      "image": "/images/scholars/212.jpg",
+      "stats": {
+        "recordings": 1,
+        "listens": 301712,
+        "likes": 11
+      },
+      "featured": true,
+      "tracks": [
+        {
+          "id": "tvq-948",
+          "selectionId": "948",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/212/590e6f2fb3102.mp3",
+          "duration": 3892,
+          "sizeBytes": 31318935,
+          "valid": true,
+          "listens": 301712,
+          "likes": 11,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/948"
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "slug": "%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%A7%D9%8A%D8%B2",
+      "name": {
+        "ar": "سعود الفايز",
+        "en": "Saud Al-Fayez"
+      },
+      "bio": {
+        "ar": "سعود الفايز قارئ للقرآن الكريم وإمام جامع في حي الملقا بشمال الرياض، عُرف بتلاواته الخاشعة وتسجيلات الرقية الشرعية.",
+        "en": "Saud Al-Fayez is a Qur'an reciter and mosque imam in Al-Malqa district, north Riyadh, known for his moving recitations and ruqyah recordings."
+      },
+      "image": "/images/scholars/121.jpg",
+      "stats": {
+        "recordings": 5,
+        "listens": 2165657,
+        "likes": 139
+      },
+      "featured": true,
+      "tracks": [
+        {
+          "id": "tvq-932",
+          "selectionId": "932",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/121/590dc67a93663.mp3",
+          "duration": 2607,
+          "sizeBytes": 21044244,
+          "valid": true,
+          "listens": 595842,
+          "likes": 35,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/932"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "slug": "%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D8%A7%D9%86%D9%8A-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9",
+      "name": {
+        "ar": "محمد الجوراني أبو العالية",
+        "en": "Muhammad Al-Jourani Abu Al-Aliyah"
+      },
+      "bio": {
+        "ar": "محمد الجوراني أبو العالية قارئ من الأردن، ويتوفر محمد الجوراني أبو العالية على إصدار صوتي للرقية الشرعية على موقع تي في قرآن.",
+        "en": null
+      },
+      "image": "/images/scholars/101.jpg",
+      "stats": {
+        "recordings": 2,
+        "listens": 5707956,
+        "likes": 162
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-78",
+          "selectionId": "78",
+          "titleAr": "الرقية الشرعية 1",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r09.mp3",
+          "duration": 3634,
+          "sizeBytes": 29076796,
+          "valid": true,
+          "listens": 3063989,
+          "likes": 107,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/78"
+        },
+        {
+          "id": "tvq-86",
+          "selectionId": "86",
+          "titleAr": "الرقية الشرعية 2",
+          "titleEn": "Ruqyah 2",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r08.mp3",
+          "duration": 3918,
+          "sizeBytes": 27432085,
+          "valid": true,
+          "listens": 2643967,
+          "likes": 55,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/86"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "slug": "%D9%85%D8%B4%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A",
+      "name": {
+        "ar": "مشاري العفاسي",
+        "en": "Mishary Al-Afasy"
+      },
+      "bio": {
+        "ar": "مشاري العفاسي قارئ من الكويت من مواليد سنة 1396 هـ الموافق ل 1976م. تخصص القارئ مشاري العفاسي القراءات العشر والتفسير بكلية القرآن الكريم بالجامعة الإسلامية بالمدينة المنورة، وقد حصل على في قراءة عاصم رواية حفص من طريق الشاطبية.\n يشغل القارئ مشاري العفاسي في إمامة المسجد الكبير بالكويت، وفي إدارة قناة العفاسي للقرآن الكريم.",
+        "en": null
+      },
+      "image": "/images/scholars/85.jpg",
+      "stats": {
+        "recordings": 139,
+        "listens": 22924043,
+        "likes": 982
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-85",
+          "selectionId": "85",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r07.mp3",
+          "duration": 4419,
+          "sizeBytes": 17692319,
+          "valid": true,
+          "listens": 1568999,
+          "likes": 66,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/85"
+        },
+        {
+          "id": "tvq-938",
+          "selectionId": "938",
+          "titleAr": "الرقية الشرعية المختصرة",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/85/590e57198cdf2.mp3",
+          "duration": 796,
+          "sizeBytes": 6556943,
+          "valid": true,
+          "listens": 464802,
+          "likes": 26,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/938"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A3%D8%A8%D9%83%D8%B1",
+      "name": {
+        "ar": "إدريس أبكر",
+        "en": "Idris Abkar"
+      },
+      "bio": {
+        "ar": "إدريس أبكر قارئ يحمل الجنسية اليمنية، وقد ولد الشيخ إدريس أبكر عام 1395 هـ بمدينة جدة بالسعودية. قام القارئ إدريس أبكر بإمامة عدد كبير من مساجد المملكة ليستقر حاليا بأحد مساجد مدينة أبوظبي.",
+        "en": null
+      },
+      "image": "/images/scholars/9.jpg",
+      "stats": {
+        "recordings": 153,
+        "listens": 20670693,
+        "likes": 2443
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-944",
+          "selectionId": "944",
+          "titleAr": "الرقية الشرعية (المطولة)",
+          "titleEn": "Extended Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/9/590e6069d646b.mp3",
+          "duration": 4517,
+          "sizeBytes": 36319189,
+          "valid": true,
+          "listens": 818230,
+          "likes": 38,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/944"
+        },
+        {
+          "id": "tvq-940",
+          "selectionId": "940",
+          "titleAr": "الرقية الشرعية (المختصرة)",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/9/590e58957bc22.mp3",
+          "duration": 1633,
+          "sizeBytes": 13246768,
+          "valid": true,
+          "listens": 451532,
+          "likes": 27,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/940"
+        },
+        {
+          "id": "tvq-943",
+          "selectionId": "943",
+          "titleAr": "الرقية بسورة الفاتحة",
+          "titleEn": "Ruqyah with Al-Fatihah",
+          "url": "https://download.tvquran.com/download/selections/9/590e5f2562a11.mp3",
+          "duration": 3956,
+          "sizeBytes": 31831323,
+          "valid": true,
+          "listens": 374012,
+          "likes": 13,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/943"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "slug": "%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A",
+      "name": {
+        "ar": "ناصر القطامي",
+        "en": "Nasser Al-Qatami"
+      },
+      "bio": {
+        "ar": "ناصر القطامي قارئ من السعودية ومن مواليد سنة 1400 هـ الموافق ل 1980م.\n بدأ القارئ ناصر القطامي إمامة المساجد منذ 14 من عمره ويعمل حاليا إماما وخطيبا بأحد مساجد مدينة الرياض\n القارئ ناصر القطامي حاصل على بكالوريوس دراسات إسلامية وله حظور إعلامي على عدد من القنوات والإذاعات.",
+        "en": null
+      },
+      "image": "/images/scholars/90.jpg",
+      "stats": {
+        "recordings": 145,
+        "listens": 16104692,
+        "likes": 1213
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-87",
+          "selectionId": "87",
+          "titleAr": "الرقية الشرعية المطولة",
+          "titleEn": "Extended Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r10.mp3",
+          "duration": 4614,
+          "sizeBytes": 18462015,
+          "valid": true,
+          "listens": 1252049,
+          "likes": 59,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/87"
+        },
+        {
+          "id": "tvq-936",
+          "selectionId": "936",
+          "titleAr": "الرقية الشرعية المختصرة",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/90/590e55428f3e2.mp3",
+          "duration": 1080,
+          "sizeBytes": 8828312,
+          "valid": true,
+          "listens": 325285,
+          "likes": 22,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/936"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "slug": "%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A",
+      "name": {
+        "ar": "ياسر الدوسري",
+        "en": "Yasser Al-Dosari"
+      },
+      "bio": {
+        "ar": "ياسر الدوسري قارئ من السعودية. من مواليد سنة 1400 هـ الموافق ل 1980 م بمحافظة الخرج.\n تتلمذ القارئ ياسر الدوسري على عدد من القراء كالشيخ بكري الطرابيشي صاحب أعلى إسناد في العالم، و الشيخ أحمد خليل شاهين و على الشيخ إبراهيم الأخضر.\n ياسر الدوسري حاصل على شهادة البكالوريوس من كلية الشريعة في جامعة الإمام محمد بن سعود الإسلامية، ثم على درجة الماجستير في الفقه المقارن من المعهد العالي للقضاء، أتبعها بشهادة الدكتوراة بقسم الفقه المقارن بنفس المعهد.\n تم تعيين القارئ ياسر الدوسري إماما مشارك بالمسجد الحرام في رمضان 1436 هـ، كما أنه إمام وخطيب بأحد مساجد مدينة الرياض.",
+        "en": null
+      },
+      "image": "/images/scholars/94.jpg",
+      "stats": {
+        "recordings": 133,
+        "listens": 18641267,
+        "likes": 1318
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-79",
+          "selectionId": "79",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r01.mp3",
+          "duration": 3670,
+          "sizeBytes": 14697247,
+          "valid": true,
+          "listens": 1128184,
+          "likes": 58,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/79"
+        },
+        {
+          "id": "tvq-941",
+          "selectionId": "941",
+          "titleAr": "الرقية الشرعية (المختصرة)",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/94/590e5924c72e9.mp3",
+          "duration": 1507,
+          "sizeBytes": 12240740,
+          "valid": true,
+          "listens": 442813,
+          "likes": 24,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/941"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "slug": "%D8%B3%D8%B9%D8%AF-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A",
+      "name": {
+        "ar": "سعد الغامدي",
+        "en": "Saad Al-Ghamdi"
+      },
+      "bio": {
+        "ar": "سعد الغامدي قارئ من السعودية، ولد القارئ سعد الغامدي سنة 1387 هـ الموافق ل 1967م.\n القارئ سعد الغامدي حاصل إجازة الإسناد برواية حفص عن عاصم. وقد تم تعيينه إمام مشارك في صلاة التراويح بالمسجد النبوي القارئ سنة 1430هـ.",
+        "en": null
+      },
+      "image": "/images/scholars/27.jpg",
+      "stats": {
+        "recordings": 120,
+        "listens": 19834401,
+        "likes": 658
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-84",
+          "selectionId": "84",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r06.mp3",
+          "duration": 3299,
+          "sizeBytes": 26579904,
+          "valid": true,
+          "listens": 1518094,
+          "likes": 69,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/84"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%AC%D9%85%D9%8A",
+      "name": {
+        "ar": "أحمد العجمي",
+        "en": "Ahmed Al-Ajmi"
+      },
+      "bio": {
+        "ar": "أحمد العجمي قارئ من السعودية، وقد ولد عام 1968 بمدينة الخبر. حصل الشيخ أحمد العجمي على شهادة البكالوريوس من قسم الشريعة من جامعة الإمام محمد بن سعود الإسلامية بمحافظة الأحساء، ثم تمكن القارئ أحمد العجمي من الحصول على شهادة الماجستير من جامعة لاهور في باكستان و أتبعها بشهادة الدكتوراه.\n يعد القارئ أحمد العجمي من بين مشاهير القراء ويصلي حاليا التراويح في رمضان بأحد مساجد مدينة جدة.",
+        "en": null
+      },
+      "image": "/images/scholars/3.jpg",
+      "stats": {
+        "recordings": 126,
+        "listens": 17630500,
+        "likes": 718
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-83",
+          "selectionId": "83",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r05.mp3",
+          "duration": 3748,
+          "sizeBytes": 15010066,
+          "valid": true,
+          "listens": 1133094,
+          "likes": 57,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/83"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "slug": "%D9%85%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%82%D9%84%D9%8A",
+      "name": {
+        "ar": "ماهر المعيقلي",
+        "en": "Maher Al-Muaiqly"
+      },
+      "bio": {
+        "ar": "ماهر المعيقلي قارئ من السعودية من مواليد سنة 1969، بعد رحلة طويلة من طلب العلم حصل القارئ ماهر المعيقلي على شهادة الدكتوراة من كلية الشريعة بجامعة أم القرى، ثم عمل محاضرا بنفس الجامعة.\n تم تعيين القارئ ماهر المعيقلي إماما بالمسجد النبوي لينتقل بعد ذلك إلى إمامة الحرم المكي سنة 1428 هـ.",
+        "en": null
+      },
+      "image": "/images/scholars/68.jpg",
+      "stats": {
+        "recordings": 163,
+        "listens": 30192603,
+        "likes": 851
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-945",
+          "selectionId": "945",
+          "titleAr": "الرقية الشرعية (المطولة)",
+          "titleEn": "Extended Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/68/590e615aa1d3f.mp3",
+          "duration": 3965,
+          "sizeBytes": 31909302,
+          "valid": true,
+          "listens": 746214,
+          "likes": 33,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/945"
+        },
+        {
+          "id": "tvq-937",
+          "selectionId": "937",
+          "titleAr": "الرقية الشرعية المختصرة",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/68/590e568692a63.mp3",
+          "duration": 867,
+          "sizeBytes": 7119725,
+          "valid": true,
+          "listens": 382939,
+          "likes": 20,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/937"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "slug": "%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D9%87%D8%AF",
+      "name": {
+        "ar": "أحمد البليهد",
+        "en": "Ahmed Al-Bulaihed"
+      },
+      "bio": {
+        "ar": "أحمد بن سعود بن عبد الله البليهد من المملكة العربية السعودية ويعمل كموظف حكومي. لدى أحمد البلهيد الكثير من الدورات التطويرية التي لها علاقة بالطب البديل والرقية الشرعية من الكتاب والسنة. كما يتوفر على تسجيل للرقية الشرعية في موقع تي في قرآن.",
+        "en": null
+      },
+      "image": "/images/scholars/102.jpg",
+      "stats": {
+        "recordings": 1,
+        "listens": 775250,
+        "likes": 37
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-80",
+          "selectionId": "80",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r02.mp3",
+          "duration": 1949,
+          "sizeBytes": 15599493,
+          "valid": true,
+          "listens": 775250,
+          "likes": 37,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/80"
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "slug": "%D9%86%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%B6%D9%8A",
+      "name": {
+        "ar": "نبيل العوضي",
+        "en": "Nabil Al-Awadi"
+      },
+      "bio": {
+        "ar": "نبيل العوضي",
+        "en": null
+      },
+      "image": "/images/scholars/125.jpg",
+      "stats": {
+        "recordings": 2,
+        "listens": 1208655,
+        "likes": 96
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-82",
+          "selectionId": "82",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r04.mp3",
+          "duration": 3110,
+          "sizeBytes": 12456544,
+          "valid": true,
+          "listens": 710759,
+          "likes": 44,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/82"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "slug": "%D9%81%D8%A7%D8%B1%D8%B3-%D8%B9%D8%A8%D8%A7%D8%AF",
+      "name": {
+        "ar": "فارس عباد",
+        "en": "Fares Abbad"
+      },
+      "bio": {
+        "ar": "فارس عباد قارئ من اليمن، من مواليد سنة سنة 1980. حفظ الشيخ فارس عباد القرآن الكريم من خلال حلقات التحفيظ بمسجد بلال بن رباح بصنعاء.\n يعمل القارئ فارس عباد حاليا كمقرئ بقناة المجد الفضائية للقرآن الكريم، كما للشيخ فارس عباد عدد مهم التسجيلات القرآنية إضافة إلى الرقية الشرعية و الأذكار.",
+        "en": null
+      },
+      "image": "/images/scholars/64.jpg",
+      "stats": {
+        "recordings": 123,
+        "listens": 11697766,
+        "likes": 587
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-946",
+          "selectionId": "946",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/64/590e62138dcdf.mp3",
+          "duration": 3829,
+          "sizeBytes": 30817175,
+          "valid": true,
+          "listens": 697612,
+          "likes": 43,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/946"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A",
+      "name": {
+        "ar": "خالد القحطاني",
+        "en": "Khalid Al-Qahtani"
+      },
+      "bio": {
+        "ar": "خالد القحطاني قارئ من المملكة العربية السعودية، يعمل خالد القحطاني إماما بأحد مساجد مدينة الدمام.",
+        "en": null
+      },
+      "image": "/images/scholars/22.jpg",
+      "stats": {
+        "recordings": 118,
+        "listens": 3262198,
+        "likes": 108
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-81",
+          "selectionId": "81",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/TvQuran.com__Rouqia/TvQuran.com__r03.mp3",
+          "duration": 4322,
+          "sizeBytes": 17304139,
+          "valid": true,
+          "listens": 691100,
+          "likes": 22,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/81"
+        }
+      ]
+    },
+    {
+      "id": "211",
+      "slug": "%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF",
+      "name": {
+        "ar": "ناصر العبيد",
+        "en": "Nasser Al-Obaid"
+      },
+      "bio": {
+        "ar": "ناصر العبيد قارئ من المملكة العربية السعودية، حصل الشيخ ناصر العبيد على إجازة في قراءة شعبة، قراءة ورش، وقراءة حفص. وهو إمام أحد مساجد مدينة الرياض,",
+        "en": null
+      },
+      "image": "/images/scholars/211.jpg",
+      "stats": {
+        "recordings": 10,
+        "listens": 356118,
+        "likes": 12
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-947",
+          "selectionId": "947",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/211/590e66bfb6240.mp3",
+          "duration": 4472,
+          "sizeBytes": 35964969,
+          "valid": true,
+          "listens": 313753,
+          "likes": 12,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/947"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "slug": "%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85",
+      "name": {
+        "ar": "صلاح الهاشم",
+        "en": "Salah Al-Hashem"
+      },
+      "bio": {
+        "ar": "صلاح الهاشم قارئ كويتي ولد سنة 1980 هو أحد أئمة المسجد الكبير في الكويت.\n بدأ حفظ القرآن في سن 12 سنة وكان أول ما حفظ هي سورة مريم، وكان يسمع للشيوخ المصرين محمود خليل الحصري، محمود علي البنا، محمد صديق المنشاوي وحسب قول الشيخ في لقاء له أن هذا ما ساعده على حسن تجويد القرآن.\n بدأ الحفظ على يد الشيخ ناصر العثمان والشيخ عدنان عبد القادر حتى نال الإجازة من الشيخ خميس بن عبد العظيم بسند متصل إلى رسول الله صلى الله عليه وسلم.",
+        "en": null
+      },
+      "image": "/images/scholars/36.jpg",
+      "stats": {
+        "recordings": 122,
+        "listens": 811051,
+        "likes": 22
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-933",
+          "selectionId": "933",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/36/590de86a1bae0.mp3",
+          "duration": 2041,
+          "sizeBytes": 16510938,
+          "valid": true,
+          "listens": 302102,
+          "likes": 14,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/933"
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "slug": "%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D9%86%D8%B2%D9%8A",
+      "name": {
+        "ar": "عمر العنزي",
+        "en": "Omar Al-Anazi"
+      },
+      "bio": {
+        "ar": "عمر أحمد العنزي قارئ من المملكة العربية السعودية.\n يعمل القارئ عمر العنزي إماما بأحد جوامع مطقة حفر الباطن.",
+        "en": null
+      },
+      "image": "/images/scholars/159.jpg",
+      "stats": {
+        "recordings": 4,
+        "listens": 1155058,
+        "likes": 60
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-942",
+          "selectionId": "942",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/159/590e5ae07d3e6.mp3",
+          "duration": 1232,
+          "sizeBytes": 10039797,
+          "valid": true,
+          "listens": 298510,
+          "likes": 11,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/942"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "slug": "%D9%85%D8%A7%D8%AC%D8%AF-%D8%A7%D9%84%D8%B2%D8%A7%D9%85%D9%84",
+      "name": {
+        "ar": "ماجد الزامل",
+        "en": "Majed Al-Zamil"
+      },
+      "bio": {
+        "ar": "ماجد الزامل قارئ من السعودية، يعمل القارئ ماجد الزامل إماما وخطيبا بأحد مساجد مدينة الرياض.",
+        "en": null
+      },
+      "image": "/images/scholars/67.jpg",
+      "stats": {
+        "recordings": 58,
+        "listens": 5254917,
+        "likes": 300
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-939",
+          "selectionId": "939",
+          "titleAr": "الرقية الشرعية المختصرة",
+          "titleEn": "Short Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/67/590e5797ec3b9.mp3",
+          "duration": 983,
+          "sizeBytes": 8051147,
+          "valid": true,
+          "listens": 279730,
+          "likes": 15,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/939"
+        }
+      ]
+    },
+    {
+      "id": "365",
+      "slug": "%D9%88%D8%AD%D9%8A%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D9%8A",
+      "name": {
+        "ar": "وحيد عبد السلام بالي",
+        "en": "Waheed Abdul Salam Bali"
+      },
+      "bio": {
+        "ar": "وحيد عبد السلام بالي قارئ من دولة مصر.",
+        "en": null
+      },
+      "image": "/images/scholars/365.jpg",
+      "stats": {
+        "recordings": 1,
+        "listens": 190239,
+        "likes": 7
+      },
+      "featured": false,
+      "tracks": [
+        {
+          "id": "tvq-3806",
+          "selectionId": "3806",
+          "titleAr": "الرقية الشرعية",
+          "titleEn": "Ruqyah",
+          "url": "https://download.tvquran.com/download/selections/180/5e896b2bdeaab.mp3",
+          "duration": 2072,
+          "sizeBytes": 49839903,
+          "valid": true,
+          "listens": 190239,
+          "likes": 7,
+          "sourceUrl": "https://www.tvquran.com/ar/selection/3806"
+        }
+      ]
+    }
+  ]
+}

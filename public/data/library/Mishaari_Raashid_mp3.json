@@ -1,0 +1,1145 @@
+{
+  "id": "Mishaari_Raashid_mp3",
+  "title": {
+    "ar": "المصحف المرتل كاملاً — مشاري راشد العفاسي",
+    "en": "The Holy Qur'an — Complete Recitation — Mishary Al-Afasy"
+  },
+  "creator": {
+    "ar": "مشاري راشد العفاسي",
+    "en": "Mishary Al-Afasy"
+  },
+  "cover": "/images/library/Mishaari_Raashid_mp3.jpg",
+  "sourceUrl": "https://archive.org/details/Mishaari_Raashid_mp3",
+  "tracks": [
+    {
+      "id": "Mishaari_Raashid_mp3-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/001.mp3",
+      "duration": 52,
+      "surahIndex": 1
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/002.mp3",
+      "duration": 7576,
+      "surahIndex": 2
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/003.mp3",
+      "duration": 4725,
+      "surahIndex": 3
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/004.mp3",
+      "duration": 4797,
+      "surahIndex": 4
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/005.mp3",
+      "duration": 3782,
+      "surahIndex": 5
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/006.mp3",
+      "duration": 4350,
+      "surahIndex": 6
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/007.mp3",
+      "duration": 4995,
+      "surahIndex": 7
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/008.mp3",
+      "duration": 1838,
+      "surahIndex": 8
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/009.mp3",
+      "duration": 3625,
+      "surahIndex": 9
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/010.mp3",
+      "duration": 2713,
+      "surahIndex": 10
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/011.mp3",
+      "duration": 2786,
+      "surahIndex": 11
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/012.mp3",
+      "duration": 2525,
+      "surahIndex": 12
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/013.mp3",
+      "duration": 1231,
+      "surahIndex": 13
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/014.mp3",
+      "duration": 1227,
+      "surahIndex": 14
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/015.mp3",
+      "duration": 955,
+      "surahIndex": 15
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/016.mp3",
+      "duration": 2544,
+      "surahIndex": 16
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/017.mp3",
+      "duration": 1997,
+      "surahIndex": 17
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/018.mp3",
+      "duration": 2010,
+      "surahIndex": 18
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/019.mp3",
+      "duration": 1283,
+      "surahIndex": 19
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/020.mp3",
+      "duration": 1628,
+      "surahIndex": 20
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/021.mp3",
+      "duration": 1585,
+      "surahIndex": 21
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/022.mp3",
+      "duration": 1773,
+      "surahIndex": 22
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/023.mp3",
+      "duration": 1500,
+      "surahIndex": 23
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/024.mp3",
+      "duration": 1841,
+      "surahIndex": 24
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/025.mp3",
+      "duration": 1102,
+      "surahIndex": 25
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/026.mp3",
+      "duration": 1847,
+      "surahIndex": 26
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/027.mp3",
+      "duration": 1572,
+      "surahIndex": 27
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/028.mp3",
+      "duration": 1904,
+      "surahIndex": 28
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/029.mp3",
+      "duration": 1285,
+      "surahIndex": 29
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/030.mp3",
+      "duration": 1171,
+      "surahIndex": 30
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/031.mp3",
+      "duration": 715,
+      "surahIndex": 31
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/032.mp3",
+      "duration": 524,
+      "surahIndex": 32
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/033.mp3",
+      "duration": 1757,
+      "surahIndex": 33
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/034.mp3",
+      "duration": 1143,
+      "surahIndex": 34
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/035.mp3",
+      "duration": 1057,
+      "surahIndex": 35
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/036.mp3",
+      "duration": 1060,
+      "surahIndex": 36
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/037.mp3",
+      "duration": 1464,
+      "surahIndex": 37
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/038.mp3",
+      "duration": 1070,
+      "surahIndex": 38
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/039.mp3",
+      "duration": 1630,
+      "surahIndex": 39
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/040.mp3",
+      "duration": 1582,
+      "surahIndex": 40
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/041.mp3",
+      "duration": 1161,
+      "surahIndex": 41
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/042.mp3",
+      "duration": 1170,
+      "surahIndex": 42
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/043.mp3",
+      "duration": 1228,
+      "surahIndex": 43
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/044.mp3",
+      "duration": 592,
+      "surahIndex": 44
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/045.mp3",
+      "duration": 651,
+      "surahIndex": 45
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/046.mp3",
+      "duration": 958,
+      "surahIndex": 46
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/047.mp3",
+      "duration": 738,
+      "surahIndex": 47
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/048.mp3",
+      "duration": 722,
+      "surahIndex": 48
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/049.mp3",
+      "duration": 516,
+      "surahIndex": 49
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/050.mp3",
+      "duration": 560,
+      "surahIndex": 50
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/051.mp3",
+      "duration": 545,
+      "surahIndex": 51
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/052.mp3",
+      "duration": 485,
+      "surahIndex": 52
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/053.mp3",
+      "duration": 461,
+      "surahIndex": 53
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/054.mp3",
+      "duration": 483,
+      "surahIndex": 54
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/055.mp3",
+      "duration": 679,
+      "surahIndex": 55
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/056.mp3",
+      "duration": 717,
+      "surahIndex": 56
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/057.mp3",
+      "duration": 823,
+      "surahIndex": 57
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/058.mp3",
+      "duration": 613,
+      "surahIndex": 58
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/059.mp3",
+      "duration": 627,
+      "surahIndex": 59
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/060.mp3",
+      "duration": 452,
+      "surahIndex": 60
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/061.mp3",
+      "duration": 293,
+      "surahIndex": 61
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/062.mp3",
+      "duration": 214,
+      "surahIndex": 62
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/063.mp3",
+      "duration": 258,
+      "surahIndex": 63
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/064.mp3",
+      "duration": 325,
+      "surahIndex": 64
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/065.mp3",
+      "duration": 361,
+      "surahIndex": 65
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/066.mp3",
+      "duration": 372,
+      "surahIndex": 66
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/067.mp3",
+      "duration": 456,
+      "surahIndex": 67
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/068.mp3",
+      "duration": 456,
+      "surahIndex": 68
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/069.mp3",
+      "duration": 406,
+      "surahIndex": 69
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/070.mp3",
+      "duration": 318,
+      "surahIndex": 70
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/071.mp3",
+      "duration": 281,
+      "surahIndex": 71
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/072.mp3",
+      "duration": 335,
+      "surahIndex": 72
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/073.mp3",
+      "duration": 244,
+      "surahIndex": 73
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/074.mp3",
+      "duration": 325,
+      "surahIndex": 74
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/075.mp3",
+      "duration": 212,
+      "surahIndex": 75
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/076.mp3",
+      "duration": 315,
+      "surahIndex": 76
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/077.mp3",
+      "duration": 299,
+      "surahIndex": 77
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/078.mp3",
+      "duration": 293,
+      "surahIndex": 78
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/079.mp3",
+      "duration": 257,
+      "surahIndex": 79
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/080.mp3",
+      "duration": 221,
+      "surahIndex": 80
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/081.mp3",
+      "duration": 158,
+      "surahIndex": 81
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/082.mp3",
+      "duration": 137,
+      "surahIndex": 82
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/083.mp3",
+      "duration": 311,
+      "surahIndex": 83
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/084.mp3",
+      "duration": 160,
+      "surahIndex": 84
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/085.mp3",
+      "duration": 198,
+      "surahIndex": 85
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/086.mp3",
+      "duration": 100,
+      "surahIndex": 86
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/087.mp3",
+      "duration": 108,
+      "surahIndex": 87
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/088.mp3",
+      "duration": 134,
+      "surahIndex": 88
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/089.mp3",
+      "duration": 213,
+      "surahIndex": 89
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/090.mp3",
+      "duration": 120,
+      "surahIndex": 90
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/091.mp3",
+      "duration": 85,
+      "surahIndex": 91
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/092.mp3",
+      "duration": 112,
+      "surahIndex": 92
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/093.mp3",
+      "duration": 65,
+      "surahIndex": 93
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/094.mp3",
+      "duration": 43,
+      "surahIndex": 94
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/095.mp3",
+      "duration": 65,
+      "surahIndex": 95
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/096.mp3",
+      "duration": 95,
+      "surahIndex": 96
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/097.mp3",
+      "duration": 45,
+      "surahIndex": 97
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/098.mp3",
+      "duration": 127,
+      "surahIndex": 98
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/099.mp3",
+      "duration": 60,
+      "surahIndex": 99
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/100.mp3",
+      "duration": 70,
+      "surahIndex": 100
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/101.mp3",
+      "duration": 63,
+      "surahIndex": 101
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/102.mp3",
+      "duration": 63,
+      "surahIndex": 102
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/103.mp3",
+      "duration": 28,
+      "surahIndex": 103
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/104.mp3",
+      "duration": 58,
+      "surahIndex": 104
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/105.mp3",
+      "duration": 49,
+      "surahIndex": 105
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/106.mp3",
+      "duration": 43,
+      "surahIndex": 106
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/107.mp3",
+      "duration": 58,
+      "surahIndex": 107
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/108.mp3",
+      "duration": 25,
+      "surahIndex": 108
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/109.mp3",
+      "duration": 55,
+      "surahIndex": 109
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/110.mp3",
+      "duration": 35,
+      "surahIndex": 110
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/111.mp3",
+      "duration": 42,
+      "surahIndex": 111
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/112.mp3",
+      "duration": 22,
+      "surahIndex": 112
+    },
+    {
+      "id": "Mishaari_Raashid_mp3-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Mishaari_Raashid_mp3/113.mp3",
+      "duration": 33,
+      "surahIndex": 113
+    }
+  ]
+}

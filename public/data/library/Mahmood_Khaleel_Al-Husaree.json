@@ -1,0 +1,1155 @@
+{
+  "id": "Mahmood_Khaleel_Al-Husaree",
+  "title": {
+    "ar": "المصحف المرتل — محمود خليل الحصري",
+    "en": "The Holy Qur'an — Murattal — Mahmoud Khalil Al-Husary"
+  },
+  "creator": {
+    "ar": "محمود خليل الحصري",
+    "en": "Mahmoud Khalil Al-Husary"
+  },
+  "cover": "/images/library/Mahmood_Khaleel_Al-Husaree.jpg",
+  "sourceUrl": "https://archive.org/details/Mahmood_Khaleel_Al-Husaree",
+  "tracks": [
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/001.mp3",
+      "duration": 57,
+      "surahIndex": 1
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/002.mp3",
+      "duration": 11957,
+      "surahIndex": 2
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/003.mp3",
+      "duration": 6888,
+      "surahIndex": 3
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/004.mp3",
+      "duration": 6902,
+      "surahIndex": 4
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/005.mp3",
+      "duration": 5557,
+      "surahIndex": 5
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/006.mp3",
+      "duration": 6276,
+      "surahIndex": 6
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/007.mp3",
+      "duration": 6476,
+      "surahIndex": 7
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/008.mp3",
+      "duration": 2501,
+      "surahIndex": 8
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/009.mp3",
+      "duration": 5185,
+      "surahIndex": 9
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/010.mp3",
+      "duration": 3567,
+      "surahIndex": 10
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/011.mp3",
+      "duration": 3303,
+      "surahIndex": 11
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/012.mp3",
+      "duration": 3430,
+      "surahIndex": 12
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/013.mp3",
+      "duration": 1634,
+      "surahIndex": 13
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/014.mp3",
+      "duration": 1656,
+      "surahIndex": 14
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/015.mp3",
+      "duration": 1361,
+      "surahIndex": 15
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/016.mp3",
+      "duration": 3498,
+      "surahIndex": 16
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/017.mp3",
+      "duration": 3021,
+      "surahIndex": 17
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/018.mp3",
+      "duration": 2869,
+      "surahIndex": 18
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/019.mp3",
+      "duration": 1485,
+      "surahIndex": 19
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/020.mp3",
+      "duration": 2305,
+      "surahIndex": 20
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/021.mp3",
+      "duration": 2209,
+      "surahIndex": 21
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/022.mp3",
+      "duration": 2534,
+      "surahIndex": 22
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/023.mp3",
+      "duration": 2129,
+      "surahIndex": 23
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/024.mp3",
+      "duration": 2679,
+      "surahIndex": 24
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/025.mp3",
+      "duration": 1759,
+      "surahIndex": 25
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/026.mp3",
+      "duration": 2977,
+      "surahIndex": 26
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/027.mp3",
+      "duration": 2561,
+      "surahIndex": 27
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/028.mp3",
+      "duration": 3152,
+      "surahIndex": 28
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/029.mp3",
+      "duration": 2044,
+      "surahIndex": 29
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/030.mp3",
+      "duration": 1727,
+      "surahIndex": 30
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/031.mp3",
+      "duration": 1144,
+      "surahIndex": 31
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/032.mp3",
+      "duration": 827,
+      "surahIndex": 32
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/033.mp3",
+      "duration": 2430,
+      "surahIndex": 33
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/034.mp3",
+      "duration": 1476,
+      "surahIndex": 34
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/035.mp3",
+      "duration": 1428,
+      "surahIndex": 35
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/036.mp3",
+      "duration": 1431,
+      "surahIndex": 36
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/037.mp3",
+      "duration": 2065,
+      "surahIndex": 37
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/038.mp3",
+      "duration": 1520,
+      "surahIndex": 38
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/039.mp3",
+      "duration": 2322,
+      "surahIndex": 39
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/040.mp3",
+      "duration": 2348,
+      "surahIndex": 40
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/041.mp3",
+      "duration": 1490,
+      "surahIndex": 41
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/042.mp3",
+      "duration": 1716,
+      "surahIndex": 42
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/043.mp3",
+      "duration": 1876,
+      "surahIndex": 43
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/044.mp3",
+      "duration": 840,
+      "surahIndex": 44
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/045.mp3",
+      "duration": 1072,
+      "surahIndex": 45
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/046.mp3",
+      "duration": 1154,
+      "surahIndex": 46
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/047.mp3",
+      "duration": 1092,
+      "surahIndex": 47
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/048.mp3",
+      "duration": 1026,
+      "surahIndex": 48
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/049.mp3",
+      "duration": 779,
+      "surahIndex": 49
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/050.mp3",
+      "duration": 791,
+      "surahIndex": 50
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/051.mp3",
+      "duration": 687,
+      "surahIndex": 51
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/052.mp3",
+      "duration": 598,
+      "surahIndex": 52
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/053.mp3",
+      "duration": 686,
+      "surahIndex": 53
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/054.mp3",
+      "duration": 732,
+      "surahIndex": 54
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/055.mp3",
+      "duration": 1030,
+      "surahIndex": 55
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/056.mp3",
+      "duration": 996,
+      "surahIndex": 56
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/057.mp3",
+      "duration": 1109,
+      "surahIndex": 57
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/058.mp3",
+      "duration": 1000,
+      "surahIndex": 58
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/059.mp3",
+      "duration": 842,
+      "surahIndex": 59
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/060.mp3",
+      "duration": 606,
+      "surahIndex": 60
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/061.mp3",
+      "duration": 423,
+      "surahIndex": 61
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/062.mp3",
+      "duration": 328,
+      "surahIndex": 62
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/063.mp3",
+      "duration": 390,
+      "surahIndex": 63
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/064.mp3",
+      "duration": 507,
+      "surahIndex": 64
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/065.mp3",
+      "duration": 543,
+      "surahIndex": 65
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/066.mp3",
+      "duration": 579,
+      "surahIndex": 66
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/067.mp3",
+      "duration": 673,
+      "surahIndex": 67
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/068.mp3",
+      "duration": 680,
+      "surahIndex": 68
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/069.mp3",
+      "duration": 480,
+      "surahIndex": 69
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/070.mp3",
+      "duration": 434,
+      "surahIndex": 70
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/071.mp3",
+      "duration": 420,
+      "surahIndex": 71
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/072.mp3",
+      "duration": 515,
+      "surahIndex": 72
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/073.mp3",
+      "duration": 384,
+      "surahIndex": 73
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/074.mp3",
+      "duration": 444,
+      "surahIndex": 74
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/075.mp3",
+      "duration": 304,
+      "surahIndex": 75
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/076.mp3",
+      "duration": 525,
+      "surahIndex": 76
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/077.mp3",
+      "duration": 447,
+      "surahIndex": 77
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/078.mp3",
+      "duration": 404,
+      "surahIndex": 78
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/079.mp3",
+      "duration": 401,
+      "surahIndex": 79
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/080.mp3",
+      "duration": 283,
+      "surahIndex": 80
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/081.mp3",
+      "duration": 215,
+      "surahIndex": 81
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/082.mp3",
+      "duration": 180,
+      "surahIndex": 82
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/083.mp3",
+      "duration": 407,
+      "surahIndex": 83
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/084.mp3",
+      "duration": 235,
+      "surahIndex": 84
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/085.mp3",
+      "duration": 242,
+      "surahIndex": 85
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/086.mp3",
+      "duration": 137,
+      "surahIndex": 86
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/087.mp3",
+      "duration": 162,
+      "surahIndex": 87
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/088.mp3",
+      "duration": 220,
+      "surahIndex": 88
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/089.mp3",
+      "duration": 325,
+      "surahIndex": 89
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/090.mp3",
+      "duration": 183,
+      "surahIndex": 90
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/091.mp3",
+      "duration": 126,
+      "surahIndex": 91
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/092.mp3",
+      "duration": 166,
+      "surahIndex": 92
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/093.mp3",
+      "duration": 94,
+      "surahIndex": 93
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/094.mp3",
+      "duration": 63,
+      "surahIndex": 94
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/095.mp3",
+      "duration": 84,
+      "surahIndex": 95
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/096.mp3",
+      "duration": 156,
+      "surahIndex": 96
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/097.mp3",
+      "duration": 67,
+      "surahIndex": 97
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/098.mp3",
+      "duration": 188,
+      "surahIndex": 98
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/099.mp3",
+      "duration": 89,
+      "surahIndex": 99
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/100.mp3",
+      "duration": 95,
+      "surahIndex": 100
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/101.mp3",
+      "duration": 90,
+      "surahIndex": 101
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/102.mp3",
+      "duration": 73,
+      "surahIndex": 102
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/103.mp3",
+      "duration": 40,
+      "surahIndex": 103
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/104.mp3",
+      "duration": 79,
+      "surahIndex": 104
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/105.mp3",
+      "duration": 58,
+      "surahIndex": 105
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/106.mp3",
+      "duration": 50,
+      "surahIndex": 106
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/107.mp3",
+      "duration": 68,
+      "surahIndex": 107
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/108.mp3",
+      "duration": 33,
+      "surahIndex": 108
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/109.mp3",
+      "duration": 65,
+      "surahIndex": 109
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/110.mp3",
+      "duration": 49,
+      "surahIndex": 110
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/111.mp3",
+      "duration": 54,
+      "surahIndex": 111
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/112.mp3",
+      "duration": 35,
+      "surahIndex": 112
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/113.mp3",
+      "duration": 48,
+      "surahIndex": 113
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Mahmood_Khaleel_Al-Husaree/114.mp3",
+      "duration": 57,
+      "surahIndex": 114
+    }
+  ]
+}

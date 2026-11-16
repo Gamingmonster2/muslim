@@ -1,0 +1,1155 @@
+{
+  "id": "Ibrahim_Al-Akhdar",
+  "title": {
+    "ar": "المصحف المرتل — إبراهيم الأخضر",
+    "en": "The Holy Qur'an — Murattal — Ibrahim Al-Akhdar"
+  },
+  "creator": {
+    "ar": "إبراهيم الأخضر",
+    "en": "Ibrahim Al-Akhdar"
+  },
+  "cover": "/images/library/Ibrahim_Al-Akhdar.jpg",
+  "sourceUrl": "https://archive.org/details/Ibrahim_Al-Akhdar",
+  "tracks": [
+    {
+      "id": "Ibrahim_Al-Akhdar-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/001.mp3",
+      "duration": 63,
+      "surahIndex": 1
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/002.mp3",
+      "duration": 9437,
+      "surahIndex": 2
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/003.mp3",
+      "duration": 5478,
+      "surahIndex": 3
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/004.mp3",
+      "duration": 5439,
+      "surahIndex": 4
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/005.mp3",
+      "duration": 4208,
+      "surahIndex": 5
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/006.mp3",
+      "duration": 4642,
+      "surahIndex": 6
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/007.mp3",
+      "duration": 5097,
+      "surahIndex": 7
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/008.mp3",
+      "duration": 1914,
+      "surahIndex": 8
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/009.mp3",
+      "duration": 3753,
+      "surahIndex": 9
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/010.mp3",
+      "duration": 2766,
+      "surahIndex": 10
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/011.mp3",
+      "duration": 2888,
+      "surahIndex": 11
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/012.mp3",
+      "duration": 2735,
+      "surahIndex": 12
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/013.mp3",
+      "duration": 1302,
+      "surahIndex": 13
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/014.mp3",
+      "duration": 1302,
+      "surahIndex": 14
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/015.mp3",
+      "duration": 1146,
+      "surahIndex": 15
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/016.mp3",
+      "duration": 2811,
+      "surahIndex": 16
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/017.mp3",
+      "duration": 2147,
+      "surahIndex": 17
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/018.mp3",
+      "duration": 2264,
+      "surahIndex": 18
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/019.mp3",
+      "duration": 1381,
+      "surahIndex": 19
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/020.mp3",
+      "duration": 1845,
+      "surahIndex": 20
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/021.mp3",
+      "duration": 1955,
+      "surahIndex": 21
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/022.mp3",
+      "duration": 1932,
+      "surahIndex": 22
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/023.mp3",
+      "duration": 1799,
+      "surahIndex": 23
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/024.mp3",
+      "duration": 2122,
+      "surahIndex": 24
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/025.mp3",
+      "duration": 1284,
+      "surahIndex": 25
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/026.mp3",
+      "duration": 2392,
+      "surahIndex": 26
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/027.mp3",
+      "duration": 1884,
+      "surahIndex": 27
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/028.mp3",
+      "duration": 2219,
+      "surahIndex": 28
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/029.mp3",
+      "duration": 1547,
+      "surahIndex": 29
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/030.mp3",
+      "duration": 1315,
+      "surahIndex": 30
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/031.mp3",
+      "duration": 825,
+      "surahIndex": 31
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/032.mp3",
+      "duration": 603,
+      "surahIndex": 32
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/033.mp3",
+      "duration": 1974,
+      "surahIndex": 33
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/034.mp3",
+      "duration": 1320,
+      "surahIndex": 34
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/035.mp3",
+      "duration": 1230,
+      "surahIndex": 35
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/036.mp3",
+      "duration": 1243,
+      "surahIndex": 36
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/037.mp3",
+      "duration": 1675,
+      "surahIndex": 37
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/038.mp3",
+      "duration": 1276,
+      "surahIndex": 38
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/039.mp3",
+      "duration": 1826,
+      "surahIndex": 39
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/040.mp3",
+      "duration": 1875,
+      "surahIndex": 40
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/041.mp3",
+      "duration": 1259,
+      "surahIndex": 41
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/042.mp3",
+      "duration": 1321,
+      "surahIndex": 42
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/043.mp3",
+      "duration": 1392,
+      "surahIndex": 43
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/044.mp3",
+      "duration": 645,
+      "surahIndex": 44
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/045.mp3",
+      "duration": 726,
+      "surahIndex": 45
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/046.mp3",
+      "duration": 952,
+      "surahIndex": 46
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/047.mp3",
+      "duration": 805,
+      "surahIndex": 47
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/048.mp3",
+      "duration": 779,
+      "surahIndex": 48
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/049.mp3",
+      "duration": 552,
+      "surahIndex": 49
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/050.mp3",
+      "duration": 567,
+      "surahIndex": 50
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/051.mp3",
+      "duration": 586,
+      "surahIndex": 51
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/052.mp3",
+      "duration": 530,
+      "surahIndex": 52
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/053.mp3",
+      "duration": 514,
+      "surahIndex": 53
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/054.mp3",
+      "duration": 533,
+      "surahIndex": 54
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/055.mp3",
+      "duration": 747,
+      "surahIndex": 55
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/056.mp3",
+      "duration": 766,
+      "surahIndex": 56
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/057.mp3",
+      "duration": 854,
+      "surahIndex": 57
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/058.mp3",
+      "duration": 739,
+      "surahIndex": 58
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/059.mp3",
+      "duration": 673,
+      "surahIndex": 59
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/060.mp3",
+      "duration": 563,
+      "surahIndex": 60
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/061.mp3",
+      "duration": 345,
+      "surahIndex": 61
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/062.mp3",
+      "duration": 264,
+      "surahIndex": 62
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/063.mp3",
+      "duration": 294,
+      "surahIndex": 63
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/064.mp3",
+      "duration": 378,
+      "surahIndex": 64
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/065.mp3",
+      "duration": 427,
+      "surahIndex": 65
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/066.mp3",
+      "duration": 401,
+      "surahIndex": 66
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/067.mp3",
+      "duration": 504,
+      "surahIndex": 67
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/068.mp3",
+      "duration": 528,
+      "surahIndex": 68
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/069.mp3",
+      "duration": 456,
+      "surahIndex": 69
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/070.mp3",
+      "duration": 377,
+      "surahIndex": 70
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/071.mp3",
+      "duration": 345,
+      "surahIndex": 71
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/072.mp3",
+      "duration": 408,
+      "surahIndex": 72
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/073.mp3",
+      "duration": 294,
+      "surahIndex": 73
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/074.mp3",
+      "duration": 412,
+      "surahIndex": 74
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/075.mp3",
+      "duration": 256,
+      "surahIndex": 75
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/076.mp3",
+      "duration": 387,
+      "surahIndex": 76
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/077.mp3",
+      "duration": 358,
+      "surahIndex": 77
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/078.mp3",
+      "duration": 289,
+      "surahIndex": 78
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/079.mp3",
+      "duration": 278,
+      "surahIndex": 79
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/080.mp3",
+      "duration": 246,
+      "surahIndex": 80
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/081.mp3",
+      "duration": 181,
+      "surahIndex": 81
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/082.mp3",
+      "duration": 148,
+      "surahIndex": 82
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/083.mp3",
+      "duration": 334,
+      "surahIndex": 83
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/084.mp3",
+      "duration": 176,
+      "surahIndex": 84
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/085.mp3",
+      "duration": 190,
+      "surahIndex": 85
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/086.mp3",
+      "duration": 105,
+      "surahIndex": 86
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/087.mp3",
+      "duration": 111,
+      "surahIndex": 87
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/088.mp3",
+      "duration": 151,
+      "surahIndex": 88
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/089.mp3",
+      "duration": 233,
+      "surahIndex": 89
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/090.mp3",
+      "duration": 130,
+      "surahIndex": 90
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/091.mp3",
+      "duration": 90,
+      "surahIndex": 91
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/092.mp3",
+      "duration": 121,
+      "surahIndex": 92
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/093.mp3",
+      "duration": 71,
+      "surahIndex": 93
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/094.mp3",
+      "duration": 47,
+      "surahIndex": 94
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/095.mp3",
+      "duration": 67,
+      "surahIndex": 95
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/096.mp3",
+      "duration": 105,
+      "surahIndex": 96
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/097.mp3",
+      "duration": 48,
+      "surahIndex": 97
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/098.mp3",
+      "duration": 134,
+      "surahIndex": 98
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/099.mp3",
+      "duration": 62,
+      "surahIndex": 99
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/100.mp3",
+      "duration": 71,
+      "surahIndex": 100
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/101.mp3",
+      "duration": 68,
+      "surahIndex": 101
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/102.mp3",
+      "duration": 60,
+      "surahIndex": 102
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/103.mp3",
+      "duration": 29,
+      "surahIndex": 103
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/104.mp3",
+      "duration": 60,
+      "surahIndex": 104
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/105.mp3",
+      "duration": 49,
+      "surahIndex": 105
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/106.mp3",
+      "duration": 45,
+      "surahIndex": 106
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/107.mp3",
+      "duration": 57,
+      "surahIndex": 107
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/108.mp3",
+      "duration": 26,
+      "surahIndex": 108
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/109.mp3",
+      "duration": 57,
+      "surahIndex": 109
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/110.mp3",
+      "duration": 36,
+      "surahIndex": 110
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/111.mp3",
+      "duration": 43,
+      "surahIndex": 111
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/112.mp3",
+      "duration": 25,
+      "surahIndex": 112
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/113.mp3",
+      "duration": 36,
+      "surahIndex": 113
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Ibrahim_Al-Akhdar/114.mp3",
+      "duration": 51,
+      "surahIndex": 114
+    }
+  ]
+}

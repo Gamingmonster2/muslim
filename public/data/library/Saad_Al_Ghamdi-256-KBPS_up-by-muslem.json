@@ -1,0 +1,1155 @@
+{
+  "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem",
+  "title": {
+    "ar": "المصحف المرتل (جودة عالية) — سعد الغامدي",
+    "en": "The Holy Qur'an — High Quality — Saad Al-Ghamdi"
+  },
+  "creator": {
+    "ar": "سعد الغامدي",
+    "en": "Saad Al-Ghamdi"
+  },
+  "cover": "/images/library/Saad_Al_Ghamdi-256-KBPS_up-by-muslem.jpg",
+  "sourceUrl": "https://archive.org/details/Saad_Al_Ghamdi-256-KBPS_up-by-muslem",
+  "tracks": [
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/001.mp3",
+      "duration": 46,
+      "surahIndex": 1
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/002.mp3",
+      "duration": 7055,
+      "surahIndex": 2
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/003.mp3",
+      "duration": 3936,
+      "surahIndex": 3
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/004.mp3",
+      "duration": 4388,
+      "surahIndex": 4
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/005.mp3",
+      "duration": 3018,
+      "surahIndex": 5
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/006.mp3",
+      "duration": 3335,
+      "surahIndex": 6
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/007.mp3",
+      "duration": 3855,
+      "surahIndex": 7
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/008.mp3",
+      "duration": 1355,
+      "surahIndex": 8
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/009.mp3",
+      "duration": 2933,
+      "surahIndex": 9
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/010.mp3",
+      "duration": 2121,
+      "surahIndex": 10
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/011.mp3",
+      "duration": 2158,
+      "surahIndex": 11
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/012.mp3",
+      "duration": 1936,
+      "surahIndex": 12
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/013.mp3",
+      "duration": 898,
+      "surahIndex": 13
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/014.mp3",
+      "duration": 1074,
+      "surahIndex": 14
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/015.mp3",
+      "duration": 837,
+      "surahIndex": 15
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/016.mp3",
+      "duration": 2051,
+      "surahIndex": 16
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/017.mp3",
+      "duration": 1741,
+      "surahIndex": 17
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/018.mp3",
+      "duration": 1757,
+      "surahIndex": 18
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/019.mp3",
+      "duration": 1056,
+      "surahIndex": 19
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/020.mp3",
+      "duration": 1362,
+      "surahIndex": 20
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/021.mp3",
+      "duration": 1512,
+      "surahIndex": 21
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/022.mp3",
+      "duration": 1495,
+      "surahIndex": 22
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/023.mp3",
+      "duration": 1319,
+      "surahIndex": 23
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/024.mp3",
+      "duration": 1589,
+      "surahIndex": 24
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/025.mp3",
+      "duration": 998,
+      "surahIndex": 25
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/026.mp3",
+      "duration": 1420,
+      "surahIndex": 26
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/027.mp3",
+      "duration": 1418,
+      "surahIndex": 27
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/028.mp3",
+      "duration": 1484,
+      "surahIndex": 28
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/029.mp3",
+      "duration": 1199,
+      "surahIndex": 29
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/030.mp3",
+      "duration": 888,
+      "surahIndex": 30
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/031.mp3",
+      "duration": 568,
+      "surahIndex": 31
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/032.mp3",
+      "duration": 429,
+      "surahIndex": 32
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/033.mp3",
+      "duration": 1536,
+      "surahIndex": 33
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/034.mp3",
+      "duration": 1018,
+      "surahIndex": 34
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/035.mp3",
+      "duration": 863,
+      "surahIndex": 35
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/036.mp3",
+      "duration": 789,
+      "surahIndex": 36
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/037.mp3",
+      "duration": 1069,
+      "surahIndex": 37
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/038.mp3",
+      "duration": 882,
+      "surahIndex": 38
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/039.mp3",
+      "duration": 1414,
+      "surahIndex": 39
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/040.mp3",
+      "duration": 1336,
+      "surahIndex": 40
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/041.mp3",
+      "duration": 922,
+      "surahIndex": 41
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/042.mp3",
+      "duration": 927,
+      "surahIndex": 42
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/043.mp3",
+      "duration": 1002,
+      "surahIndex": 43
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/044.mp3",
+      "duration": 413,
+      "surahIndex": 44
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/045.mp3",
+      "duration": 540,
+      "surahIndex": 45
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/046.mp3",
+      "duration": 717,
+      "surahIndex": 46
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/047.mp3",
+      "duration": 591,
+      "surahIndex": 47
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/048.mp3",
+      "duration": 622,
+      "surahIndex": 48
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/049.mp3",
+      "duration": 390,
+      "surahIndex": 49
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/050.mp3",
+      "duration": 438,
+      "surahIndex": 50
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/051.mp3",
+      "duration": 416,
+      "surahIndex": 51
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/052.mp3",
+      "duration": 364,
+      "surahIndex": 52
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/053.mp3",
+      "duration": 431,
+      "surahIndex": 53
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/054.mp3",
+      "duration": 397,
+      "surahIndex": 54
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/055.mp3",
+      "duration": 512,
+      "surahIndex": 55
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/056.mp3",
+      "duration": 503,
+      "surahIndex": 56
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/057.mp3",
+      "duration": 676,
+      "surahIndex": 57
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/058.mp3",
+      "duration": 529,
+      "surahIndex": 58
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/059.mp3",
+      "duration": 503,
+      "surahIndex": 59
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/060.mp3",
+      "duration": 419,
+      "surahIndex": 60
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/061.mp3",
+      "duration": 251,
+      "surahIndex": 61
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/062.mp3",
+      "duration": 191,
+      "surahIndex": 62
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/063.mp3",
+      "duration": 200,
+      "surahIndex": 63
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/064.mp3",
+      "duration": 271,
+      "surahIndex": 64
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/065.mp3",
+      "duration": 321,
+      "surahIndex": 65
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/066.mp3",
+      "duration": 291,
+      "surahIndex": 66
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/067.mp3",
+      "duration": 384,
+      "surahIndex": 67
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/068.mp3",
+      "duration": 358,
+      "surahIndex": 68
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/069.mp3",
+      "duration": 331,
+      "surahIndex": 69
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/070.mp3",
+      "duration": 280,
+      "surahIndex": 70
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/071.mp3",
+      "duration": 262,
+      "surahIndex": 71
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/072.mp3",
+      "duration": 305,
+      "surahIndex": 72
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/073.mp3",
+      "duration": 235,
+      "surahIndex": 73
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/074.mp3",
+      "duration": 300,
+      "surahIndex": 74
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/075.mp3",
+      "duration": 181,
+      "surahIndex": 75
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/076.mp3",
+      "duration": 286,
+      "surahIndex": 76
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/077.mp3",
+      "duration": 242,
+      "surahIndex": 77
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/078.mp3",
+      "duration": 239,
+      "surahIndex": 78
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/079.mp3",
+      "duration": 220,
+      "surahIndex": 79
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/080.mp3",
+      "duration": 185,
+      "surahIndex": 80
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/081.mp3",
+      "duration": 124,
+      "surahIndex": 81
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/082.mp3",
+      "duration": 102,
+      "surahIndex": 82
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/083.mp3",
+      "duration": 227,
+      "surahIndex": 83
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/084.mp3",
+      "duration": 127,
+      "surahIndex": 84
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/085.mp3",
+      "duration": 138,
+      "surahIndex": 85
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/086.mp3",
+      "duration": 76,
+      "surahIndex": 86
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/087.mp3",
+      "duration": 81,
+      "surahIndex": 87
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/088.mp3",
+      "duration": 113,
+      "surahIndex": 88
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/089.mp3",
+      "duration": 172,
+      "surahIndex": 89
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/090.mp3",
+      "duration": 95,
+      "surahIndex": 90
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/091.mp3",
+      "duration": 71,
+      "surahIndex": 91
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/092.mp3",
+      "duration": 92,
+      "surahIndex": 92
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/093.mp3",
+      "duration": 53,
+      "surahIndex": 93
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/094.mp3",
+      "duration": 32,
+      "surahIndex": 94
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/095.mp3",
+      "duration": 48,
+      "surahIndex": 95
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/096.mp3",
+      "duration": 81,
+      "surahIndex": 96
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/097.mp3",
+      "duration": 36,
+      "surahIndex": 97
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/098.mp3",
+      "duration": 111,
+      "surahIndex": 98
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/099.mp3",
+      "duration": 47,
+      "surahIndex": 99
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/100.mp3",
+      "duration": 56,
+      "surahIndex": 100
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/101.mp3",
+      "duration": 50,
+      "surahIndex": 101
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/102.mp3",
+      "duration": 43,
+      "surahIndex": 102
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/103.mp3",
+      "duration": 21,
+      "surahIndex": 103
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/104.mp3",
+      "duration": 44,
+      "surahIndex": 104
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/105.mp3",
+      "duration": 32,
+      "surahIndex": 105
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/106.mp3",
+      "duration": 30,
+      "surahIndex": 106
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/107.mp3",
+      "duration": 40,
+      "surahIndex": 107
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/108.mp3",
+      "duration": 17,
+      "surahIndex": 108
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/109.mp3",
+      "duration": 39,
+      "surahIndex": 109
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/110.mp3",
+      "duration": 27,
+      "surahIndex": 110
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/111.mp3",
+      "duration": 31,
+      "surahIndex": 111
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/112.mp3",
+      "duration": 16,
+      "surahIndex": 112
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/113.mp3",
+      "duration": 28,
+      "surahIndex": 113
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Saad_Al_Ghamdi-256-KBPS_up-by-muslem/114.mp3",
+      "duration": 35,
+      "surahIndex": 114
+    }
+  ]
+}

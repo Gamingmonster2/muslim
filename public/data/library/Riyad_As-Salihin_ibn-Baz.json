@@ -1,0 +1,615 @@
+{
+  "id": "Riyad_As-Salihin_ibn-Baz",
+  "title": {
+    "ar": "شرح رياض الصالحين — الشيخ عبد العزيز بن باز",
+    "en": "Explanation of Riyad As-Salihin — Shaykh Abdulaziz Ibn Baz"
+  },
+  "creator": {
+    "ar": "الشيخ عبد العزيز بن باز",
+    "en": "Shaykh Abdulaziz Ibn Baz"
+  },
+  "cover": "/images/library/Riyad_As-Salihin_ibn-Baz.jpg",
+  "sourceUrl": "https://archive.org/details/Riyad_As-Salihin_ibn-Baz",
+  "tracks": [
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_01",
+      "title": {
+        "ar": "01",
+        "en": "01"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_01.mp3",
+      "duration": 4052,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_02",
+      "title": {
+        "ar": "02",
+        "en": "02"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_02.mp3",
+      "duration": 3815,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_03",
+      "title": {
+        "ar": "03",
+        "en": "03"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_03.mp3",
+      "duration": 4660,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_04",
+      "title": {
+        "ar": "04",
+        "en": "04"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_04.mp3",
+      "duration": 4333,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_05",
+      "title": {
+        "ar": "05",
+        "en": "05"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_05.mp3",
+      "duration": 4432,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_06",
+      "title": {
+        "ar": "06",
+        "en": "06"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_06.mp3",
+      "duration": 4566,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_07",
+      "title": {
+        "ar": "07",
+        "en": "07"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_07.mp3",
+      "duration": 4385,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_08",
+      "title": {
+        "ar": "08",
+        "en": "08"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_08.mp3",
+      "duration": 4589,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_09",
+      "title": {
+        "ar": "09",
+        "en": "09"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_09.mp3",
+      "duration": 3858,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_10",
+      "title": {
+        "ar": "10",
+        "en": "10"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_10.mp3",
+      "duration": 3853,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_11",
+      "title": {
+        "ar": "11",
+        "en": "11"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_11.mp3",
+      "duration": 3283,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_12",
+      "title": {
+        "ar": "12",
+        "en": "12"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_12.mp3",
+      "duration": 5605,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_13",
+      "title": {
+        "ar": "13",
+        "en": "13"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_13.mp3",
+      "duration": 4652,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_14",
+      "title": {
+        "ar": "14",
+        "en": "14"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_14.mp3",
+      "duration": 4342,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_15",
+      "title": {
+        "ar": "15",
+        "en": "15"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_15.mp3",
+      "duration": 4133,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_16",
+      "title": {
+        "ar": "16",
+        "en": "16"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_16.mp3",
+      "duration": 4669,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_17",
+      "title": {
+        "ar": "17",
+        "en": "17"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_17.mp3",
+      "duration": 4592,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_18",
+      "title": {
+        "ar": "18",
+        "en": "18"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_18.mp3",
+      "duration": 4410,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_19",
+      "title": {
+        "ar": "19",
+        "en": "19"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_19.mp3",
+      "duration": 4834,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_20",
+      "title": {
+        "ar": "20",
+        "en": "20"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_20.mp3",
+      "duration": 4159,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_21",
+      "title": {
+        "ar": "21",
+        "en": "21"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_21.mp3",
+      "duration": 3606,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_22",
+      "title": {
+        "ar": "22",
+        "en": "22"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_22.mp3",
+      "duration": 5180,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_23",
+      "title": {
+        "ar": "23",
+        "en": "23"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_23.mp3",
+      "duration": 4143,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_24",
+      "title": {
+        "ar": "24",
+        "en": "24"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_24.mp3",
+      "duration": 4669,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_25",
+      "title": {
+        "ar": "25",
+        "en": "25"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_25.mp3",
+      "duration": 3428,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_26",
+      "title": {
+        "ar": "26",
+        "en": "26"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_26.mp3",
+      "duration": 4233,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_27",
+      "title": {
+        "ar": "27",
+        "en": "27"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_27.mp3",
+      "duration": 3751,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_28",
+      "title": {
+        "ar": "28",
+        "en": "28"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_28.mp3",
+      "duration": 3687,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_29",
+      "title": {
+        "ar": "29",
+        "en": "29"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_29.mp3",
+      "duration": 3596,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_30",
+      "title": {
+        "ar": "30",
+        "en": "30"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_30.mp3",
+      "duration": 3718,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_31",
+      "title": {
+        "ar": "31",
+        "en": "31"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_31.mp3",
+      "duration": 3692,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_32",
+      "title": {
+        "ar": "32",
+        "en": "32"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_32.mp3",
+      "duration": 3726,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_33",
+      "title": {
+        "ar": "33",
+        "en": "33"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_33.mp3",
+      "duration": 3620,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_34",
+      "title": {
+        "ar": "34",
+        "en": "34"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_34.mp3",
+      "duration": 5312,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_35",
+      "title": {
+        "ar": "35",
+        "en": "35"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_35.mp3",
+      "duration": 5556,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_36",
+      "title": {
+        "ar": "36",
+        "en": "36"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_36.mp3",
+      "duration": 3248,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_37",
+      "title": {
+        "ar": "37",
+        "en": "37"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_37.mp3",
+      "duration": 3279,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_38",
+      "title": {
+        "ar": "38",
+        "en": "38"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_38.mp3",
+      "duration": 2991,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_39",
+      "title": {
+        "ar": "39",
+        "en": "39"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_39.mp3",
+      "duration": 3340,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_40",
+      "title": {
+        "ar": "40",
+        "en": "40"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_40.mp3",
+      "duration": 2822,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_41",
+      "title": {
+        "ar": "41",
+        "en": "41"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_41.mp3",
+      "duration": 3173,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_42",
+      "title": {
+        "ar": "42",
+        "en": "42"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_42.mp3",
+      "duration": 3089,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_43",
+      "title": {
+        "ar": "43",
+        "en": "43"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_43.mp3",
+      "duration": 3255,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_44",
+      "title": {
+        "ar": "44",
+        "en": "44"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_44.mp3",
+      "duration": 3003,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_45",
+      "title": {
+        "ar": "45",
+        "en": "45"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_45.mp3",
+      "duration": 3027,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_46",
+      "title": {
+        "ar": "46",
+        "en": "46"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_46.mp3",
+      "duration": 2882,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_47",
+      "title": {
+        "ar": "47",
+        "en": "47"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_47.mp3",
+      "duration": 3030,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_48",
+      "title": {
+        "ar": "48",
+        "en": "48"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_48.mp3",
+      "duration": 3316,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_49",
+      "title": {
+        "ar": "49",
+        "en": "49"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_49.mp3",
+      "duration": 3240,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_50",
+      "title": {
+        "ar": "50",
+        "en": "50"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_50.mp3",
+      "duration": 3001,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_51",
+      "title": {
+        "ar": "51",
+        "en": "51"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_51.mp3",
+      "duration": 3174,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_52",
+      "title": {
+        "ar": "52",
+        "en": "52"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_52.mp3",
+      "duration": 2167,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_53",
+      "title": {
+        "ar": "53",
+        "en": "53"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_53.mp3",
+      "duration": 4474,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_54",
+      "title": {
+        "ar": "54",
+        "en": "54"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_54.mp3",
+      "duration": 3537,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_55",
+      "title": {
+        "ar": "55",
+        "en": "55"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_55.mp3",
+      "duration": 3578,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_56",
+      "title": {
+        "ar": "56",
+        "en": "56"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_56.mp3",
+      "duration": 3466,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_57",
+      "title": {
+        "ar": "57",
+        "en": "57"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_57.mp3",
+      "duration": 2926,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_58",
+      "title": {
+        "ar": "58",
+        "en": "58"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_58.mp3",
+      "duration": 2370,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_59",
+      "title": {
+        "ar": "59",
+        "en": "59"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_59.mp3",
+      "duration": 2287,
+      "surahIndex": null
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz-riyad_as-salihin_60",
+      "title": {
+        "ar": "60",
+        "en": "60"
+      },
+      "url": "https://archive.org/download/Riyad_As-Salihin_ibn-Baz/Riyad_as-Salihin_60.mp3",
+      "duration": 3509,
+      "surahIndex": null
+    }
+  ]
+}

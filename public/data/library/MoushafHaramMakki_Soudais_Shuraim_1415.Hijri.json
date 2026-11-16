@@ -1,0 +1,1155 @@
+{
+  "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri",
+  "title": {
+    "ar": "المصحف المكي (1415هـ) — عبد الرحمن السديس وسعود الشريم",
+    "en": "Makkah Recitation (1415 AH) — Abdulrahman Al-Sudais & Saud Al-Shuraim"
+  },
+  "creator": {
+    "ar": "عبد الرحمن السديس وسعود الشريم",
+    "en": "Abdulrahman Al-Sudais & Saud Al-Shuraim"
+  },
+  "cover": "/images/library/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri.jpg",
+  "sourceUrl": "https://archive.org/details/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri",
+  "tracks": [
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-001-al-fatiha",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/001-Al-Fatiha.mp3",
+      "duration": 38,
+      "surahIndex": 1
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-002-al-baqara",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/002-Al-Baqara.mp3",
+      "duration": 5530,
+      "surahIndex": 2
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-003-aal-e-imran",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/003-Aal-E-Imran.mp3",
+      "duration": 3225,
+      "surahIndex": 3
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-004-an-nisa",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/004-An-Nisa.mp3",
+      "duration": 3472,
+      "surahIndex": 4
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-005-al-maeda",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/005-Al-Maeda.mp3",
+      "duration": 2571,
+      "surahIndex": 5
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-006-al-anaam",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/006-Al-Anaam.mp3",
+      "duration": 2735,
+      "surahIndex": 6
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-007-al-aaraf",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/007-Al-Aaraf.mp3",
+      "duration": 2911,
+      "surahIndex": 7
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-008-al-anfal",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/008-Al-Anfal.mp3",
+      "duration": 1202,
+      "surahIndex": 8
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-009-at-tawba",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/009-At-Tawba.mp3",
+      "duration": 2364,
+      "surahIndex": 9
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-010-yunus",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/010-Yunus.mp3",
+      "duration": 1715,
+      "surahIndex": 10
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-011-hud",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/011-Hud.mp3",
+      "duration": 1799,
+      "surahIndex": 11
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-012-yusuf",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/012-Yusuf.mp3",
+      "duration": 1519,
+      "surahIndex": 12
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-013-ar-rad",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/013-Ar-Rad.mp3",
+      "duration": 891,
+      "surahIndex": 13
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-014-ibrahim",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/014-Ibrahim.mp3",
+      "duration": 785,
+      "surahIndex": 14
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-015-al-hijr",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/015-Al-Hijr.mp3",
+      "duration": 596,
+      "surahIndex": 15
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-016-an-nahl",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/016-An-Nahl.mp3",
+      "duration": 1732,
+      "surahIndex": 16
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-017-al-isra",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/017-Al-Isra.mp3",
+      "duration": 1545,
+      "surahIndex": 17
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-018-al-kahf",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/018-Al-Kahf.mp3",
+      "duration": 1358,
+      "surahIndex": 18
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-019-maryam",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/019-Maryam.mp3",
+      "duration": 916,
+      "surahIndex": 19
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-020-ta-ha",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/020-Ta-Ha.mp3",
+      "duration": 1129,
+      "surahIndex": 20
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-021-al-anbiya",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/021-Al-Anbiya.mp3",
+      "duration": 1105,
+      "surahIndex": 21
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-022-al-hajj",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/022-Al-Hajj.mp3",
+      "duration": 1249,
+      "surahIndex": 22
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-023-al-mumenoon",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/023-Al-Mumenoon.mp3",
+      "duration": 979,
+      "surahIndex": 23
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-024-an-noor",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/024-An-Noor.mp3",
+      "duration": 1315,
+      "surahIndex": 24
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-025-al-furqan",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/025-Al-Furqan.mp3",
+      "duration": 820,
+      "surahIndex": 25
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-026-ash-shuara",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/026-Ash-Shuara.mp3",
+      "duration": 1269,
+      "surahIndex": 26
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-027-an-naml",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/027-An-Naml.mp3",
+      "duration": 1028,
+      "surahIndex": 27
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-028-al-qasas",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/028-Al-Qasas.mp3",
+      "duration": 1375,
+      "surahIndex": 28
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-029-al-ankaboot",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/029-Al-Ankaboot.mp3",
+      "duration": 852,
+      "surahIndex": 29
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-030-ar-room",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/030-Ar-Room.mp3",
+      "duration": 798,
+      "surahIndex": 30
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-031-luqman",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/031-Luqman.mp3",
+      "duration": 520,
+      "surahIndex": 31
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-032-as-sajda",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/032-As-Sajda.mp3",
+      "duration": 308,
+      "surahIndex": 32
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-033-al-ahzab",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/033-Al-Ahzab.mp3",
+      "duration": 1330,
+      "surahIndex": 33
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-034-saba",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/034-Saba.mp3",
+      "duration": 783,
+      "surahIndex": 34
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-035-fatir",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/035-Fatir.mp3",
+      "duration": 661,
+      "surahIndex": 35
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-036-ya-seen",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/036-Ya-Seen.mp3",
+      "duration": 793,
+      "surahIndex": 36
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-037-as-saaffat",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/037-As-Saaffat.mp3",
+      "duration": 860,
+      "surahIndex": 37
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-038-sad",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/038-Sad.mp3",
+      "duration": 713,
+      "surahIndex": 38
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-039-az-zumar",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/039-Az-Zumar.mp3",
+      "duration": 1125,
+      "surahIndex": 39
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-040-al-ghafir",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/040-Al-Ghafir.mp3",
+      "duration": 1053,
+      "surahIndex": 40
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-041-fussilat",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/041-Fussilat.mp3",
+      "duration": 823,
+      "surahIndex": 41
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-042-ash-shura",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/042-Ash-Shura.mp3",
+      "duration": 737,
+      "surahIndex": 42
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-043-az-zukhruf",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/043-Az-Zukhruf.mp3",
+      "duration": 866,
+      "surahIndex": 43
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-044-ad-dukhan",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/044-Ad-Dukhan.mp3",
+      "duration": 390,
+      "surahIndex": 44
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-045-al-jathiya",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/045-Al-Jathiya.mp3",
+      "duration": 458,
+      "surahIndex": 45
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-046-al-ahqaf",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/046-Al-Ahqaf.mp3",
+      "duration": 510,
+      "surahIndex": 46
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-047-muhammad",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/047-Muhammad.mp3",
+      "duration": 472,
+      "surahIndex": 47
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-048-al-fath",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/048-Al-Fath.mp3",
+      "duration": 579,
+      "surahIndex": 48
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-049-al-hujraat",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/049-Al-Hujraat.mp3",
+      "duration": 370,
+      "surahIndex": 49
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-050-qaf",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/050-Qaf.mp3",
+      "duration": 441,
+      "surahIndex": 50
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-051-adh-dhariyat",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/051-Adh-Dhariyat.mp3",
+      "duration": 314,
+      "surahIndex": 51
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-052-at-tur",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/052-At-Tur.mp3",
+      "duration": 270,
+      "surahIndex": 52
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-053-an-najm",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/053-An-Najm.mp3",
+      "duration": 377,
+      "surahIndex": 53
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-054-al-qamar",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/054-Al-Qamar.mp3",
+      "duration": 386,
+      "surahIndex": 54
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-055-ar-rahman",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/055-Ar-Rahman.mp3",
+      "duration": 529,
+      "surahIndex": 55
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-056-al-waqia",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/056-Al-Waqia.mp3",
+      "duration": 410,
+      "surahIndex": 56
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-057-al-hadid",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/057-Al-Hadid.mp3",
+      "duration": 497,
+      "surahIndex": 57
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-058-al-mujadila",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/058-Al-Mujadila.mp3",
+      "duration": 436,
+      "surahIndex": 58
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-059-al-hashr",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/059-Al-Hashr.mp3",
+      "duration": 467,
+      "surahIndex": 59
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-060-al-mumtahina",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/060-Al-Mumtahina.mp3",
+      "duration": 368,
+      "surahIndex": 60
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-061-as-saff",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/061-As-Saff.mp3",
+      "duration": 233,
+      "surahIndex": 61
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-062-al-jumua",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/062-Al-Jumua.mp3",
+      "duration": 182,
+      "surahIndex": 62
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-063-al-munafiqoon",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/063-Al-Munafiqoon.mp3",
+      "duration": 165,
+      "surahIndex": 63
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-064-at-taghabun",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/064-At-Taghabun.mp3",
+      "duration": 206,
+      "surahIndex": 64
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-065-at-talaq",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/065-At-Talaq.mp3",
+      "duration": 245,
+      "surahIndex": 65
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-066-at-tahrim",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/066-At-Tahrim.mp3",
+      "duration": 226,
+      "surahIndex": 66
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-067-al-mulk",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/067-Al-Mulk.mp3",
+      "duration": 357,
+      "surahIndex": 67
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-068-al-qalam",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/068-Al-Qalam.mp3",
+      "duration": 330,
+      "surahIndex": 68
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-069-al-haaqqa",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/069-Al-Haaqqa.mp3",
+      "duration": 326,
+      "surahIndex": 69
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-070-al-maarij",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/070-Al-Maarij.mp3",
+      "duration": 199,
+      "surahIndex": 70
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-071-nooh",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/071-Nooh.mp3",
+      "duration": 200,
+      "surahIndex": 71
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-072-al-jinn",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/072-Al-Jinn.mp3",
+      "duration": 229,
+      "surahIndex": 72
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-073-al-muzzammil",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/073-Al-Muzzammil.mp3",
+      "duration": 218,
+      "surahIndex": 73
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-074-al-muddaththir",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/074-Al-Muddaththir.mp3",
+      "duration": 223,
+      "surahIndex": 74
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-075-al-qiyama",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/075-Al-Qiyama.mp3",
+      "duration": 139,
+      "surahIndex": 75
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-076-al-insan",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/076-Al-Insan.mp3",
+      "duration": 221,
+      "surahIndex": 76
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-077-al-mursalat",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/077-Al-Mursalat.mp3",
+      "duration": 224,
+      "surahIndex": 77
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-078-an-naba",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/078-An-Naba.mp3",
+      "duration": 212,
+      "surahIndex": 78
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-079-an-naziat",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/079-An-Naziat.mp3",
+      "duration": 187,
+      "surahIndex": 79
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-080-abasa",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/080-Abasa.mp3",
+      "duration": 155,
+      "surahIndex": 80
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-081-at-takwir",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/081-At-Takwir.mp3",
+      "duration": 107,
+      "surahIndex": 81
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-082-al-infitar",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/082-Al-Infitar.mp3",
+      "duration": 80,
+      "surahIndex": 82
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-083-al-mutaffifin",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/083-Al-Mutaffifin.mp3",
+      "duration": 177,
+      "surahIndex": 83
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-084-al-inshiqaq",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/084-Al-Inshiqaq.mp3",
+      "duration": 111,
+      "surahIndex": 84
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-085-al-burooj",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/085-Al-Burooj.mp3",
+      "duration": 115,
+      "surahIndex": 85
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-086-at-tariq",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/086-At-Tariq.mp3",
+      "duration": 61,
+      "surahIndex": 86
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-087-al-ala",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/087-Al-Ala.mp3",
+      "duration": 66,
+      "surahIndex": 87
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-088-al-ghashiya",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/088-Al-Ghashiya.mp3",
+      "duration": 78,
+      "surahIndex": 88
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-089-al-fajr",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/089-Al-Fajr.mp3",
+      "duration": 129,
+      "surahIndex": 89
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-090-al-balad",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/090-Al-Balad.mp3",
+      "duration": 67,
+      "surahIndex": 90
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-091-ash-shams",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/091-Ash-Shams.mp3",
+      "duration": 53,
+      "surahIndex": 91
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-092-al-lail",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/092-Al-Lail.mp3",
+      "duration": 64,
+      "surahIndex": 92
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-093-ad-dhuha",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/093-Ad-Dhuha.mp3",
+      "duration": 40,
+      "surahIndex": 93
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-094-al-inshirah",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/094-Al-Inshirah.mp3",
+      "duration": 24,
+      "surahIndex": 94
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-095-at-tin",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/095-At-Tin.mp3",
+      "duration": 34,
+      "surahIndex": 95
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-096-al-alaq",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/096-Al-Alaq.mp3",
+      "duration": 59,
+      "surahIndex": 96
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-097-al-qadr",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/097-Al-Qadr.mp3",
+      "duration": 25,
+      "surahIndex": 97
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-098-al-bayyina",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/098-Al-Bayyina.mp3",
+      "duration": 77,
+      "surahIndex": 98
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-099-az-zalzala",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/099-Az-Zalzala.mp3",
+      "duration": 52,
+      "surahIndex": 99
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-100-al-adiyat",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/100-Al-Adiyat.mp3",
+      "duration": 59,
+      "surahIndex": 100
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-101-al-qaria",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/101-Al-Qaria.mp3",
+      "duration": 53,
+      "surahIndex": 101
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-102-at-takathur",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/102-At-Takathur.mp3",
+      "duration": 43,
+      "surahIndex": 102
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-103-al-asr",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/103-Al-Asr.mp3",
+      "duration": 26,
+      "surahIndex": 103
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-104-al-humaza",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/104-Al-Humaza.mp3",
+      "duration": 42,
+      "surahIndex": 104
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-105-al-fil",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/105-Al-Fil.mp3",
+      "duration": 36,
+      "surahIndex": 105
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-106-quraish",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/106-Quraish.mp3",
+      "duration": 31,
+      "surahIndex": 106
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-107-al-maun",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/107-Al-Maun.mp3",
+      "duration": 35,
+      "surahIndex": 107
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-108-al-kauther",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/108-Al-Kauther.mp3",
+      "duration": 17,
+      "surahIndex": 108
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-109-al-kafiroon",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/109-Al-Kafiroon.mp3",
+      "duration": 31,
+      "surahIndex": 109
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-110-an-nasr",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/110-An-Nasr.mp3",
+      "duration": 28,
+      "surahIndex": 110
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-111-al-masadd",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/111-Al-Masadd.mp3",
+      "duration": 30,
+      "surahIndex": 111
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-112-al-ikhlas",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/112-Al-Ikhlas.mp3",
+      "duration": 18,
+      "surahIndex": 112
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-113-al-falaq",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/113-Al-Falaq.mp3",
+      "duration": 26,
+      "surahIndex": 113
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri-114-an-nas",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/MoushafHaramMakki_Soudais_Shuraim_1415.Hijri/114-An-Nas.mp3",
+      "duration": 32,
+      "surahIndex": 114
+    }
+  ]
+}

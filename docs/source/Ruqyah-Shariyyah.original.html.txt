@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>الرقية الشرعية - القران الكريم</title>
+    <meta name="theme-color" content="#f0f4f8">
+    <meta name="description" content="تطبيق الرقية الشرعية للشيخ عصام العويد والشيخ سعود الفايز">
+    
+    <!-- PWA Manifest Simulation -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="الرقية الشرعية">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            /* Cloudy Theme Colors */
+            --bg-cloud-light: #fdfbfb;
+            --bg-cloud-dark: #ebedee;
+            --cloud-blue: #B2D8D8;
+            --cloud-deep: #667eea;
+            
+            /* Luxury Accents */
+            --gold-primary: #D4AF37;
+            --gold-light: #F4E29E;
+            --gold-dark: #AA8C2C;
+            --text-dark: #2C3E50;
+            --text-light: #7F8C8D;
+            
+            /* UI */
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.5);
+            --shadow-soft: 0 10px 30px -10px rgba(0, 0, 0, 0.1);
+            --shadow-luxury: 0 20px 40px -5px rgba(212, 175, 55, 0.25);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        body {
+            font-family: 'Tajawal', sans-serif;
+            background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+            color: var(--text-dark);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* Animated Background Clouds */
+        .bg-shape {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            z-index: -1;
+            opacity: 0.6;
+            animation: float 20s infinite ease-in-out;
+        }
+        .shape-1 { top: -10%; left: -10%; width: 500px; height: 500px; background: var(--cloud-blue); }
+        .shape-2 { bottom: -10%; right: -10%; width: 400px; height: 400px; background: #e0c3fc; animation-delay: -5s; }
+        .shape-3 { top: 40%; left: 30%; width: 300px; height: 300px; background: var(--gold-light); opacity: 0.3; animation-delay: -10s; }
+
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0); }
+            50% { transform: translate(20px, 40px); }
+        }
+
+        /* Header & Install Button */
+        header {
+            width: 100%;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 850px;
+            z-index: 10;
+        }
+
+        .app-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo-icon {
+            width: 45px;
+            height: 45px;
+            background: linear-gradient(135deg, var(--gold-primary), var(--gold-dark));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            box-shadow: var(--shadow-luxury);
+        }
+
+        .app-title h1 {
+            font-family: 'Amiri', serif;
+            font-size: 1.4rem;
+            color: var(--text-dark);
+            margin-bottom: 2px;
+        }
+        .app-title p {
+            font-size: 0.8rem;
+            color: var(--text-light);
+        }
+
+        .install-btn {
+            background: white;
+            border: 1px solid var(--gold-primary);
+            color: var(--gold-dark);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .install-btn:hover {
+            background: var(--gold-primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-luxury);
+        }
+
+        /* Main Content */
+        main {
+            flex: 1;
+            width: 100%;
+            max-width: 850px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            z-index: 5;
+        }
+
+        /* Sheikh Selector Cards */
+        .selector-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 10px;
+        }
+
+        .sheikh-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.8);
+            border-radius: 20px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            box-shadow: var(--shadow-soft);
+        }
+
+        .sheikh-card.active {
+            border-color: var(--gold-primary);
+            background: white;
+            box-shadow: var(--shadow-luxury);
+            transform: scale(1.02);
+        }
+
+        .sheikh-card.active::after {
+            content: '✓';
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: var(--gold-primary);
+            font-weight: bold;
+        }
+
+        .sheikh-avatar {
+            width: 60px;
+            height: 60px;
+            background: #eee;
+            border-radius: 50%;
+            margin: 0 auto 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            background: linear-gradient(to bottom right, #e0eafc, #cfdef3);
+            color: var(--text-dark);
+        }
+        
+        /* New style for the sound icon inside avatar */
+        .sheikh-avatar svg {
+            width: 30px;
+            height: 30px;
+            stroke: var(--text-dark);
+            opacity: 0.7;
+        }
+
+        .sheikh-card.active .sheikh-avatar svg {
+            stroke: var(--gold-dark);
+            opacity: 1;
+        }
+
+        .sheikh-name {
+            font-family: 'Amiri', serif;
+            font-weight: bold;
+            font-size: 1.1rem;
+            color: var(--text-dark);
+        }
+        .sheikh-role {
+            font-size: 0.75rem;
+            color: var(--text-light);
+            margin-top: 4px;
+        }
+
+        /* Iframe Container */
+        .player-wrapper {
+            background: var(--glass-bg);
+            backdrop-filter: blur(15px);
+            border-radius: 30px;
+            padding: 10px;
+            box-shadow: var(--shadow-soft);
+            border: 1px solid rgba(255,255,255,0.6);
+            text-align: center;
+            position: relative;
+            transition: all 0.5s ease;
+            overflow: hidden;
+            min-height: 400px;
+        }
+
+        .iframe-content {
+            display: none;
+            width: 100%;
+            height: 100%;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .iframe-content.active {
+            display: block;
+        }
+
+        /* Responsive Iframe */
+        iframe {
+            width: 100%;
+            max-width: 100%;
+            border-radius: 20px;
+            height: 670px; /* Default height from user code */
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Footer */
+        footer {
+            margin-top: auto;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.8rem;
+            color: var(--text-light);
+        }
+
+        /* SVG Icons */
+        svg { display: block; }
+
+        @media (max-width: 480px) {
+            .selector-container { gap: 10px; }
+            iframe { height: 500px; } /* Adjust height for mobile */
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Background Shapes -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <header>
+        <div class="app-logo">
+            <div class="logo-icon">
+                <!-- Simple Book/Cloud Icon -->
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                </svg>
+            </div>
+            <div class="app-title">
+                <h1>الرقية الشرعية</h1>
+                <p>شفاء ورحمة</p>
+            </div>
+        </div>
+        <button class="install-btn" id="installBtn" onclick="installApp()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="7 10 12 15 17 10"></polyline>
+                <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            تثبيت التطبيق
+        </button>
+    </header>
+
+    <main>
+        <!-- Sheikh Selector -->
+        <div class="selector-container">
+            <!-- Swapped Order: Saud First -->
+            <div class="sheikh-card active" onclick="selectSheikh(0)">
+                <div class="sheikh-avatar">
+                    <!-- Sound Icon -->
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                    </svg>
+                </div>
+                <div class="sheikh-name">سعود الفايز</div>
+                <div class="sheikh-role">قارئ متميز</div>
+            </div>
+
+            <!-- Swapped Order: Essam Second -->
+            <div class="sheikh-card" onclick="selectSheikh(1)">
+                <div class="sheikh-avatar">
+                    <!-- Sound Icon -->
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                    </svg>
+                </div>
+                <div class="sheikh-name">عصام العويد</div>
+                <div class="sheikh-role">داعية - وزارة الشؤون الإسلامية</div>
+            </div>
+        </div>
+
+        <!-- Embedded Players Container -->
+        <div class="player-wrapper" id="playerWrapper">
+            
+            <!-- Swapped Order: Iframe 1 (Saud) First -->
+            <div id="iframe-0" class="iframe-content active">
+                <iframe align="center" src="https://www.tvquran.com/ar/selections/author/212/embeddable" frameborder="0" allowtransparency="1" scrolling="no"></iframe>
+            </div>
+
+            <!-- Swapped Order: Iframe 2 (Essam) Second -->
+            <div id="iframe-1" class="iframe-content">
+                <iframe align="center" src="https://www.tvquran.com/ar/selections/author/121/embeddable" frameborder="0" allowtransparency="1" scrolling="no"></iframe>
+            </div>
+
+        </div>
+    </main>
+
+    <footer>
+        <p>تصميم مميز للاستماع للقرآن الكريم والرقية الشرعية</p>
+    </footer>
+
+    <script>
+        // DOM Elements
+        const cards = document.querySelectorAll('.sheikh-card');
+        const iframes = [
+            document.getElementById('iframe-0'),
+            document.getElementById('iframe-1')
+        ];
+        let deferredPrompt;
+
+        function selectSheikh(index) {
+            // Update Active Card UI
+            cards.forEach((card, i) => {
+                if(i === index) card.classList.add('active');
+                else card.classList.remove('active');
+            });
+
+            // Update Active Iframe
+            iframes.forEach((iframe, i) => {
+                if(i === index) iframe.classList.add('active');
+                else iframe.classList.remove('active');
+            });
+        }
+
+        // PWA Install Logic
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            document.getElementById('installBtn').style.display = 'flex';
+        });
+
+        function installApp() {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then((choiceResult) => {
+                    if (choiceResult.outcome === 'accepted') {
+                        console.log('User accepted the install prompt');
+                    }
+                    deferredPrompt = null;
+                });
+            } else {
+                alert('للتثبيت: اضغط على خيارات المتصفح ثم "إضافة إلى الشاشة الرئيسية"');
+            }
+        }
+
+        // Initialize
+        selectSheikh(0);
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,625 @@
+{
+  "id": "Sharh_Sahih_al-Bukhari",
+  "title": {
+    "ar": "شرح صحيح البخاري — الشيخ عبد المحسن الزامل",
+    "en": "Explanation of Sahih Al-Bukhari — Shaykh Abdulmuhsin Al-Zamil"
+  },
+  "creator": {
+    "ar": "الشيخ عبد المحسن الزامل",
+    "en": "Shaykh Abdulmuhsin Al-Zamil"
+  },
+  "cover": "/images/library/Sharh_Sahih_al-Bukhari.jpg",
+  "sourceUrl": "https://archive.org/details/Sharh_Sahih_al-Bukhari",
+  "tracks": [
+    {
+      "id": "Sharh_Sahih_al-Bukhari-01",
+      "title": {
+        "ar": "صحيح البخاري (1) بدء الوحي",
+        "en": "صحيح البخاري (1) بدء الوحي"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/01.mp3",
+      "duration": 2932,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-02",
+      "title": {
+        "ar": "صحيح البخاري (2) كتاب الإيمان باب الإيمان وقول النبي صلى الله عليه وسلم بني الإسلام على خمس",
+        "en": "صحيح البخاري (2) كتاب الإيمان باب الإيمان وقول النبي صلى الله عليه وسلم بني الإسلام على خمس"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/02.mp3",
+      "duration": 3825,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-03",
+      "title": {
+        "ar": "صحيح البخاري (3) كتاب الإيمان من قال إن الإيمان هو العمل",
+        "en": "صحيح البخاري (3) كتاب الإيمان من قال إن الإيمان هو العمل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/03.mp3",
+      "duration": 5989,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-04",
+      "title": {
+        "ar": "صحيح البخاري (4) كتاب العلم باب فضل العلم وقول الله تعالى",
+        "en": "صحيح البخاري (4) كتاب العلم باب فضل العلم وقول الله تعالى"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/04.mp3",
+      "duration": 4976,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-05",
+      "title": {
+        "ar": "صحيح البخاري (5) كتاب العلم باب فضل العلم",
+        "en": "صحيح البخاري (5) كتاب العلم باب فضل العلم"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/05.mp3",
+      "duration": 7420,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-06",
+      "title": {
+        "ar": "بداية كتاب الوضوء (6) أول باب",
+        "en": "بداية كتاب الوضوء (6) أول باب"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/06.mp3",
+      "duration": 6041,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-07",
+      "title": {
+        "ar": "كتاب الوضوء (7) باب إذا شرب الكلب في إناء أحدكم ...",
+        "en": "كتاب الوضوء (7) باب إذا شرب الكلب في إناء أحدكم ..."
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/07.mp3",
+      "duration": 5910,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-08",
+      "title": {
+        "ar": "كتاب الوضوء (8) باب ما يقع من النجاسات في السمن والماء",
+        "en": "كتاب الوضوء (8) باب ما يقع من النجاسات في السمن والماء"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/08.mp3",
+      "duration": 5189,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-09",
+      "title": {
+        "ar": "كتاب الوضوء (9) أول كتاب الحيض إلى آخر كتاب التيمم",
+        "en": "كتاب الوضوء (9) أول كتاب الحيض إلى آخر كتاب التيمم"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/09.mp3",
+      "duration": 7659,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-10",
+      "title": {
+        "ar": "كتاب الصلاة (10) أول الكتاب",
+        "en": "كتاب الصلاة (10) أول الكتاب"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/10.mp3",
+      "duration": 6699,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-11",
+      "title": {
+        "ar": "كتاب الصلاة (11) باب الصلاة في الخفاف",
+        "en": "كتاب الصلاة (11) باب الصلاة في الخفاف"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/11.mp3",
+      "duration": 7548,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-12",
+      "title": {
+        "ar": "كتاب الصلاة (12) باب جعلت لي الأرض مسجدا وطهورا",
+        "en": "كتاب الصلاة (12) باب جعلت لي الأرض مسجدا وطهورا"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/12.mp3",
+      "duration": 4704,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-13",
+      "title": {
+        "ar": "كتاب الصلاة (13) باب المسجد يكون في الطريق من غير ضرر بالناس",
+        "en": "كتاب الصلاة (13) باب المسجد يكون في الطريق من غير ضرر بالناس"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/13.mp3",
+      "duration": 4316,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-14",
+      "title": {
+        "ar": "بداية كتاب مواقيت الصلاة (14) أول الباب",
+        "en": "بداية كتاب مواقيت الصلاة (14) أول الباب"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/14.mp3",
+      "duration": 4457,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-15",
+      "title": {
+        "ar": "كتاب مواقيت الصلاة (15) باب من أدرك ركعة من العصر قبل الغروب",
+        "en": "كتاب مواقيت الصلاة (15) باب من أدرك ركعة من العصر قبل الغروب"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/15.mp3",
+      "duration": 4331,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-16",
+      "title": {
+        "ar": "كتاب مواقيت الصلاة (16) باب ما يصلى بعد العصر من الفوائت ونحوها",
+        "en": "كتاب مواقيت الصلاة (16) باب ما يصلى بعد العصر من الفوائت ونحوها"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/16.mp3",
+      "duration": 6541,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-17",
+      "title": {
+        "ar": "كتاب الأذان (17) باب هل يخرج من المسجد لعلة",
+        "en": "كتاب الأذان (17) باب هل يخرج من المسجد لعلة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/17.mp3",
+      "duration": 4620,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-18",
+      "title": {
+        "ar": "كتاب الأذان (18) باب من كان في حاجة أهله فأقيمت الصلاة فخرج",
+        "en": "كتاب الأذان (18) باب من كان في حاجة أهله فأقيمت الصلاة فخرج"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/18.mp3",
+      "duration": 4354,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-19",
+      "title": {
+        "ar": "كتاب الأذان (19) باب إذا طول الإمام وكان للرجل حاجة فخرج فصلى",
+        "en": "كتاب الأذان (19) باب إذا طول الإمام وكان للرجل حاجة فخرج فصلى"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/19.mp3",
+      "duration": 6293,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-20",
+      "title": {
+        "ar": "كتاب الأذان (20) باب صلاة الليل",
+        "en": "كتاب الأذان (20) باب صلاة الليل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/20.mp3",
+      "duration": 5559,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-21",
+      "title": {
+        "ar": "كتاب الأذان (21) القراءة في الظهر إلى باب إتمام التكبير في الركوع",
+        "en": "كتاب الأذان (21) القراءة في الظهر إلى باب إتمام التكبير في الركوع"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/21.mp3",
+      "duration": 5054,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-22",
+      "title": {
+        "ar": "كتاب الأذان (22) باب إتمام التكبير في السجود",
+        "en": "كتاب الأذان (22) باب إتمام التكبير في السجود"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/22.mp3",
+      "duration": 4526,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-23",
+      "title": {
+        "ar": "كتاب الأذان (23) باب يبدي ضبعيه ويجافي في السجود",
+        "en": "كتاب الأذان (23) باب يبدي ضبعيه ويجافي في السجود"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/23.mp3",
+      "duration": 5707,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-24",
+      "title": {
+        "ar": "كتاب الأذان (24) باب من لم يرالتشهد واجباً",
+        "en": "كتاب الأذان (24) باب من لم يرالتشهد واجباً"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/24.mp3",
+      "duration": 6039,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-25",
+      "title": {
+        "ar": "كتاب الجمعة (25) أوله إلى باب وقت الجمعة إذا زالت الشمس",
+        "en": "كتاب الجمعة (25) أوله إلى باب وقت الجمعة إذا زالت الشمس"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/25.mp3",
+      "duration": 4608,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-26",
+      "title": {
+        "ar": "كتاب الجمعة (26) باب إذا اشتد الحر يوم الجمعة",
+        "en": "كتاب الجمعة (26) باب إذا اشتد الحر يوم الجمعة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/26.mp3",
+      "duration": 4768,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-27",
+      "title": {
+        "ar": "كتاب الجمعة وكتاب العيدين(27) باب رفع اليديدن في الخطبة",
+        "en": "كتاب الجمعة وكتاب العيدين(27) باب رفع اليديدن في الخطبة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/27.mp3",
+      "duration": 5067,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-28",
+      "title": {
+        "ar": "كتاب العيدين (28) باب الأكل يوم الفطر قبل الخروج",
+        "en": "كتاب العيدين (28) باب الأكل يوم الفطر قبل الخروج"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/28.mp3",
+      "duration": 5822,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-29",
+      "title": {
+        "ar": "كتاب العيدين وأبواب الاستسقاء (29) باب كلام الإمام والناس في خطبة العيد وإذا سئل الإمام عن شيء وهو يخطب إلى دعاء النبي صلى الله عليه وسلم اجعلها سنين كسني يوسف",
+        "en": "كتاب العيدين وأبواب الاستسقاء (29) باب كلام الإمام والناس في خطبة العيد وإذا سئل الإمام عن شيء وهو يخطب إلى دعاء النبي صلى الله عليه وسلم اجعلها سنين كسني يوسف"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/29.mp3",
+      "duration": 4368,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-30",
+      "title": {
+        "ar": "أبواب الاستسقاء (29) سؤال الناس الإمام الاستسقاء إذا قحطوا",
+        "en": "أبواب الاستسقاء (29) سؤال الناس الإمام الاستسقاء إذا قحطوا"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/30.mp3",
+      "duration": 5642,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-31",
+      "title": {
+        "ar": "أبواب الاستسقاء (30) باب ما يقال إذا أمطرت وقال ابن عباس كصيب المطر ومن أول كتاب الكسوف",
+        "en": "أبواب الاستسقاء (30) باب ما يقال إذا أمطرت وقال ابن عباس كصيب المطر ومن أول كتاب الكسوف"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/31.mp3",
+      "duration": 5415,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-32",
+      "title": {
+        "ar": "كتاب الكسوف (31) باب صلاة السوف في المسجد إلى آخر كتاب الكسوف",
+        "en": "كتاب الكسوف (31) باب صلاة السوف في المسجد إلى آخر كتاب الكسوف"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/32.mp3",
+      "duration": 4619,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-33",
+      "title": {
+        "ar": "صحيح البخاري (33) باب ما جاء في التقصير وكم يقيم حتى يقصر",
+        "en": "صحيح البخاري (33) باب ما جاء في التقصير وكم يقيم حتى يقصر"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/33.mp3",
+      "duration": 6910,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-34",
+      "title": {
+        "ar": "صحيح البخاري (34) باب الجمع في السفر بين المغرب والعشاء",
+        "en": "صحيح البخاري (34) باب الجمع في السفر بين المغرب والعشاء"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/34.mp3",
+      "duration": 5233,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-35",
+      "title": {
+        "ar": "صحيح البخاري (35) باب قيام النبي صلى الله عليه وسلم حتى ترم قدماه إلى باب عقد الشيطان على قافية الرأس",
+        "en": "صحيح البخاري (35) باب قيام النبي صلى الله عليه وسلم حتى ترم قدماه إلى باب عقد الشيطان على قافية الرأس"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/35.mp3",
+      "duration": 4700,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-36",
+      "title": {
+        "ar": "صحيح البخاري (36) من قوله باب إذا نام ولم يصل بال الشيطان في أذنه إلى باب قيام النبي صلى الله عليه وسلم بالليل في رمضان وغيره",
+        "en": "صحيح البخاري (36) من قوله باب إذا نام ولم يصل بال الشيطان في أذنه إلى باب قيام النبي صلى الله عليه وسلم بالليل في رمضان وغيره"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/36.mp3",
+      "duration": 4421,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-37",
+      "title": {
+        "ar": "صحيح البخاري (37) تتمة الباب السابق إلى قوله صلى الله عليه وسلم : ألم أخبر أنك تقوم الليل وتصوم النهار",
+        "en": "صحيح البخاري (37) تتمة الباب السابق إلى قوله صلى الله عليه وسلم : ألم أخبر أنك تقوم الليل وتصوم النهار"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/37.mp3",
+      "duration": 5208,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-38",
+      "title": {
+        "ar": "صحيح البخاري (38) باب فضل من تعار من الليل",
+        "en": "صحيح البخاري (38) باب فضل من تعار من الليل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/38.mp3",
+      "duration": 5739,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-39",
+      "title": {
+        "ar": "صحيح البخاري (39) باب من تحدث بعد الركعتين ولم يضطجع إلى آحر ما جاء في التطوع مثنى مثنى",
+        "en": "صحيح البخاري (39) باب من تحدث بعد الركعتين ولم يضطجع إلى آحر ما جاء في التطوع مثنى مثنى"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/39.mp3",
+      "duration": 4605,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-40",
+      "title": {
+        "ar": "صحيح البخاري (40) من باب الحديث بعد ركعتي الفجر",
+        "en": "صحيح البخاري (40) من باب الحديث بعد ركعتي الفجر"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/40.mp3",
+      "duration": 4345,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-41",
+      "title": {
+        "ar": "صحيح البخاري (41) من باب من لم يصل الضحى ورآه واسعا",
+        "en": "صحيح البخاري (41) من باب من لم يصل الضحى ورآه واسعا"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/41.mp3",
+      "duration": 4790,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-42",
+      "title": {
+        "ar": "صحيح البخاري (42) باب فضل الصلاة ف يمسجد مكة والمدينة",
+        "en": "صحيح البخاري (42) باب فضل الصلاة ف يمسجد مكة والمدينة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/42.mp3",
+      "duration": 4119,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-43",
+      "title": {
+        "ar": "صحيح البخاري (43) تتمة باب ما ينهى من الكلام في الصلاة",
+        "en": "صحيح البخاري (43) تتمة باب ما ينهى من الكلام في الصلاة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/43.mp3",
+      "duration": 3849,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-44",
+      "title": {
+        "ar": "صحيح البخاري (44) باب ما يجوز من البصاق والنفخ في الصلاة",
+        "en": "صحيح البخاري (44) باب ما يجوز من البصاق والنفخ في الصلاة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/44.mp3",
+      "duration": 4304,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-45",
+      "title": {
+        "ar": "صحيح البخاري (45) باب ما جاء في السهو إذا قام من ركعتي الفريضة",
+        "en": "صحيح البخاري (45) باب ما جاء في السهو إذا قام من ركعتي الفريضة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/45.mp3",
+      "duration": 4947,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-46",
+      "title": {
+        "ar": "صحيح البخاري (46) باب في الجنائز ومن كان آخر كلامه لا إله إلا الله إلى باب الإذن بالجنازة",
+        "en": "صحيح البخاري (46) باب في الجنائز ومن كان آخر كلامه لا إله إلا الله إلى باب الإذن بالجنازة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/46.mp3",
+      "duration": 3901,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-47",
+      "title": {
+        "ar": "شرح صحيح البخاري (47) باب فضل من مات له ولد إلى باب هل تكفن المرأة في إزار الرجل",
+        "en": "شرح صحيح البخاري (47) باب فضل من مات له ولد إلى باب هل تكفن المرأة في إزار الرجل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/47.mp3",
+      "duration": 4909,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-48",
+      "title": {
+        "ar": "شرح صحيح البخاري (48) باب يجعل الكافور في آخره إلى باب الكفن في ثوبين",
+        "en": "شرح صحيح البخاري (48) باب يجعل الكافور في آخره إلى باب الكفن في ثوبين"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/48.mp3",
+      "duration": 3663,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-49",
+      "title": {
+        "ar": "شرح صحيح البخاري (49) باب الحنوط للميت إلى باب حد المرأة على غير زوجها",
+        "en": "شرح صحيح البخاري (49) باب الحنوط للميت إلى باب حد المرأة على غير زوجها"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/49.mp3",
+      "duration": 4851,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-50",
+      "title": {
+        "ar": "شرح صحيح البخاري (50) باب زيارة القبور إلى باب من جلس عند المصيبة يعرف فيه الحزن",
+        "en": "شرح صحيح البخاري (50) باب زيارة القبور إلى باب من جلس عند المصيبة يعرف فيه الحزن"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/50.mp3",
+      "duration": 3343,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-51",
+      "title": {
+        "ar": "شرح صحيح البخاري (51) باب من لم يظهر حزنه عند المصيبة ... إلى باب الصفوف على الجنازة",
+        "en": "شرح صحيح البخاري (51) باب من لم يظهر حزنه عند المصيبة ... إلى باب الصفوف على الجنازة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/51.mp3",
+      "duration": 4759,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-52",
+      "title": {
+        "ar": "شرح صحيح البخاري (52) باب صفوف الصبيان مع الرجال على الجنائز إلى باب أين يقوم من المرأة والرجل",
+        "en": "شرح صحيح البخاري (52) باب صفوف الصبيان مع الرجال على الجنائز إلى باب أين يقوم من المرأة والرجل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/52.mp3",
+      "duration": 3151,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-53",
+      "title": {
+        "ar": "شرح صحيح البخاري (53) باب التكبير على الجنازة أربعا إلى باب إذا أسلم الصبي فمات هل يصلى عليه ...",
+        "en": "شرح صحيح البخاري (53) باب التكبير على الجنازة أربعا إلى باب إذا أسلم الصبي فمات هل يصلى عليه ..."
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/53.mp3",
+      "duration": 4979,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-54",
+      "title": {
+        "ar": "شرح صحيح البخاري (54) تتمة إذا أسلم الصبي فمات هل يصلى عليه ... إلى باب أين يقوم من المرأة والرجل",
+        "en": "شرح صحيح البخاري (54) تتمة إذا أسلم الصبي فمات هل يصلى عليه ... إلى باب أين يقوم من المرأة والرجل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/54.mp3",
+      "duration": 3814,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-55",
+      "title": {
+        "ar": "شرح صحيح البخاري (55) باب التعوذ من عذاب القبر إلى آخر كتاب الجنائز",
+        "en": "شرح صحيح البخاري (55) باب التعوذ من عذاب القبر إلى آخر كتاب الجنائز"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/55.mp3",
+      "duration": 3690,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-56",
+      "title": {
+        "ar": "شرح صحيح البخاري (56) بداية كتاب الزكاة",
+        "en": "شرح صحيح البخاري (56) بداية كتاب الزكاة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/56.mp3",
+      "duration": 4539,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-57",
+      "title": {
+        "ar": "شرح صحيح البخاري (57) باب البيعة على إيتاء الزكاة ... إلى باب ما أدي زكاته فليس بكنز ...",
+        "en": "شرح صحيح البخاري (57) باب البيعة على إيتاء الزكاة ... إلى باب ما أدي زكاته فليس بكنز ..."
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/57.mp3",
+      "duration": 3903,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-58",
+      "title": {
+        "ar": "شرح صحيح البخاري (58) باب إنفاق المال في حقه إلى بعض أحاديث باب الصدقة قبل الرد",
+        "en": "شرح صحيح البخاري (58) باب إنفاق المال في حقه إلى بعض أحاديث باب الصدقة قبل الرد"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/58.mp3",
+      "duration": 4183,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-59",
+      "title": {
+        "ar": "شرح صحيح البخاري (59) تتمة أحاديث باب الصدقة قبل الرد إلى باب أي الصدقة أفضل",
+        "en": "شرح صحيح البخاري (59) تتمة أحاديث باب الصدقة قبل الرد إلى باب أي الصدقة أفضل"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/59.mp3",
+      "duration": 4010,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-60",
+      "title": {
+        "ar": "شرح صحيح البخاري (60) باب حديث أينا أسرع بك لحوقا إلى باب إذا تصدق على ابنه وهو لا يشعر",
+        "en": "شرح صحيح البخاري (60) باب حديث أينا أسرع بك لحوقا إلى باب إذا تصدق على ابنه وهو لا يشعر"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/60.mp3",
+      "duration": 4569,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari-61",
+      "title": {
+        "ar": "شرح صحيح البخاري (61) باب الصدقة باليمين إلى باب من أمر خادمه بالصدقة",
+        "en": "شرح صحيح البخاري (61) باب الصدقة باليمين إلى باب من أمر خادمه بالصدقة"
+      },
+      "url": "https://archive.org/download/Sharh_Sahih_al-Bukhari/61.mp3",
+      "duration": 3683,
+      "surahIndex": null
+    }
+  ]
+}

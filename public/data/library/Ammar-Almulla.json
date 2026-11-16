@@ -1,0 +1,1165 @@
+{
+  "id": "Ammar-Almulla",
+  "title": {
+    "ar": "المصحف المرتل — عمار لؤي الملا",
+    "en": "The Holy Qur'an — Murattal — Ammar Al-Mulla"
+  },
+  "creator": {
+    "ar": "عمار لؤي الملا",
+    "en": "Ammar Al-Mulla"
+  },
+  "cover": "/images/library/Ammar-Almulla.jpg",
+  "sourceUrl": "https://archive.org/details/Ammar-Almulla",
+  "tracks": [
+    {
+      "id": "Ammar-Almulla-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/001.mp3",
+      "duration": 49,
+      "surahIndex": 1
+    },
+    {
+      "id": "Ammar-Almulla-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/002.mp3",
+      "duration": 8647,
+      "surahIndex": 2
+    },
+    {
+      "id": "Ammar-Almulla-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/003.mp3",
+      "duration": 5049,
+      "surahIndex": 3
+    },
+    {
+      "id": "Ammar-Almulla-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/004.mp3",
+      "duration": 4733,
+      "surahIndex": 4
+    },
+    {
+      "id": "Ammar-Almulla-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/005.mp3",
+      "duration": 3450,
+      "surahIndex": 5
+    },
+    {
+      "id": "Ammar-Almulla-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/006.mp3",
+      "duration": 3622,
+      "surahIndex": 6
+    },
+    {
+      "id": "Ammar-Almulla-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/007.mp3",
+      "duration": 4214,
+      "surahIndex": 7
+    },
+    {
+      "id": "Ammar-Almulla-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/008.mp3",
+      "duration": 1621,
+      "surahIndex": 8
+    },
+    {
+      "id": "Ammar-Almulla-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/009.mp3",
+      "duration": 3245,
+      "surahIndex": 9
+    },
+    {
+      "id": "Ammar-Almulla-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/010.mp3",
+      "duration": 2429,
+      "surahIndex": 10
+    },
+    {
+      "id": "Ammar-Almulla-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/011.mp3",
+      "duration": 2511,
+      "surahIndex": 11
+    },
+    {
+      "id": "Ammar-Almulla-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/012.mp3",
+      "duration": 2760,
+      "surahIndex": 12
+    },
+    {
+      "id": "Ammar-Almulla-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/013.mp3",
+      "duration": 1102,
+      "surahIndex": 13
+    },
+    {
+      "id": "Ammar-Almulla-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/014.mp3",
+      "duration": 1168,
+      "surahIndex": 14
+    },
+    {
+      "id": "Ammar-Almulla-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/015.mp3",
+      "duration": 952,
+      "surahIndex": 15
+    },
+    {
+      "id": "Ammar-Almulla-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/016.mp3",
+      "duration": 2385,
+      "surahIndex": 16
+    },
+    {
+      "id": "Ammar-Almulla-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/017.mp3",
+      "duration": 1908,
+      "surahIndex": 17
+    },
+    {
+      "id": "Ammar-Almulla-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/018.mp3",
+      "duration": 1870,
+      "surahIndex": 18
+    },
+    {
+      "id": "Ammar-Almulla-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/019.mp3",
+      "duration": 1131,
+      "surahIndex": 19
+    },
+    {
+      "id": "Ammar-Almulla-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/020.mp3",
+      "duration": 1622,
+      "surahIndex": 20
+    },
+    {
+      "id": "Ammar-Almulla-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/021.mp3",
+      "duration": 1515,
+      "surahIndex": 21
+    },
+    {
+      "id": "Ammar-Almulla-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/022.mp3",
+      "duration": 1560,
+      "surahIndex": 22
+    },
+    {
+      "id": "Ammar-Almulla-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/023.mp3",
+      "duration": 1604,
+      "surahIndex": 23
+    },
+    {
+      "id": "Ammar-Almulla-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/024.mp3",
+      "duration": 1810,
+      "surahIndex": 24
+    },
+    {
+      "id": "Ammar-Almulla-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/025.mp3",
+      "duration": 1097,
+      "surahIndex": 25
+    },
+    {
+      "id": "Ammar-Almulla-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/026.mp3",
+      "duration": 1690,
+      "surahIndex": 26
+    },
+    {
+      "id": "Ammar-Almulla-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/027.mp3",
+      "duration": 1469,
+      "surahIndex": 27
+    },
+    {
+      "id": "Ammar-Almulla-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/028.mp3",
+      "duration": 1770,
+      "surahIndex": 28
+    },
+    {
+      "id": "Ammar-Almulla-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/029.mp3",
+      "duration": 1291,
+      "surahIndex": 29
+    },
+    {
+      "id": "Ammar-Almulla-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/030.mp3",
+      "duration": 1022,
+      "surahIndex": 30
+    },
+    {
+      "id": "Ammar-Almulla-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/031.mp3",
+      "duration": 661,
+      "surahIndex": 31
+    },
+    {
+      "id": "Ammar-Almulla-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/032.mp3",
+      "duration": 483,
+      "surahIndex": 32
+    },
+    {
+      "id": "Ammar-Almulla-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/033.mp3",
+      "duration": 1766,
+      "surahIndex": 33
+    },
+    {
+      "id": "Ammar-Almulla-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/034.mp3",
+      "duration": 1098,
+      "surahIndex": 34
+    },
+    {
+      "id": "Ammar-Almulla-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/035.mp3",
+      "duration": 1044,
+      "surahIndex": 35
+    },
+    {
+      "id": "Ammar-Almulla-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/036.mp3",
+      "duration": 1030,
+      "surahIndex": 36
+    },
+    {
+      "id": "Ammar-Almulla-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/037.mp3",
+      "duration": 1219,
+      "surahIndex": 37
+    },
+    {
+      "id": "Ammar-Almulla-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/038.mp3",
+      "duration": 994,
+      "surahIndex": 38
+    },
+    {
+      "id": "Ammar-Almulla-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/039.mp3",
+      "duration": 1582,
+      "surahIndex": 39
+    },
+    {
+      "id": "Ammar-Almulla-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/040.mp3",
+      "duration": 1427,
+      "surahIndex": 40
+    },
+    {
+      "id": "Ammar-Almulla-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/041.mp3",
+      "duration": 1015,
+      "surahIndex": 41
+    },
+    {
+      "id": "Ammar-Almulla-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/042.mp3",
+      "duration": 1053,
+      "surahIndex": 42
+    },
+    {
+      "id": "Ammar-Almulla-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/043.mp3",
+      "duration": 1113,
+      "surahIndex": 43
+    },
+    {
+      "id": "Ammar-Almulla-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/044.mp3",
+      "duration": 491,
+      "surahIndex": 44
+    },
+    {
+      "id": "Ammar-Almulla-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/045.mp3",
+      "duration": 650,
+      "surahIndex": 45
+    },
+    {
+      "id": "Ammar-Almulla-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/046.mp3",
+      "duration": 929,
+      "surahIndex": 46
+    },
+    {
+      "id": "Ammar-Almulla-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/047.mp3",
+      "duration": 758,
+      "surahIndex": 47
+    },
+    {
+      "id": "Ammar-Almulla-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/048.mp3",
+      "duration": 794,
+      "surahIndex": 48
+    },
+    {
+      "id": "Ammar-Almulla-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/049.mp3",
+      "duration": 483,
+      "surahIndex": 49
+    },
+    {
+      "id": "Ammar-Almulla-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/050.mp3",
+      "duration": 474,
+      "surahIndex": 50
+    },
+    {
+      "id": "Ammar-Almulla-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/051.mp3",
+      "duration": 465,
+      "surahIndex": 51
+    },
+    {
+      "id": "Ammar-Almulla-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/052.mp3",
+      "duration": 397,
+      "surahIndex": 52
+    },
+    {
+      "id": "Ammar-Almulla-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/053.mp3",
+      "duration": 461,
+      "surahIndex": 53
+    },
+    {
+      "id": "Ammar-Almulla-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/054.mp3",
+      "duration": 487,
+      "surahIndex": 54
+    },
+    {
+      "id": "Ammar-Almulla-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/055.mp3",
+      "duration": 625,
+      "surahIndex": 55
+    },
+    {
+      "id": "Ammar-Almulla-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/056.mp3",
+      "duration": 634,
+      "surahIndex": 56
+    },
+    {
+      "id": "Ammar-Almulla-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/057.mp3",
+      "duration": 776,
+      "surahIndex": 57
+    },
+    {
+      "id": "Ammar-Almulla-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/058.mp3",
+      "duration": 627,
+      "surahIndex": 58
+    },
+    {
+      "id": "Ammar-Almulla-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/059.mp3",
+      "duration": 629,
+      "surahIndex": 59
+    },
+    {
+      "id": "Ammar-Almulla-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/060.mp3",
+      "duration": 531,
+      "surahIndex": 60
+    },
+    {
+      "id": "Ammar-Almulla-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/061.mp3",
+      "duration": 323,
+      "surahIndex": 61
+    },
+    {
+      "id": "Ammar-Almulla-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/062.mp3",
+      "duration": 232,
+      "surahIndex": 62
+    },
+    {
+      "id": "Ammar-Almulla-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/063.mp3",
+      "duration": 250,
+      "surahIndex": 63
+    },
+    {
+      "id": "Ammar-Almulla-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/064.mp3",
+      "duration": 346,
+      "surahIndex": 64
+    },
+    {
+      "id": "Ammar-Almulla-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/065.mp3",
+      "duration": 383,
+      "surahIndex": 65
+    },
+    {
+      "id": "Ammar-Almulla-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/066.mp3",
+      "duration": 353,
+      "surahIndex": 66
+    },
+    {
+      "id": "Ammar-Almulla-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/067.mp3",
+      "duration": 441,
+      "surahIndex": 67
+    },
+    {
+      "id": "Ammar-Almulla-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/068.mp3",
+      "duration": 429,
+      "surahIndex": 68
+    },
+    {
+      "id": "Ammar-Almulla-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/069.mp3",
+      "duration": 394,
+      "surahIndex": 69
+    },
+    {
+      "id": "Ammar-Almulla-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/070.mp3",
+      "duration": 321,
+      "surahIndex": 70
+    },
+    {
+      "id": "Ammar-Almulla-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/071.mp3",
+      "duration": 316,
+      "surahIndex": 71
+    },
+    {
+      "id": "Ammar-Almulla-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/072.mp3",
+      "duration": 373,
+      "surahIndex": 72
+    },
+    {
+      "id": "Ammar-Almulla-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/073.mp3",
+      "duration": 265,
+      "surahIndex": 73
+    },
+    {
+      "id": "Ammar-Almulla-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/074.mp3",
+      "duration": 367,
+      "surahIndex": 74
+    },
+    {
+      "id": "Ammar-Almulla-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/075.mp3",
+      "duration": 236,
+      "surahIndex": 75
+    },
+    {
+      "id": "Ammar-Almulla-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/076.mp3",
+      "duration": 389,
+      "surahIndex": 76
+    },
+    {
+      "id": "Ammar-Almulla-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/077.mp3",
+      "duration": 283,
+      "surahIndex": 77
+    },
+    {
+      "id": "Ammar-Almulla-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/078.mp3",
+      "duration": 281,
+      "surahIndex": 78
+    },
+    {
+      "id": "Ammar-Almulla-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/079.mp3",
+      "duration": 255,
+      "surahIndex": 79
+    },
+    {
+      "id": "Ammar-Almulla-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/080.mp3",
+      "duration": 208,
+      "surahIndex": 80
+    },
+    {
+      "id": "Ammar-Almulla-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/081.mp3",
+      "duration": 162,
+      "surahIndex": 81
+    },
+    {
+      "id": "Ammar-Almulla-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/082.mp3",
+      "duration": 122,
+      "surahIndex": 82
+    },
+    {
+      "id": "Ammar-Almulla-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/083.mp3",
+      "duration": 277,
+      "surahIndex": 83
+    },
+    {
+      "id": "Ammar-Almulla-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/084.mp3",
+      "duration": 148,
+      "surahIndex": 84
+    },
+    {
+      "id": "Ammar-Almulla-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/085.mp3",
+      "duration": 163,
+      "surahIndex": 85
+    },
+    {
+      "id": "Ammar-Almulla-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/086.mp3",
+      "duration": 97,
+      "surahIndex": 86
+    },
+    {
+      "id": "Ammar-Almulla-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/087.mp3",
+      "duration": 105,
+      "surahIndex": 87
+    },
+    {
+      "id": "Ammar-Almulla-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/088.mp3",
+      "duration": 136,
+      "surahIndex": 88
+    },
+    {
+      "id": "Ammar-Almulla-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/089.mp3",
+      "duration": 198,
+      "surahIndex": 89
+    },
+    {
+      "id": "Ammar-Almulla-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/090.mp3",
+      "duration": 122,
+      "surahIndex": 90
+    },
+    {
+      "id": "Ammar-Almulla-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/091.mp3",
+      "duration": 90,
+      "surahIndex": 91
+    },
+    {
+      "id": "Ammar-Almulla-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/092.mp3",
+      "duration": 112,
+      "surahIndex": 92
+    },
+    {
+      "id": "Ammar-Almulla-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/093.mp3",
+      "duration": 64,
+      "surahIndex": 93
+    },
+    {
+      "id": "Ammar-Almulla-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/094.mp3",
+      "duration": 42,
+      "surahIndex": 94
+    },
+    {
+      "id": "Ammar-Almulla-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/095.mp3",
+      "duration": 56,
+      "surahIndex": 95
+    },
+    {
+      "id": "Ammar-Almulla-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/096.mp3",
+      "duration": 102,
+      "surahIndex": 96
+    },
+    {
+      "id": "Ammar-Almulla-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/097.mp3",
+      "duration": 48,
+      "surahIndex": 97
+    },
+    {
+      "id": "Ammar-Almulla-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/098.mp3",
+      "duration": 130,
+      "surahIndex": 98
+    },
+    {
+      "id": "Ammar-Almulla-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/099.mp3",
+      "duration": 60,
+      "surahIndex": 99
+    },
+    {
+      "id": "Ammar-Almulla-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/100.mp3",
+      "duration": 68,
+      "surahIndex": 100
+    },
+    {
+      "id": "Ammar-Almulla-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/101.mp3",
+      "duration": 63,
+      "surahIndex": 101
+    },
+    {
+      "id": "Ammar-Almulla-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/102.mp3",
+      "duration": 52,
+      "surahIndex": 102
+    },
+    {
+      "id": "Ammar-Almulla-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/103.mp3",
+      "duration": 27,
+      "surahIndex": 103
+    },
+    {
+      "id": "Ammar-Almulla-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/104.mp3",
+      "duration": 53,
+      "surahIndex": 104
+    },
+    {
+      "id": "Ammar-Almulla-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/105.mp3",
+      "duration": 42,
+      "surahIndex": 105
+    },
+    {
+      "id": "Ammar-Almulla-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/106.mp3",
+      "duration": 36,
+      "surahIndex": 106
+    },
+    {
+      "id": "Ammar-Almulla-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/107.mp3",
+      "duration": 48,
+      "surahIndex": 107
+    },
+    {
+      "id": "Ammar-Almulla-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/108.mp3",
+      "duration": 22,
+      "surahIndex": 108
+    },
+    {
+      "id": "Ammar-Almulla-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/109.mp3",
+      "duration": 48,
+      "surahIndex": 109
+    },
+    {
+      "id": "Ammar-Almulla-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/110.mp3",
+      "duration": 32,
+      "surahIndex": 110
+    },
+    {
+      "id": "Ammar-Almulla-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/111.mp3",
+      "duration": 38,
+      "surahIndex": 111
+    },
+    {
+      "id": "Ammar-Almulla-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/112.mp3",
+      "duration": 23,
+      "surahIndex": 112
+    },
+    {
+      "id": "Ammar-Almulla-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/113.mp3",
+      "duration": 34,
+      "surahIndex": 113
+    },
+    {
+      "id": "Ammar-Almulla-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/114.mp3",
+      "duration": 40,
+      "surahIndex": 114
+    },
+    {
+      "id": "Ammar-Almulla-الدعاء",
+      "title": {
+        "ar": "الدعاء",
+        "en": "الدعاء"
+      },
+      "url": "https://archive.org/download/Ammar-Almulla/%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1.mp3",
+      "duration": 497,
+      "surahIndex": null
+    }
+  ]
+}

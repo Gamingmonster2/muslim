@@ -1,0 +1,1155 @@
+{
+  "id": "Ahmed_Al-Ajmi_Quran",
+  "title": {
+    "ar": "المصحف المرتل — أحمد بن علي العجمي",
+    "en": "The Holy Qur'an — Murattal — Ahmed Al-Ajmi"
+  },
+  "creator": {
+    "ar": "أحمد بن علي العجمي",
+    "en": "Ahmed Al-Ajmi"
+  },
+  "cover": "/images/library/Ahmed_Al-Ajmi_Quran.jpg",
+  "sourceUrl": "https://archive.org/details/Ahmed_Al-Ajmi_Quran",
+  "tracks": [
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/001.mp3",
+      "duration": 46,
+      "surahIndex": 1
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/002.mp3",
+      "duration": 6705,
+      "surahIndex": 2
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/003.mp3",
+      "duration": 4314,
+      "surahIndex": 3
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/004.mp3",
+      "duration": 357,
+      "surahIndex": 4
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/005.mp3",
+      "duration": 423,
+      "surahIndex": 5
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/006.mp3",
+      "duration": 203,
+      "surahIndex": 6
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/007.mp3",
+      "duration": 450,
+      "surahIndex": 7
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/008.mp3",
+      "duration": 373,
+      "surahIndex": 8
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/009.mp3",
+      "duration": 376,
+      "surahIndex": 9
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/010.mp3",
+      "duration": 203,
+      "surahIndex": 10
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/011.mp3",
+      "duration": 93,
+      "surahIndex": 11
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/012.mp3",
+      "duration": 106,
+      "surahIndex": 12
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/013.mp3",
+      "duration": 119,
+      "surahIndex": 13
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/014.mp3",
+      "duration": 219,
+      "surahIndex": 14
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/015.mp3",
+      "duration": 541,
+      "surahIndex": 15
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/016.mp3",
+      "duration": 460,
+      "surahIndex": 16
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/017.mp3",
+      "duration": 358,
+      "surahIndex": 17
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/018.mp3",
+      "duration": 180,
+      "surahIndex": 18
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/019.mp3",
+      "duration": 233,
+      "surahIndex": 19
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/020.mp3",
+      "duration": 431,
+      "surahIndex": 20
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/021.mp3",
+      "duration": 340,
+      "surahIndex": 21
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/022.mp3",
+      "duration": 421,
+      "surahIndex": 22
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/023.mp3",
+      "duration": 440,
+      "surahIndex": 23
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/024.mp3",
+      "duration": 369,
+      "surahIndex": 24
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/025.mp3",
+      "duration": 331,
+      "surahIndex": 25
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/026.mp3",
+      "duration": 459,
+      "surahIndex": 26
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/027.mp3",
+      "duration": 429,
+      "surahIndex": 27
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/028.mp3",
+      "duration": 182,
+      "surahIndex": 28
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/029.mp3",
+      "duration": 457,
+      "surahIndex": 29
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/030.mp3",
+      "duration": 528,
+      "surahIndex": 30
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/031.mp3",
+      "duration": 379,
+      "surahIndex": 31
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/032.mp3",
+      "duration": 150,
+      "surahIndex": 32
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/033.mp3",
+      "duration": 317,
+      "surahIndex": 33
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/034.mp3",
+      "duration": 177,
+      "surahIndex": 34
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/035.mp3",
+      "duration": 331,
+      "surahIndex": 35
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/036.mp3",
+      "duration": 242,
+      "surahIndex": 36
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/037.mp3",
+      "duration": 130,
+      "surahIndex": 37
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/038.mp3",
+      "duration": 216,
+      "surahIndex": 38
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/039.mp3",
+      "duration": 198,
+      "surahIndex": 39
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/040.mp3",
+      "duration": 350,
+      "surahIndex": 40
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/041.mp3",
+      "duration": 93,
+      "surahIndex": 41
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/042.mp3",
+      "duration": 999,
+      "surahIndex": 42
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/043.mp3",
+      "duration": 1192,
+      "surahIndex": 43
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/044.mp3",
+      "duration": 576,
+      "surahIndex": 44
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/045.mp3",
+      "duration": 611,
+      "surahIndex": 45
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/046.mp3",
+      "duration": 887,
+      "surahIndex": 46
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/047.mp3",
+      "duration": 748,
+      "surahIndex": 47
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/048.mp3",
+      "duration": 708,
+      "surahIndex": 48
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/049.mp3",
+      "duration": 495,
+      "surahIndex": 49
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/050.mp3",
+      "duration": 583,
+      "surahIndex": 50
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/051.mp3",
+      "duration": 391,
+      "surahIndex": 51
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/052.mp3",
+      "duration": 350,
+      "surahIndex": 52
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/053.mp3",
+      "duration": 351,
+      "surahIndex": 53
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/054.mp3",
+      "duration": 354,
+      "surahIndex": 54
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/055.mp3",
+      "duration": 479,
+      "surahIndex": 55
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/056.mp3",
+      "duration": 474,
+      "surahIndex": 56
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/057.mp3",
+      "duration": 762,
+      "surahIndex": 57
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/058.mp3",
+      "duration": 649,
+      "surahIndex": 58
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/059.mp3",
+      "duration": 700,
+      "surahIndex": 59
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/060.mp3",
+      "duration": 514,
+      "surahIndex": 60
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/061.mp3",
+      "duration": 300,
+      "surahIndex": 61
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/062.mp3",
+      "duration": 291,
+      "surahIndex": 62
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/063.mp3",
+      "duration": 355,
+      "surahIndex": 63
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/064.mp3",
+      "duration": 400,
+      "surahIndex": 64
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/065.mp3",
+      "duration": 414,
+      "surahIndex": 65
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/066.mp3",
+      "duration": 403,
+      "surahIndex": 66
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/067.mp3",
+      "duration": 477,
+      "surahIndex": 67
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/068.mp3",
+      "duration": 471,
+      "surahIndex": 68
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/069.mp3",
+      "duration": 495,
+      "surahIndex": 69
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/070.mp3",
+      "duration": 426,
+      "surahIndex": 70
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/071.mp3",
+      "duration": 314,
+      "surahIndex": 71
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/072.mp3",
+      "duration": 383,
+      "surahIndex": 72
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/073.mp3",
+      "duration": 315,
+      "surahIndex": 73
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/074.mp3",
+      "duration": 475,
+      "surahIndex": 74
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/075.mp3",
+      "duration": 254,
+      "surahIndex": 75
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/076.mp3",
+      "duration": 407,
+      "surahIndex": 76
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/077.mp3",
+      "duration": 262,
+      "surahIndex": 77
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/078.mp3",
+      "duration": 269,
+      "surahIndex": 78
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/079.mp3",
+      "duration": 217,
+      "surahIndex": 79
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/080.mp3",
+      "duration": 168,
+      "surahIndex": 80
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/081.mp3",
+      "duration": 116,
+      "surahIndex": 81
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/082.mp3",
+      "duration": 94,
+      "surahIndex": 82
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/083.mp3",
+      "duration": 213,
+      "surahIndex": 83
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/084.mp3",
+      "duration": 133,
+      "surahIndex": 84
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/085.mp3",
+      "duration": 143,
+      "surahIndex": 85
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/086.mp3",
+      "duration": 74,
+      "surahIndex": 86
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/087.mp3",
+      "duration": 81,
+      "surahIndex": 87
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/088.mp3",
+      "duration": 127,
+      "surahIndex": 88
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/089.mp3",
+      "duration": 162,
+      "surahIndex": 89
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/090.mp3",
+      "duration": 87,
+      "surahIndex": 90
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/091.mp3",
+      "duration": 65,
+      "surahIndex": 91
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/092.mp3",
+      "duration": 83,
+      "surahIndex": 92
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/093.mp3",
+      "duration": 48,
+      "surahIndex": 93
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/094.mp3",
+      "duration": 27,
+      "surahIndex": 94
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/095.mp3",
+      "duration": 40,
+      "surahIndex": 95
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/096.mp3",
+      "duration": 70,
+      "surahIndex": 96
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/097.mp3",
+      "duration": 34,
+      "surahIndex": 97
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/098.mp3",
+      "duration": 107,
+      "surahIndex": 98
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/099.mp3",
+      "duration": 40,
+      "surahIndex": 99
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/100.mp3",
+      "duration": 48,
+      "surahIndex": 100
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/101.mp3",
+      "duration": 43,
+      "surahIndex": 101
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/102.mp3",
+      "duration": 37,
+      "surahIndex": 102
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/103.mp3",
+      "duration": 16,
+      "surahIndex": 103
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/104.mp3",
+      "duration": 36,
+      "surahIndex": 104
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/105.mp3",
+      "duration": 27,
+      "surahIndex": 105
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/106.mp3",
+      "duration": 21,
+      "surahIndex": 106
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/107.mp3",
+      "duration": 29,
+      "surahIndex": 107
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/108.mp3",
+      "duration": 12,
+      "surahIndex": 108
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/109.mp3",
+      "duration": 33,
+      "surahIndex": 109
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/110.mp3",
+      "duration": 20,
+      "surahIndex": 110
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/111.mp3",
+      "duration": 23,
+      "surahIndex": 111
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/112.mp3",
+      "duration": 11,
+      "surahIndex": 112
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/113.mp3",
+      "duration": 20,
+      "surahIndex": 113
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Ahmed_Al-Ajmi_Quran/114.mp3",
+      "duration": 23,
+      "surahIndex": 114
+    }
+  ]
+}

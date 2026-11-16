@@ -1,0 +1,3435 @@
+{
+  "id": "Sharh__Sahih_al-Bukhari",
+  "title": {
+    "ar": "شرح صحيح البخاري — الشيخ عبد الكريم الخضير",
+    "en": "Explanation of Sahih Al-Bukhari — Shaykh Abdulkarim Al-Khudheir"
+  },
+  "creator": {
+    "ar": "الشيخ عبد الكريم الخضير",
+    "en": "Shaykh Abdulkarim Al-Khudheir"
+  },
+  "cover": "/images/library/Sharh__Sahih_al-Bukhari.jpg",
+  "sourceUrl": "https://archive.org/details/Sharh__Sahih_al-Bukhari",
+  "tracks": [
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_001",
+      "title": {
+        "ar": "كتاب بدء الوحي 001",
+        "en": "كتاب بدء الوحي 001"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_001.mp3",
+      "duration": 2767,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_002",
+      "title": {
+        "ar": "كتاب بدء الوحي 002",
+        "en": "كتاب بدء الوحي 002"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_002.mp3",
+      "duration": 1348,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_003",
+      "title": {
+        "ar": "كتاب بدء الوحي 003",
+        "en": "كتاب بدء الوحي 003"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_003.mp3",
+      "duration": 3121,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_004",
+      "title": {
+        "ar": "كتاب بدء الوحي 004",
+        "en": "كتاب بدء الوحي 004"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_004.mp3",
+      "duration": 3428,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_005",
+      "title": {
+        "ar": "كتاب بدء الوحي 005",
+        "en": "كتاب بدء الوحي 005"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_005.mp3",
+      "duration": 2884,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_006",
+      "title": {
+        "ar": "كتاب بدء الوحي 006",
+        "en": "كتاب بدء الوحي 006"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_006.mp3",
+      "duration": 3797,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_007",
+      "title": {
+        "ar": "كتاب بدء الوحي 007",
+        "en": "كتاب بدء الوحي 007"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_007.mp3",
+      "duration": 3667,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_008",
+      "title": {
+        "ar": "كتاب بدء الوحي 008",
+        "en": "كتاب بدء الوحي 008"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_008.mp3",
+      "duration": 3160,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_009",
+      "title": {
+        "ar": "كتاب بدء الوحي 009",
+        "en": "كتاب بدء الوحي 009"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_009.mp3",
+      "duration": 3367,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_010",
+      "title": {
+        "ar": "كتاب بدء الوحي 010",
+        "en": "كتاب بدء الوحي 010"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_010.mp3",
+      "duration": 3373,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_011",
+      "title": {
+        "ar": "كتاب بدء الوحي 011",
+        "en": "كتاب بدء الوحي 011"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_011.mp3",
+      "duration": 3246,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_012",
+      "title": {
+        "ar": "كتاب بدء الوحي 012",
+        "en": "كتاب بدء الوحي 012"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_012.mp3",
+      "duration": 3393,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_013",
+      "title": {
+        "ar": "كتاب بدء الوحي 013",
+        "en": "كتاب بدء الوحي 013"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_013.mp3",
+      "duration": 3349,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_014",
+      "title": {
+        "ar": "كتاب بدء الوحي 014",
+        "en": "كتاب بدء الوحي 014"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_014.mp3",
+      "duration": 3427,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_015",
+      "title": {
+        "ar": "كتاب بدء الوحي 015",
+        "en": "كتاب بدء الوحي 015"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_015.mp3",
+      "duration": 3653,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_016",
+      "title": {
+        "ar": "كتاب بدء الوحي 016",
+        "en": "كتاب بدء الوحي 016"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_016.mp3",
+      "duration": 2214,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_017",
+      "title": {
+        "ar": "كتاب بدء الوحي 017",
+        "en": "كتاب بدء الوحي 017"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_017.mp3",
+      "duration": 3193,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_018",
+      "title": {
+        "ar": "كتاب بدء الوحي 018",
+        "en": "كتاب بدء الوحي 018"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_018.mp3",
+      "duration": 2404,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_019",
+      "title": {
+        "ar": "كتاب بدء الوحي 019",
+        "en": "كتاب بدء الوحي 019"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_019.mp3",
+      "duration": 3378,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_020",
+      "title": {
+        "ar": "كتاب بدء الوحي 020",
+        "en": "كتاب بدء الوحي 020"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_020.mp3",
+      "duration": 2087,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_021",
+      "title": {
+        "ar": "كتاب بدء الوحي 021",
+        "en": "كتاب بدء الوحي 021"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_021.mp3",
+      "duration": 3673,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_022",
+      "title": {
+        "ar": "كتاب بدء الوحي 022",
+        "en": "كتاب بدء الوحي 022"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_022.mp3",
+      "duration": 3398,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_023",
+      "title": {
+        "ar": "كتاب بدء الوحي 023",
+        "en": "كتاب بدء الوحي 023"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_023.mp3",
+      "duration": 2969,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_024",
+      "title": {
+        "ar": "كتاب بدء الوحي 024",
+        "en": "كتاب بدء الوحي 024"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_024.mp3",
+      "duration": 1646,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_025",
+      "title": {
+        "ar": "كتاب بدء الوحي 025",
+        "en": "كتاب بدء الوحي 025"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_025.mp3",
+      "duration": 3103,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_026",
+      "title": {
+        "ar": "كتاب بدء الوحي 026",
+        "en": "كتاب بدء الوحي 026"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_026.mp3",
+      "duration": 1762,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_027",
+      "title": {
+        "ar": "كتاب بدء الوحي 027",
+        "en": "كتاب بدء الوحي 027"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_027.mp3",
+      "duration": 3764,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_028",
+      "title": {
+        "ar": "كتاب بدء الوحي 028",
+        "en": "كتاب بدء الوحي 028"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_028.mp3",
+      "duration": 3148,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_029",
+      "title": {
+        "ar": "كتاب بدء الوحي 029",
+        "en": "كتاب بدء الوحي 029"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_029.mp3",
+      "duration": 3152,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_030",
+      "title": {
+        "ar": "كتاب بدء الوحي 030",
+        "en": "كتاب بدء الوحي 030"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_030.mp3",
+      "duration": 3145,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_031",
+      "title": {
+        "ar": "كتاب بدء الوحي 031",
+        "en": "كتاب بدء الوحي 031"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_031.mp3",
+      "duration": 2691,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_032",
+      "title": {
+        "ar": "كتاب بدء الوحي 032",
+        "en": "كتاب بدء الوحي 032"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_032.mp3",
+      "duration": 2694,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_033",
+      "title": {
+        "ar": "كتاب بدء الوحي 033",
+        "en": "كتاب بدء الوحي 033"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_033.mp3",
+      "duration": 2743,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_034",
+      "title": {
+        "ar": "كتاب بدء الوحي 034",
+        "en": "كتاب بدء الوحي 034"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_034.mp3",
+      "duration": 3068,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_035",
+      "title": {
+        "ar": "كتاب بدء الوحي 035",
+        "en": "كتاب بدء الوحي 035"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_035.mp3",
+      "duration": 2823,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_036",
+      "title": {
+        "ar": "كتاب بدء الوحي 036",
+        "en": "كتاب بدء الوحي 036"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_036.mp3",
+      "duration": 2991,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_037",
+      "title": {
+        "ar": "كتاب بدء الوحي 037",
+        "en": "كتاب بدء الوحي 037"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_037.mp3",
+      "duration": 2623,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_038",
+      "title": {
+        "ar": "كتاب بدء الوحي 038",
+        "en": "كتاب بدء الوحي 038"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_038.mp3",
+      "duration": 2598,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_039",
+      "title": {
+        "ar": "كتاب بدء الوحي 039",
+        "en": "كتاب بدء الوحي 039"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_039.mp3",
+      "duration": 3170,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_040",
+      "title": {
+        "ar": "كتاب بدء الوحي 040",
+        "en": "كتاب بدء الوحي 040"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_040.mp3",
+      "duration": 2806,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_041",
+      "title": {
+        "ar": "كتاب بدء الوحي 041",
+        "en": "كتاب بدء الوحي 041"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_041.mp3",
+      "duration": 3126,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_042",
+      "title": {
+        "ar": "كتاب بدء الوحي 042",
+        "en": "كتاب بدء الوحي 042"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_042.mp3",
+      "duration": 3224,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_043",
+      "title": {
+        "ar": "كتاب بدء الوحي 043",
+        "en": "كتاب بدء الوحي 043"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_043.mp3",
+      "duration": 2966,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_044",
+      "title": {
+        "ar": "كتاب بدء الوحي 044",
+        "en": "كتاب بدء الوحي 044"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_044.mp3",
+      "duration": 3145,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_045",
+      "title": {
+        "ar": "كتاب بدء الوحي 045",
+        "en": "كتاب بدء الوحي 045"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_045.mp3",
+      "duration": 3737,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_046",
+      "title": {
+        "ar": "كتاب بدء الوحي 046",
+        "en": "كتاب بدء الوحي 046"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_046.mp3",
+      "duration": 3422,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_047",
+      "title": {
+        "ar": "كتاب بدء الوحي 047",
+        "en": "كتاب بدء الوحي 047"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_047.mp3",
+      "duration": 3150,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_048",
+      "title": {
+        "ar": "كتاب بدء الوحي 048",
+        "en": "كتاب بدء الوحي 048"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_048.mp3",
+      "duration": 3519,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_049",
+      "title": {
+        "ar": "كتاب بدء الوحي 049",
+        "en": "كتاب بدء الوحي 049"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_049.mp3",
+      "duration": 2912,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_050",
+      "title": {
+        "ar": "كتاب بدء الوحي 050",
+        "en": "كتاب بدء الوحي 050"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_050.mp3",
+      "duration": 2608,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_051",
+      "title": {
+        "ar": "كتاب بدء الوحي 051",
+        "en": "كتاب بدء الوحي 051"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_051.mp3",
+      "duration": 3171,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_052",
+      "title": {
+        "ar": "كتاب بدء الوحي 052",
+        "en": "كتاب بدء الوحي 052"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_052.mp3",
+      "duration": 3164,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_053",
+      "title": {
+        "ar": "كتاب بدء الوحي 053",
+        "en": "كتاب بدء الوحي 053"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_053.mp3",
+      "duration": 2829,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_054",
+      "title": {
+        "ar": "كتاب بدء الوحي 054",
+        "en": "كتاب بدء الوحي 054"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_054.mp3",
+      "duration": 3163,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_055",
+      "title": {
+        "ar": "كتاب بدء الوحي 055",
+        "en": "كتاب بدء الوحي 055"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_055.mp3",
+      "duration": 2993,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_056",
+      "title": {
+        "ar": "كتاب بدء الوحي 056",
+        "en": "كتاب بدء الوحي 056"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_056.mp3",
+      "duration": 2927,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_057",
+      "title": {
+        "ar": "كتاب بدء الوحي 057",
+        "en": "كتاب بدء الوحي 057"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_057.mp3",
+      "duration": 2972,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_058",
+      "title": {
+        "ar": "كتاب بدء الوحي 058",
+        "en": "كتاب بدء الوحي 058"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_058.mp3",
+      "duration": 3205,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_059",
+      "title": {
+        "ar": "كتاب بدء الوحي 059",
+        "en": "كتاب بدء الوحي 059"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_059.mp3",
+      "duration": 3095,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_060",
+      "title": {
+        "ar": "كتاب بدء الوحي 060",
+        "en": "كتاب بدء الوحي 060"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_060.mp3",
+      "duration": 3280,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_061",
+      "title": {
+        "ar": "كتاب بدء الوحي 061",
+        "en": "كتاب بدء الوحي 061"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_061.mp3",
+      "duration": 3034,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_062",
+      "title": {
+        "ar": "كتاب بدء الوحي 062",
+        "en": "كتاب بدء الوحي 062"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_062.mp3",
+      "duration": 2743,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_063",
+      "title": {
+        "ar": "كتاب بدء الوحي 063",
+        "en": "كتاب بدء الوحي 063"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_063.mp3",
+      "duration": 2922,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_064",
+      "title": {
+        "ar": "كتاب بدء الوحي 064",
+        "en": "كتاب بدء الوحي 064"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_064.mp3",
+      "duration": 2905,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_065",
+      "title": {
+        "ar": "كتاب بدء الوحي 065",
+        "en": "كتاب بدء الوحي 065"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_065.mp3",
+      "duration": 3351,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_066",
+      "title": {
+        "ar": "كتاب بدء الوحي 066",
+        "en": "كتاب بدء الوحي 066"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_066.mp3",
+      "duration": 3420,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_067",
+      "title": {
+        "ar": "كتاب بدء الوحي 067",
+        "en": "كتاب بدء الوحي 067"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_067.mp3",
+      "duration": 3099,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_068",
+      "title": {
+        "ar": "كتاب بدء الوحي 068",
+        "en": "كتاب بدء الوحي 068"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_068.mp3",
+      "duration": 2891,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_069",
+      "title": {
+        "ar": "كتاب بدء الوحي 069",
+        "en": "كتاب بدء الوحي 069"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_069.mp3",
+      "duration": 3115,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_070",
+      "title": {
+        "ar": "كتاب بدء الوحي 070",
+        "en": "كتاب بدء الوحي 070"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_070.mp3",
+      "duration": 2576,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_071",
+      "title": {
+        "ar": "كتاب بدء الوحي 071",
+        "en": "كتاب بدء الوحي 071"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_071.mp3",
+      "duration": 2528,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_072",
+      "title": {
+        "ar": "كتاب بدء الوحي 072",
+        "en": "كتاب بدء الوحي 072"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_072.mp3",
+      "duration": 3312,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_073",
+      "title": {
+        "ar": "كتاب بدء الوحي 073",
+        "en": "كتاب بدء الوحي 073"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_073.mp3",
+      "duration": 2971,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_074",
+      "title": {
+        "ar": "كتاب بدء الوحي 074",
+        "en": "كتاب بدء الوحي 074"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_074.mp3",
+      "duration": 2754,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_075",
+      "title": {
+        "ar": "كتاب بدء الوحي 075",
+        "en": "كتاب بدء الوحي 075"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_075.mp3",
+      "duration": 3267,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_076",
+      "title": {
+        "ar": "كتاب بدء الوحي 076",
+        "en": "كتاب بدء الوحي 076"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_076.mp3",
+      "duration": 2686,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_077",
+      "title": {
+        "ar": "كتاب بدء الوحي 077",
+        "en": "كتاب بدء الوحي 077"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_077.mp3",
+      "duration": 2995,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_078",
+      "title": {
+        "ar": "كتاب بدء الوحي 078",
+        "en": "كتاب بدء الوحي 078"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_078.mp3",
+      "duration": 1741,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_079",
+      "title": {
+        "ar": "كتاب بدء الوحي 079",
+        "en": "كتاب بدء الوحي 079"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_079.mp3",
+      "duration": 3054,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_080",
+      "title": {
+        "ar": "كتاب بدء الوحي 080",
+        "en": "كتاب بدء الوحي 080"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_080.mp3",
+      "duration": 3180,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_081",
+      "title": {
+        "ar": "كتاب بدء الوحي 081",
+        "en": "كتاب بدء الوحي 081"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_081.mp3",
+      "duration": 3274,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_082",
+      "title": {
+        "ar": "كتاب بدء الوحي 082",
+        "en": "كتاب بدء الوحي 082"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_082.mp3",
+      "duration": 3155,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_083",
+      "title": {
+        "ar": "كتاب بدء الوحي 083",
+        "en": "كتاب بدء الوحي 083"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_083.mp3",
+      "duration": 2961,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_084",
+      "title": {
+        "ar": "كتاب بدء الوحي 084",
+        "en": "كتاب بدء الوحي 084"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_084.mp3",
+      "duration": 2974,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_085",
+      "title": {
+        "ar": "كتاب بدء الوحي 085",
+        "en": "كتاب بدء الوحي 085"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_085.mp3",
+      "duration": 3121,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_086",
+      "title": {
+        "ar": "كتاب بدء الوحي 086",
+        "en": "كتاب بدء الوحي 086"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_086.mp3",
+      "duration": 3341,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_087",
+      "title": {
+        "ar": "كتاب بدء الوحي 087",
+        "en": "كتاب بدء الوحي 087"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_087.mp3",
+      "duration": 3240,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_088",
+      "title": {
+        "ar": "كتاب بدء الوحي 088",
+        "en": "كتاب بدء الوحي 088"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_088.mp3",
+      "duration": 3128,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_089",
+      "title": {
+        "ar": "كتاب بدء الوحي 089",
+        "en": "كتاب بدء الوحي 089"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_089.mp3",
+      "duration": 3196,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_090",
+      "title": {
+        "ar": "كتاب بدء الوحي 090",
+        "en": "كتاب بدء الوحي 090"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_090.mp3",
+      "duration": 3557,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_091",
+      "title": {
+        "ar": "كتاب بدء الوحي 091",
+        "en": "كتاب بدء الوحي 091"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_091.mp3",
+      "duration": 3317,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_092",
+      "title": {
+        "ar": "كتاب بدء الوحي 092",
+        "en": "كتاب بدء الوحي 092"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_092.mp3",
+      "duration": 3812,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_093",
+      "title": {
+        "ar": "كتاب بدء الوحي 093",
+        "en": "كتاب بدء الوحي 093"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_093.mp3",
+      "duration": 3624,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_094",
+      "title": {
+        "ar": "كتاب بدء الوحي 094",
+        "en": "كتاب بدء الوحي 094"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_094.mp3",
+      "duration": 3138,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_095",
+      "title": {
+        "ar": "كتاب بدء الوحي 095",
+        "en": "كتاب بدء الوحي 095"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_095.mp3",
+      "duration": 3524,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_096",
+      "title": {
+        "ar": "كتاب بدء الوحي 096",
+        "en": "كتاب بدء الوحي 096"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_096.mp3",
+      "duration": 3410,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_097",
+      "title": {
+        "ar": "كتاب بدء الوحي 097",
+        "en": "كتاب بدء الوحي 097"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_097.mp3",
+      "duration": 3506,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_098",
+      "title": {
+        "ar": "كتاب بدء الوحي 098",
+        "en": "كتاب بدء الوحي 098"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_098.mp3",
+      "duration": 3181,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_099",
+      "title": {
+        "ar": "كتاب بدء الوحي 099",
+        "en": "كتاب بدء الوحي 099"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_099.mp3",
+      "duration": 3473,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_100",
+      "title": {
+        "ar": "كتاب بدء الوحي 100",
+        "en": "كتاب بدء الوحي 100"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_100.mp3",
+      "duration": 3060,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_101",
+      "title": {
+        "ar": "كتاب بدء الوحي 101",
+        "en": "كتاب بدء الوحي 101"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_101.mp3",
+      "duration": 3425,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-01_bukhari_102",
+      "title": {
+        "ar": "كتاب بدء الوحي 102",
+        "en": "كتاب بدء الوحي 102"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/01_Bukhari_102.mp3",
+      "duration": 3025,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_001",
+      "title": {
+        "ar": "كتاب الإيمان 001",
+        "en": "كتاب الإيمان 001"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_001.mp3",
+      "duration": 3925,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_002",
+      "title": {
+        "ar": "كتاب الإيمان 002",
+        "en": "كتاب الإيمان 002"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_002.mp3",
+      "duration": 3993,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_003",
+      "title": {
+        "ar": "كتاب الإيمان 003",
+        "en": "كتاب الإيمان 003"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_003.mp3",
+      "duration": 3682,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_004",
+      "title": {
+        "ar": "كتاب الإيمان 004",
+        "en": "كتاب الإيمان 004"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_004.mp3",
+      "duration": 3357,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_005",
+      "title": {
+        "ar": "كتاب الإيمان 005",
+        "en": "كتاب الإيمان 005"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_005.mp3",
+      "duration": 3100,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_006",
+      "title": {
+        "ar": "كتاب الإيمان 006",
+        "en": "كتاب الإيمان 006"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_006.mp3",
+      "duration": 3587,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_007",
+      "title": {
+        "ar": "كتاب الإيمان 007",
+        "en": "كتاب الإيمان 007"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_007.mp3",
+      "duration": 3657,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_008",
+      "title": {
+        "ar": "كتاب الإيمان 008",
+        "en": "كتاب الإيمان 008"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_008.mp3",
+      "duration": 3286,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_009",
+      "title": {
+        "ar": "كتاب الإيمان 009",
+        "en": "كتاب الإيمان 009"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_009.mp3",
+      "duration": 2724,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_010",
+      "title": {
+        "ar": "كتاب الإيمان 010",
+        "en": "كتاب الإيمان 010"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_010.mp3",
+      "duration": 3531,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_011",
+      "title": {
+        "ar": "كتاب الإيمان 011",
+        "en": "كتاب الإيمان 011"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_011.mp3",
+      "duration": 3517,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_012",
+      "title": {
+        "ar": "كتاب الإيمان 012",
+        "en": "كتاب الإيمان 012"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_012.mp3",
+      "duration": 3220,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_013",
+      "title": {
+        "ar": "كتاب الإيمان 013",
+        "en": "كتاب الإيمان 013"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_013.mp3",
+      "duration": 3197,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_014",
+      "title": {
+        "ar": "كتاب الإيمان 014",
+        "en": "كتاب الإيمان 014"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_014.mp3",
+      "duration": 2471,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_015",
+      "title": {
+        "ar": "كتاب الإيمان 015",
+        "en": "كتاب الإيمان 015"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_015.mp3",
+      "duration": 3926,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_016",
+      "title": {
+        "ar": "كتاب الإيمان 016",
+        "en": "كتاب الإيمان 016"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_016.mp3",
+      "duration": 3564,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_017",
+      "title": {
+        "ar": "كتاب الإيمان 017",
+        "en": "كتاب الإيمان 017"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_017.mp3",
+      "duration": 3469,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_018",
+      "title": {
+        "ar": "كتاب الإيمان 018",
+        "en": "كتاب الإيمان 018"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_018.mp3",
+      "duration": 3353,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_019",
+      "title": {
+        "ar": "كتاب الإيمان 019",
+        "en": "كتاب الإيمان 019"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_019.mp3",
+      "duration": 3594,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_020",
+      "title": {
+        "ar": "كتاب الإيمان 020",
+        "en": "كتاب الإيمان 020"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_020.mp3",
+      "duration": 3487,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_021",
+      "title": {
+        "ar": "كتاب الإيمان 021",
+        "en": "كتاب الإيمان 021"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_021.mp3",
+      "duration": 3821,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_022",
+      "title": {
+        "ar": "كتاب الإيمان 022",
+        "en": "كتاب الإيمان 022"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_022.mp3",
+      "duration": 3473,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_023",
+      "title": {
+        "ar": "كتاب الإيمان 023",
+        "en": "كتاب الإيمان 023"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_023.mp3",
+      "duration": 3430,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_024",
+      "title": {
+        "ar": "كتاب الإيمان 024",
+        "en": "كتاب الإيمان 024"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_024.mp3",
+      "duration": 3562,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_025",
+      "title": {
+        "ar": "كتاب الإيمان 025",
+        "en": "كتاب الإيمان 025"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_025.mp3",
+      "duration": 3561,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_026",
+      "title": {
+        "ar": "كتاب الإيمان 026",
+        "en": "كتاب الإيمان 026"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_026.mp3",
+      "duration": 3349,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_027",
+      "title": {
+        "ar": "كتاب الإيمان 027",
+        "en": "كتاب الإيمان 027"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_027.mp3",
+      "duration": 3096,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_028",
+      "title": {
+        "ar": "كتاب الإيمان 028",
+        "en": "كتاب الإيمان 028"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_028.mp3",
+      "duration": 3081,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_029",
+      "title": {
+        "ar": "كتاب الإيمان 029",
+        "en": "كتاب الإيمان 029"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_029.mp3",
+      "duration": 3623,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_030",
+      "title": {
+        "ar": "كتاب الإيمان 030",
+        "en": "كتاب الإيمان 030"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_030.mp3",
+      "duration": 3708,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_031",
+      "title": {
+        "ar": "كتاب الإيمان 031",
+        "en": "كتاب الإيمان 031"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_031.mp3",
+      "duration": 3436,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_032",
+      "title": {
+        "ar": "كتاب الإيمان 032",
+        "en": "كتاب الإيمان 032"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_032.mp3",
+      "duration": 3324,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_033",
+      "title": {
+        "ar": "كتاب الإيمان 033",
+        "en": "كتاب الإيمان 033"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_033.mp3",
+      "duration": 3620,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_034",
+      "title": {
+        "ar": "كتاب الإيمان 034",
+        "en": "كتاب الإيمان 034"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_034.mp3",
+      "duration": 3421,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_035",
+      "title": {
+        "ar": "كتاب الإيمان 035",
+        "en": "كتاب الإيمان 035"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_035.mp3",
+      "duration": 2453,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_036",
+      "title": {
+        "ar": "كتاب الإيمان 036",
+        "en": "كتاب الإيمان 036"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_036.mp3",
+      "duration": 2805,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_037",
+      "title": {
+        "ar": "كتاب الإيمان 037",
+        "en": "كتاب الإيمان 037"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_037.mp3",
+      "duration": 2815,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_038",
+      "title": {
+        "ar": "كتاب الإيمان 038",
+        "en": "كتاب الإيمان 038"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_038.mp3",
+      "duration": 2692,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_039",
+      "title": {
+        "ar": "كتاب الإيمان 039",
+        "en": "كتاب الإيمان 039"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_039.mp3",
+      "duration": 3139,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_040",
+      "title": {
+        "ar": "كتاب الإيمان 040",
+        "en": "كتاب الإيمان 040"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_040.mp3",
+      "duration": 3325,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_041",
+      "title": {
+        "ar": "كتاب الإيمان 041",
+        "en": "كتاب الإيمان 041"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_041.mp3",
+      "duration": 3462,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_042",
+      "title": {
+        "ar": "كتاب الإيمان 042",
+        "en": "كتاب الإيمان 042"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_042.mp3",
+      "duration": 3120,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_043",
+      "title": {
+        "ar": "كتاب الإيمان 043",
+        "en": "كتاب الإيمان 043"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_043.mp3",
+      "duration": 3197,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_044",
+      "title": {
+        "ar": "كتاب الإيمان 044",
+        "en": "كتاب الإيمان 044"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_044.mp3",
+      "duration": 3405,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-02_bukhari_045",
+      "title": {
+        "ar": "كتاب الإيمان 045",
+        "en": "كتاب الإيمان 045"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/02_Bukhari_045.mp3",
+      "duration": 3318,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_01",
+      "title": {
+        "ar": "كتاب العلم 1",
+        "en": "كتاب العلم 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_01.mp3",
+      "duration": 3414,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_02",
+      "title": {
+        "ar": "كتاب العلم 2",
+        "en": "كتاب العلم 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_02.mp3",
+      "duration": 3612,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_03",
+      "title": {
+        "ar": "كتاب العلم 3",
+        "en": "كتاب العلم 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_03.mp3",
+      "duration": 3834,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_04",
+      "title": {
+        "ar": "كتاب العلم 4",
+        "en": "كتاب العلم 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_04.mp3",
+      "duration": 3436,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_05",
+      "title": {
+        "ar": "كتاب العلم 5",
+        "en": "كتاب العلم 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_05.mp3",
+      "duration": 3520,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_06",
+      "title": {
+        "ar": "كتاب العلم 6",
+        "en": "كتاب العلم 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_06.mp3",
+      "duration": 3022,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_07",
+      "title": {
+        "ar": "كتاب العلم 7",
+        "en": "كتاب العلم 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_07.mp3",
+      "duration": 2641,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_08",
+      "title": {
+        "ar": "كتاب العلم 8",
+        "en": "كتاب العلم 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_08.mp3",
+      "duration": 3865,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_09",
+      "title": {
+        "ar": "كتاب العلم 9",
+        "en": "كتاب العلم 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_09.mp3",
+      "duration": 3444,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_10",
+      "title": {
+        "ar": "كتاب العلم 10",
+        "en": "كتاب العلم 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_10.mp3",
+      "duration": 3040,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_11",
+      "title": {
+        "ar": "كتاب العلم 11",
+        "en": "كتاب العلم 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_11.mp3",
+      "duration": 3400,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_12",
+      "title": {
+        "ar": "كتاب العلم 12",
+        "en": "كتاب العلم 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_12.mp3",
+      "duration": 3080,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_13",
+      "title": {
+        "ar": "كتاب العلم 13",
+        "en": "كتاب العلم 13"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_13.mp3",
+      "duration": 3436,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_14",
+      "title": {
+        "ar": "كتاب العلم 14",
+        "en": "كتاب العلم 14"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_14.mp3",
+      "duration": 3616,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_15",
+      "title": {
+        "ar": "كتاب العلم 15",
+        "en": "كتاب العلم 15"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_15.mp3",
+      "duration": 3346,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_16",
+      "title": {
+        "ar": "كتاب العلم 16",
+        "en": "كتاب العلم 16"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_16.mp3",
+      "duration": 2862,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_17",
+      "title": {
+        "ar": "كتاب العلم 17",
+        "en": "كتاب العلم 17"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_17.mp3",
+      "duration": 3238,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_18",
+      "title": {
+        "ar": "كتاب العلم 18",
+        "en": "كتاب العلم 18"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_18.mp3",
+      "duration": 3326,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_19",
+      "title": {
+        "ar": "كتاب العلم 19",
+        "en": "كتاب العلم 19"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_19.mp3",
+      "duration": 3780,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_20",
+      "title": {
+        "ar": "كتاب العلم 20",
+        "en": "كتاب العلم 20"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_20.mp3",
+      "duration": 3241,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_21",
+      "title": {
+        "ar": "كتاب العلم 21",
+        "en": "كتاب العلم 21"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_21.mp3",
+      "duration": 3536,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_22",
+      "title": {
+        "ar": "كتاب العلم 22",
+        "en": "كتاب العلم 22"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_22.mp3",
+      "duration": 3458,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_23",
+      "title": {
+        "ar": "كتاب العلم 23",
+        "en": "كتاب العلم 23"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_23.mp3",
+      "duration": 2708,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_24",
+      "title": {
+        "ar": "كتاب العلم 24",
+        "en": "كتاب العلم 24"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_24.mp3",
+      "duration": 3528,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_25",
+      "title": {
+        "ar": "كتاب العلم 25",
+        "en": "كتاب العلم 25"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_25.mp3",
+      "duration": 3122,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_26",
+      "title": {
+        "ar": "كتاب العلم 26",
+        "en": "كتاب العلم 26"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_26.mp3",
+      "duration": 3114,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_27",
+      "title": {
+        "ar": "كتاب العلم 27",
+        "en": "كتاب العلم 27"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_27.mp3",
+      "duration": 3267,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-03_bukhari_28",
+      "title": {
+        "ar": "كتاب العلم 28",
+        "en": "كتاب العلم 28"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/03_Bukhari_28.mp3",
+      "duration": 3136,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_01",
+      "title": {
+        "ar": "كتاب الوضوء 1",
+        "en": "كتاب الوضوء 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_01.mp3",
+      "duration": 2631,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_02",
+      "title": {
+        "ar": "كتاب الوضوء 2",
+        "en": "كتاب الوضوء 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_02.mp3",
+      "duration": 3848,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_03",
+      "title": {
+        "ar": "كتاب الوضوء 3",
+        "en": "كتاب الوضوء 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_03.mp3",
+      "duration": 3540,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_04",
+      "title": {
+        "ar": "كتاب الوضوء 4",
+        "en": "كتاب الوضوء 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_04.mp3",
+      "duration": 3130,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_05",
+      "title": {
+        "ar": "كتاب الوضوء 5",
+        "en": "كتاب الوضوء 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_05.mp3",
+      "duration": 3275,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_06",
+      "title": {
+        "ar": "كتاب الوضوء 6",
+        "en": "كتاب الوضوء 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_06.mp3",
+      "duration": 3534,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_07",
+      "title": {
+        "ar": "كتاب الوضوء 7",
+        "en": "كتاب الوضوء 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_07.mp3",
+      "duration": 2848,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_08",
+      "title": {
+        "ar": "كتاب الوضوء 8",
+        "en": "كتاب الوضوء 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_08.mp3",
+      "duration": 3685,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_09",
+      "title": {
+        "ar": "كتاب الوضوء 9",
+        "en": "كتاب الوضوء 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_09.mp3",
+      "duration": 2579,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_10",
+      "title": {
+        "ar": "كتاب الوضوء 10",
+        "en": "كتاب الوضوء 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_10.mp3",
+      "duration": 3475,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_11",
+      "title": {
+        "ar": "كتاب الوضوء 11",
+        "en": "كتاب الوضوء 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_11.mp3",
+      "duration": 3650,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_12",
+      "title": {
+        "ar": "كتاب الوضوء 12",
+        "en": "كتاب الوضوء 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_12.mp3",
+      "duration": 3935,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_13",
+      "title": {
+        "ar": "كتاب الوضوء 13",
+        "en": "كتاب الوضوء 13"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_13.mp3",
+      "duration": 2372,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_14",
+      "title": {
+        "ar": "كتاب الوضوء 14",
+        "en": "كتاب الوضوء 14"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_14.mp3",
+      "duration": 3621,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_15",
+      "title": {
+        "ar": "كتاب الوضوء 15",
+        "en": "كتاب الوضوء 15"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_15.mp3",
+      "duration": 3890,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_16",
+      "title": {
+        "ar": "كتاب الوضوء 16",
+        "en": "كتاب الوضوء 16"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_16.mp3",
+      "duration": 3221,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_17",
+      "title": {
+        "ar": "كتاب الوضوء 17",
+        "en": "كتاب الوضوء 17"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_17.mp3",
+      "duration": 3349,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_18",
+      "title": {
+        "ar": "كتاب الوضوء 18",
+        "en": "كتاب الوضوء 18"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_18.mp3",
+      "duration": 3461,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_19",
+      "title": {
+        "ar": "كتاب الوضوء 19",
+        "en": "كتاب الوضوء 19"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_19.mp3",
+      "duration": 3044,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_20",
+      "title": {
+        "ar": "كتاب الوضوء 20",
+        "en": "كتاب الوضوء 20"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_20.mp3",
+      "duration": 3510,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_21",
+      "title": {
+        "ar": "كتاب الوضوء 21",
+        "en": "كتاب الوضوء 21"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_21.mp3",
+      "duration": 2410,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_22",
+      "title": {
+        "ar": "كتاب الوضوء 22",
+        "en": "كتاب الوضوء 22"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_22.mp3",
+      "duration": 3081,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_23",
+      "title": {
+        "ar": "كتاب الوضوء 23",
+        "en": "كتاب الوضوء 23"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_23.mp3",
+      "duration": 2870,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_24",
+      "title": {
+        "ar": "كتاب الوضوء 24",
+        "en": "كتاب الوضوء 24"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_24.mp3",
+      "duration": 2628,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_25",
+      "title": {
+        "ar": "كتاب الوضوء 25",
+        "en": "كتاب الوضوء 25"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_25.mp3",
+      "duration": 2428,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_26",
+      "title": {
+        "ar": "كتاب الوضوء 26",
+        "en": "كتاب الوضوء 26"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_26.mp3",
+      "duration": 3848,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_27",
+      "title": {
+        "ar": "كتاب الوضوء 27",
+        "en": "كتاب الوضوء 27"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_27.mp3",
+      "duration": 2770,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_28",
+      "title": {
+        "ar": "كتاب الوضوء 28",
+        "en": "كتاب الوضوء 28"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_28.mp3",
+      "duration": 3553,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_29",
+      "title": {
+        "ar": "كتاب الوضوء 29",
+        "en": "كتاب الوضوء 29"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_29.mp3",
+      "duration": 3550,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_30",
+      "title": {
+        "ar": "كتاب الوضوء 30",
+        "en": "كتاب الوضوء 30"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_30.mp3",
+      "duration": 3661,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_31",
+      "title": {
+        "ar": "كتاب الوضوء 31",
+        "en": "كتاب الوضوء 31"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_31.mp3",
+      "duration": 3488,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_32",
+      "title": {
+        "ar": "كتاب الوضوء 32",
+        "en": "كتاب الوضوء 32"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_32.mp3",
+      "duration": 3101,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_33",
+      "title": {
+        "ar": "كتاب الوضوء 33",
+        "en": "كتاب الوضوء 33"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_33.mp3",
+      "duration": 3255,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_34",
+      "title": {
+        "ar": "كتاب الوضوء 34",
+        "en": "كتاب الوضوء 34"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_34.mp3",
+      "duration": 4072,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_35",
+      "title": {
+        "ar": "كتاب الوضوء 35",
+        "en": "كتاب الوضوء 35"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_35.mp3",
+      "duration": 2561,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_36",
+      "title": {
+        "ar": "كتاب الوضوء 36",
+        "en": "كتاب الوضوء 36"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_36.mp3",
+      "duration": 3748,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_37",
+      "title": {
+        "ar": "كتاب الوضوء 37",
+        "en": "كتاب الوضوء 37"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_37.mp3",
+      "duration": 3204,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_38",
+      "title": {
+        "ar": "كتاب الوضوء 38",
+        "en": "كتاب الوضوء 38"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_38.mp3",
+      "duration": 3393,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_39",
+      "title": {
+        "ar": "كتاب الوضوء 39",
+        "en": "كتاب الوضوء 39"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_39.mp3",
+      "duration": 2990,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_40",
+      "title": {
+        "ar": "كتاب الوضوء 40",
+        "en": "كتاب الوضوء 40"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_40.mp3",
+      "duration": 3294,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_41",
+      "title": {
+        "ar": "كتاب الوضوء 41",
+        "en": "كتاب الوضوء 41"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_41.mp3",
+      "duration": 4111,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_42",
+      "title": {
+        "ar": "كتاب الوضوء 42",
+        "en": "كتاب الوضوء 42"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_42.mp3",
+      "duration": 4459,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_43",
+      "title": {
+        "ar": "كتاب الوضوء 43",
+        "en": "كتاب الوضوء 43"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_43.mp3",
+      "duration": 4246,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-04_bukhari_44",
+      "title": {
+        "ar": "كتاب الوضوء 44",
+        "en": "كتاب الوضوء 44"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/04_Bukhari_44.mp3",
+      "duration": 4729,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_01",
+      "title": {
+        "ar": "كتاب الغسل 1",
+        "en": "كتاب الغسل 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_01.mp3",
+      "duration": 4613,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_02",
+      "title": {
+        "ar": "كتاب الغسل 2",
+        "en": "كتاب الغسل 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_02.mp3",
+      "duration": 3581,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_03",
+      "title": {
+        "ar": "كتاب الغسل 3",
+        "en": "كتاب الغسل 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_03.mp3",
+      "duration": 3870,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_04",
+      "title": {
+        "ar": "كتاب الغسل 4",
+        "en": "كتاب الغسل 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_04.mp3",
+      "duration": 3125,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_05",
+      "title": {
+        "ar": "كتاب الغسل 5",
+        "en": "كتاب الغسل 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_05.mp3",
+      "duration": 4175,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_06",
+      "title": {
+        "ar": "كتاب الغسل 6",
+        "en": "كتاب الغسل 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_06.mp3",
+      "duration": 3852,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_07",
+      "title": {
+        "ar": "كتاب الغسل 7",
+        "en": "كتاب الغسل 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_07.mp3",
+      "duration": 3702,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_08",
+      "title": {
+        "ar": "كتاب الغسل 8",
+        "en": "كتاب الغسل 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_08.mp3",
+      "duration": 2732,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_09",
+      "title": {
+        "ar": "كتاب الغسل 9",
+        "en": "كتاب الغسل 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_09.mp3",
+      "duration": 3774,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_10",
+      "title": {
+        "ar": "كتاب الغسل 10",
+        "en": "كتاب الغسل 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_10.mp3",
+      "duration": 3334,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-05_bukhari_11",
+      "title": {
+        "ar": "كتاب الغسل 11",
+        "en": "كتاب الغسل 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/05_Bukhari_11.mp3",
+      "duration": 3124,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_01",
+      "title": {
+        "ar": "كتاب الحيض 1",
+        "en": "كتاب الحيض 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_01.mp3",
+      "duration": 3570,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_02",
+      "title": {
+        "ar": "كتاب الحيض 2",
+        "en": "كتاب الحيض 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_02.mp3",
+      "duration": 3461,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_03",
+      "title": {
+        "ar": "كتاب الحيض 3",
+        "en": "كتاب الحيض 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_03.mp3",
+      "duration": 3608,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_04",
+      "title": {
+        "ar": "كتاب الحيض 4",
+        "en": "كتاب الحيض 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_04.mp3",
+      "duration": 3130,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_05",
+      "title": {
+        "ar": "كتاب الحيض 5",
+        "en": "كتاب الحيض 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_05.mp3",
+      "duration": 2774,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_06",
+      "title": {
+        "ar": "كتاب الحيض 6",
+        "en": "كتاب الحيض 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_06.mp3",
+      "duration": 3504,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_07",
+      "title": {
+        "ar": "كتاب الحيض 7",
+        "en": "كتاب الحيض 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_07.mp3",
+      "duration": 3678,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_08",
+      "title": {
+        "ar": "كتاب الحيض 8",
+        "en": "كتاب الحيض 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_08.mp3",
+      "duration": 3768,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_09",
+      "title": {
+        "ar": "كتاب الحيض 9",
+        "en": "كتاب الحيض 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_09.mp3",
+      "duration": 3030,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_10",
+      "title": {
+        "ar": "كتاب الحيض 10",
+        "en": "كتاب الحيض 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_10.mp3",
+      "duration": 2745,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_11",
+      "title": {
+        "ar": "كتاب الحيض 11",
+        "en": "كتاب الحيض 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_11.mp3",
+      "duration": 2661,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-06_bukhari_12",
+      "title": {
+        "ar": "كتاب الحيض 12",
+        "en": "كتاب الحيض 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/06_Bukhari_12.mp3",
+      "duration": 3516,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_01",
+      "title": {
+        "ar": "كتاب التيمم 1",
+        "en": "كتاب التيمم 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_01.mp3",
+      "duration": 3210,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_02",
+      "title": {
+        "ar": "كتاب التيمم 2",
+        "en": "كتاب التيمم 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_02.mp3",
+      "duration": 2656,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_03",
+      "title": {
+        "ar": "كتاب التيمم 3",
+        "en": "كتاب التيمم 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_03.mp3",
+      "duration": 3610,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_04",
+      "title": {
+        "ar": "كتاب التيمم 4",
+        "en": "كتاب التيمم 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_04.mp3",
+      "duration": 3171,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_05",
+      "title": {
+        "ar": "كتاب التيمم 5",
+        "en": "كتاب التيمم 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_05.mp3",
+      "duration": 3529,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_06",
+      "title": {
+        "ar": "كتاب التيمم 6",
+        "en": "كتاب التيمم 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_06.mp3",
+      "duration": 2755,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_07",
+      "title": {
+        "ar": "كتاب التيمم 7",
+        "en": "كتاب التيمم 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_07.mp3",
+      "duration": 3266,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_08",
+      "title": {
+        "ar": "كتاب التيمم 8",
+        "en": "كتاب التيمم 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_08.mp3",
+      "duration": 3222,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_09",
+      "title": {
+        "ar": "كتاب التيمم 9",
+        "en": "كتاب التيمم 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_09.mp3",
+      "duration": 2728,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-07_bukhari_10",
+      "title": {
+        "ar": "كتاب التيمم 10",
+        "en": "كتاب التيمم 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/07_Bukhari_10.mp3",
+      "duration": 3809,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_01",
+      "title": {
+        "ar": "كتاب الصلاة 1",
+        "en": "كتاب الصلاة 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_01.mp3",
+      "duration": 2711,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_02",
+      "title": {
+        "ar": "كتاب الصلاة 2",
+        "en": "كتاب الصلاة 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_02.mp3",
+      "duration": 2682,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_03",
+      "title": {
+        "ar": "كتاب الصلاة 3",
+        "en": "كتاب الصلاة 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_03.mp3",
+      "duration": 2465,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_04",
+      "title": {
+        "ar": "كتاب الصلاة 4",
+        "en": "كتاب الصلاة 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_04.mp3",
+      "duration": 1983,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_05",
+      "title": {
+        "ar": "كتاب الصلاة 5",
+        "en": "كتاب الصلاة 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_05.mp3",
+      "duration": 3664,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_06",
+      "title": {
+        "ar": "كتاب الصلاة 6",
+        "en": "كتاب الصلاة 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_06.mp3",
+      "duration": 3672,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_07",
+      "title": {
+        "ar": "كتاب الصلاة 7",
+        "en": "كتاب الصلاة 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_07.mp3",
+      "duration": 3994,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_08",
+      "title": {
+        "ar": "كتاب الصلاة 8",
+        "en": "كتاب الصلاة 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_08.mp3",
+      "duration": 3046,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_09",
+      "title": {
+        "ar": "كتاب الصلاة 9",
+        "en": "كتاب الصلاة 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_09.mp3",
+      "duration": 4191,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_10",
+      "title": {
+        "ar": "كتاب الصلاة 10",
+        "en": "كتاب الصلاة 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_10.mp3",
+      "duration": 4432,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_11",
+      "title": {
+        "ar": "كتاب الصلاة 11",
+        "en": "كتاب الصلاة 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_11.mp3",
+      "duration": 3346,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_12",
+      "title": {
+        "ar": "كتاب الصلاة 12",
+        "en": "كتاب الصلاة 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_12.mp3",
+      "duration": 3339,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_13",
+      "title": {
+        "ar": "كتاب الصلاة 13",
+        "en": "كتاب الصلاة 13"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_13.mp3",
+      "duration": 3308,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_14",
+      "title": {
+        "ar": "كتاب الصلاة 14",
+        "en": "كتاب الصلاة 14"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_14.mp3",
+      "duration": 3540,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_15",
+      "title": {
+        "ar": "كتاب الصلاة 15",
+        "en": "كتاب الصلاة 15"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_15.mp3",
+      "duration": 3515,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_16",
+      "title": {
+        "ar": "كتاب الصلاة 16",
+        "en": "كتاب الصلاة 16"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_16.mp3",
+      "duration": 1916,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_17",
+      "title": {
+        "ar": "كتاب الصلاة 17",
+        "en": "كتاب الصلاة 17"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_17.mp3",
+      "duration": 3392,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_18",
+      "title": {
+        "ar": "كتاب الصلاة 18",
+        "en": "كتاب الصلاة 18"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_18.mp3",
+      "duration": 3590,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_19",
+      "title": {
+        "ar": "كتاب الصلاة 19",
+        "en": "كتاب الصلاة 19"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_19.mp3",
+      "duration": 3172,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_20",
+      "title": {
+        "ar": "كتاب الصلاة 20",
+        "en": "كتاب الصلاة 20"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_20.mp3",
+      "duration": 3154,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_21",
+      "title": {
+        "ar": "كتاب الصلاة 21",
+        "en": "كتاب الصلاة 21"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_21.mp3",
+      "duration": 3318,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_22",
+      "title": {
+        "ar": "كتاب الصلاة 22",
+        "en": "كتاب الصلاة 22"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_22.mp3",
+      "duration": 2825,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_23",
+      "title": {
+        "ar": "كتاب الصلاة 23",
+        "en": "كتاب الصلاة 23"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_23.mp3",
+      "duration": 2396,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_24",
+      "title": {
+        "ar": "كتاب الصلاة 24",
+        "en": "كتاب الصلاة 24"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_24.mp3",
+      "duration": 2801,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_25",
+      "title": {
+        "ar": "كتاب الصلاة 25",
+        "en": "كتاب الصلاة 25"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_25.mp3",
+      "duration": 2619,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_26",
+      "title": {
+        "ar": "كتاب الصلاة 26",
+        "en": "كتاب الصلاة 26"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_26.mp3",
+      "duration": 3353,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_27",
+      "title": {
+        "ar": "كتاب الصلاة 27",
+        "en": "كتاب الصلاة 27"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_27.mp3",
+      "duration": 3997,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_28",
+      "title": {
+        "ar": "كتاب الصلاة 28",
+        "en": "كتاب الصلاة 28"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_28.mp3",
+      "duration": 3057,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_29",
+      "title": {
+        "ar": "كتاب الصلاة 29",
+        "en": "كتاب الصلاة 29"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_29.mp3",
+      "duration": 2845,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_30",
+      "title": {
+        "ar": "كتاب الصلاة 30",
+        "en": "كتاب الصلاة 30"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_30.mp3",
+      "duration": 4077,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_31",
+      "title": {
+        "ar": "كتاب الصلاة 31",
+        "en": "كتاب الصلاة 31"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_31.mp3",
+      "duration": 3215,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_32",
+      "title": {
+        "ar": "كتاب الصلاة 32",
+        "en": "كتاب الصلاة 32"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_32.mp3",
+      "duration": 2981,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_33",
+      "title": {
+        "ar": "كتاب الصلاة 33",
+        "en": "كتاب الصلاة 33"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_33.mp3",
+      "duration": 3860,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_34",
+      "title": {
+        "ar": "كتاب الصلاة 34",
+        "en": "كتاب الصلاة 34"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_34.mp3",
+      "duration": 3590,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_35",
+      "title": {
+        "ar": "كتاب الصلاة 35",
+        "en": "كتاب الصلاة 35"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_35.mp3",
+      "duration": 2911,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_36",
+      "title": {
+        "ar": "كتاب الصلاة 36",
+        "en": "كتاب الصلاة 36"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_36.mp3",
+      "duration": 2887,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_37",
+      "title": {
+        "ar": "كتاب الصلاة 37",
+        "en": "كتاب الصلاة 37"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_37.mp3",
+      "duration": 3449,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_38",
+      "title": {
+        "ar": "كتاب الصلاة 38",
+        "en": "كتاب الصلاة 38"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_38.mp3",
+      "duration": 3152,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_39",
+      "title": {
+        "ar": "كتاب الصلاة 39",
+        "en": "كتاب الصلاة 39"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_39.mp3",
+      "duration": 3531,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_40",
+      "title": {
+        "ar": "كتاب الصلاة 40",
+        "en": "كتاب الصلاة 40"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_40.mp3",
+      "duration": 2437,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_41",
+      "title": {
+        "ar": "كتاب الصلاة 41",
+        "en": "كتاب الصلاة 41"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_41.mp3",
+      "duration": 2465,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_42",
+      "title": {
+        "ar": "كتاب الصلاة 42",
+        "en": "كتاب الصلاة 42"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_42.mp3",
+      "duration": 2285,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_43",
+      "title": {
+        "ar": "كتاب الصلاة 43",
+        "en": "كتاب الصلاة 43"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_43.mp3",
+      "duration": 2447,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-08_bukhari_44",
+      "title": {
+        "ar": "كتاب الصلاة 44",
+        "en": "كتاب الصلاة 44"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/08_Bukhari_44.mp3",
+      "duration": 3073,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_01",
+      "title": {
+        "ar": "كتاب الحج 1",
+        "en": "كتاب الحج 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_01.mp3",
+      "duration": 4823,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_02",
+      "title": {
+        "ar": "كتاب الحج 2",
+        "en": "كتاب الحج 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_02.mp3",
+      "duration": 3937,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_03",
+      "title": {
+        "ar": "كتاب الحج 3",
+        "en": "كتاب الحج 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_03.mp3",
+      "duration": 4440,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_04",
+      "title": {
+        "ar": "كتاب الحج 4",
+        "en": "كتاب الحج 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_04.mp3",
+      "duration": 4532,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_05",
+      "title": {
+        "ar": "كتاب الحج 5",
+        "en": "كتاب الحج 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_05.mp3",
+      "duration": 4158,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_06",
+      "title": {
+        "ar": "كتاب الحج 6",
+        "en": "كتاب الحج 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_06.mp3",
+      "duration": 3456,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25a_bukhari_07",
+      "title": {
+        "ar": "كتاب الحج 7",
+        "en": "كتاب الحج 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25a_Bukhari_07.mp3",
+      "duration": 3706,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_01",
+      "title": {
+        "ar": "كتاب الحج 1",
+        "en": "كتاب الحج 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_01.mp3",
+      "duration": 4823,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_02",
+      "title": {
+        "ar": "كتاب الحج 2",
+        "en": "كتاب الحج 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_02.mp3",
+      "duration": 3937,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_03",
+      "title": {
+        "ar": "كتاب الحج 3",
+        "en": "كتاب الحج 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_03.mp3",
+      "duration": 4440,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_04",
+      "title": {
+        "ar": "كتاب الحج 4",
+        "en": "كتاب الحج 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_04.mp3",
+      "duration": 4532,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_05",
+      "title": {
+        "ar": "كتاب الحج 5",
+        "en": "كتاب الحج 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_05.mp3",
+      "duration": 4158,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_07",
+      "title": {
+        "ar": "كتاب الحج 7",
+        "en": "كتاب الحج 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_07.mp3",
+      "duration": 3706,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_08",
+      "title": {
+        "ar": "كتاب الحج 8",
+        "en": "كتاب الحج 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_08.mp3",
+      "duration": 5070,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_09",
+      "title": {
+        "ar": "كتاب الحج 9",
+        "en": "كتاب الحج 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_09.mp3",
+      "duration": 4595,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_10",
+      "title": {
+        "ar": "كتاب الحج 10",
+        "en": "كتاب الحج 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_10.mp3",
+      "duration": 4545,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_11",
+      "title": {
+        "ar": "كتاب الحج 11",
+        "en": "كتاب الحج 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_11.mp3",
+      "duration": 5034,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_12",
+      "title": {
+        "ar": "كتاب الحج 12",
+        "en": "كتاب الحج 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_12.mp3",
+      "duration": 4623,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-25b_bukhari_13",
+      "title": {
+        "ar": "كتاب الحج 13",
+        "en": "كتاب الحج 13"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/25b_Bukhari_13.mp3",
+      "duration": 4929,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_01",
+      "title": {
+        "ar": "كتاب البيوع 1",
+        "en": "كتاب البيوع 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_01.mp3",
+      "duration": 4901,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_02",
+      "title": {
+        "ar": "كتاب البيوع 2",
+        "en": "كتاب البيوع 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_02.mp3",
+      "duration": 4030,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_03",
+      "title": {
+        "ar": "كتاب البيوع 3",
+        "en": "كتاب البيوع 3"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_03.mp3",
+      "duration": 3321,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_04",
+      "title": {
+        "ar": "كتاب البيوع 4",
+        "en": "كتاب البيوع 4"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_04.mp3",
+      "duration": 3443,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_05",
+      "title": {
+        "ar": "كتاب البيوع 5",
+        "en": "كتاب البيوع 5"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_05.mp3",
+      "duration": 3441,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_06",
+      "title": {
+        "ar": "كتاب البيوع 6",
+        "en": "كتاب البيوع 6"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_06.mp3",
+      "duration": 3895,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_07",
+      "title": {
+        "ar": "كتاب البيوع 7",
+        "en": "كتاب البيوع 7"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_07.mp3",
+      "duration": 3701,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_08",
+      "title": {
+        "ar": "كتاب البيوع 8",
+        "en": "كتاب البيوع 8"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_08.mp3",
+      "duration": 4284,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_09",
+      "title": {
+        "ar": "كتاب البيوع 9",
+        "en": "كتاب البيوع 9"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_09.mp3",
+      "duration": 4585,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_10",
+      "title": {
+        "ar": "كتاب البيوع 10",
+        "en": "كتاب البيوع 10"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_10.mp3",
+      "duration": 4750,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_11",
+      "title": {
+        "ar": "كتاب البيوع 11",
+        "en": "كتاب البيوع 11"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_11.mp3",
+      "duration": 3877,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_12",
+      "title": {
+        "ar": "كتاب البيوع 12",
+        "en": "كتاب البيوع 12"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_12.mp3",
+      "duration": 4064,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_13",
+      "title": {
+        "ar": "كتاب البيوع 13",
+        "en": "كتاب البيوع 13"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_13.mp3",
+      "duration": 2815,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_14",
+      "title": {
+        "ar": "كتاب البيوع 14",
+        "en": "كتاب البيوع 14"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_14.mp3",
+      "duration": 2269,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_15",
+      "title": {
+        "ar": "كتاب البيوع 15",
+        "en": "كتاب البيوع 15"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_15.mp3",
+      "duration": 2805,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_16",
+      "title": {
+        "ar": "كتاب البيوع 16",
+        "en": "كتاب البيوع 16"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_16.mp3",
+      "duration": 2401,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_17",
+      "title": {
+        "ar": "كتاب البيوع 17",
+        "en": "كتاب البيوع 17"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_17.mp3",
+      "duration": 1539,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_18",
+      "title": {
+        "ar": "كتاب البيوع 18",
+        "en": "كتاب البيوع 18"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_18.mp3",
+      "duration": 2287,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_19",
+      "title": {
+        "ar": "كتاب البيوع 19",
+        "en": "كتاب البيوع 19"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_19.mp3",
+      "duration": 2346,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_20",
+      "title": {
+        "ar": "كتاب البيوع 20",
+        "en": "كتاب البيوع 20"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_20.mp3",
+      "duration": 3327,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_21",
+      "title": {
+        "ar": "كتاب البيوع 21",
+        "en": "كتاب البيوع 21"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_21.mp3",
+      "duration": 2145,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_22",
+      "title": {
+        "ar": "كتاب البيوع 22",
+        "en": "كتاب البيوع 22"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_22.mp3",
+      "duration": 2619,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_23",
+      "title": {
+        "ar": "كتاب البيوع 23",
+        "en": "كتاب البيوع 23"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_23.mp3",
+      "duration": 2174,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-34_bukhari_24",
+      "title": {
+        "ar": "كتاب البيوع 24",
+        "en": "كتاب البيوع 24"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/34_Bukhari_24.mp3",
+      "duration": 1781,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-35_bukhari_01",
+      "title": {
+        "ar": "كتاب السلم 1",
+        "en": "كتاب السلم 1"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/35_Bukhari_01.mp3",
+      "duration": 2325,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-35_bukhari_02",
+      "title": {
+        "ar": "كتاب السلم 2",
+        "en": "كتاب السلم 2"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/35_Bukhari_02.mp3",
+      "duration": 1538,
+      "surahIndex": null
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari-36_bukhari_01",
+      "title": {
+        "ar": "كتاب الشفعة",
+        "en": "كتاب الشفعة"
+      },
+      "url": "https://archive.org/download/Sharh__Sahih_al-Bukhari/36_Bukhari_01.mp3",
+      "duration": 2145,
+      "surahIndex": null
+    }
+  ]
+}

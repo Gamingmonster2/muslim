@@ -1,0 +1,755 @@
+{
+  "id": "sahih_attargheeb",
+  "title": {
+    "ar": "صحيح الترغيب والترهيب — قراءة صوتية — أبو أحمد رشيد الشيظمي",
+    "en": "Sahih At-Targheeb wat-Tarheeb — Audiobook — Abu Ahmad Rashid Al-Shayzami"
+  },
+  "creator": {
+    "ar": "أبو أحمد رشيد الشيظمي",
+    "en": "Abu Ahmad Rashid Al-Shayzami"
+  },
+  "cover": "/images/library/sahih_attargheeb.jpg",
+  "sourceUrl": "https://archive.org/details/sahih_attargheeb",
+  "tracks": [
+    {
+      "id": "sahih_attargheeb-01",
+      "title": {
+        "ar": "01- كتاب الخلاص من صحيح الترغيب والترهيب",
+        "en": "01- كتاب الخلاص من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/01.mp3",
+      "duration": 2480,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-02",
+      "title": {
+        "ar": "02- كتاب السنة من صحيح الترغيب والترهيب",
+        "en": "02- كتاب السنة من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/02.mp3",
+      "duration": 1241,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-03",
+      "title": {
+        "ar": "03- كتاب العلم من صحيح الترغيب والترهيب",
+        "en": "03- كتاب العلم من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/03.mp3",
+      "duration": 3046,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-04",
+      "title": {
+        "ar": "04- كتاب الطهارة من صحيح الترغيب والترهيب",
+        "en": "04- كتاب الطهارة من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/04.mp3",
+      "duration": 3735,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-05",
+      "title": {
+        "ar": "05- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الأول",
+        "en": "05- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الأول"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/05.mp3",
+      "duration": 2275,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-06",
+      "title": {
+        "ar": "06- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الثاني",
+        "en": "06- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الثاني"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/06.mp3",
+      "duration": 2050,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-07",
+      "title": {
+        "ar": "07- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الثالث",
+        "en": "07- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الثالث"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/07.mp3",
+      "duration": 2370,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-08",
+      "title": {
+        "ar": "08- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الرابع",
+        "en": "08- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الرابع"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/08.mp3",
+      "duration": 2597,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-09",
+      "title": {
+        "ar": "09- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الرابع",
+        "en": "09- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء الرابع"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/09.mp3",
+      "duration": 2252,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-10",
+      "title": {
+        "ar": "10- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء السادس",
+        "en": "10- كتاب الصلاة من صحيح الترغيب والترهيب - الجزء السادس"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/10.mp3",
+      "duration": 3210,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-11",
+      "title": {
+        "ar": "11- كتاب النوافل من صحيح الترغيب والترهيب - الجزء الأول",
+        "en": "11- كتاب النوافل من صحيح الترغيب والترهيب - الجزء الأول"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/11.mp3",
+      "duration": 3110,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-12",
+      "title": {
+        "ar": "12- كتاب النوافل من صحيح الترغيب والترهيب - الجزء الثاني",
+        "en": "12- كتاب النوافل من صحيح الترغيب والترهيب - الجزء الثاني"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/12.mp3",
+      "duration": 2146,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-13",
+      "title": {
+        "ar": "13- كتاب الجمعة من صحيح الترغيب والترهيب",
+        "en": "13- كتاب الجمعة من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/13.mp3",
+      "duration": 2690,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-14",
+      "title": {
+        "ar": "14- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الأول",
+        "en": "14- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الأول"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/14.mp3",
+      "duration": 2514,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-15",
+      "title": {
+        "ar": "15- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الثاني",
+        "en": "15- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الثاني"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/15.mp3",
+      "duration": 3032,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-16",
+      "title": {
+        "ar": "16- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الثالث",
+        "en": "16- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الثالث"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/16.mp3",
+      "duration": 2731,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-17",
+      "title": {
+        "ar": "17- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الرابع",
+        "en": "17- كتاب الصدقات من صحيح الترغيب والترهيب - الجزء الرابع"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/17.mp3",
+      "duration": 3443,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-18",
+      "title": {
+        "ar": "18- كتاب الصوم من صحيح الترغيب والترهيب - الجزء الأول",
+        "en": "18- كتاب الصوم من صحيح الترغيب والترهيب - الجزء الأول"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/18.mp3",
+      "duration": 2917,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-19",
+      "title": {
+        "ar": "19- كتاب الصوم من صحيح الترغيب والترهيب - الجزء الثاني",
+        "en": "19- كتاب الصوم من صحيح الترغيب والترهيب - الجزء الثاني"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/19.mp3",
+      "duration": 2140,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-20",
+      "title": {
+        "ar": "20- كتاب العيدين والأضحية من صحيح الترغيب والترهيب",
+        "en": "20- كتاب العيدين والأضحية من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/20.mp3",
+      "duration": 362,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-21",
+      "title": {
+        "ar": "21- كتاب الحج (01) من صحيح الترغيب والترهيب",
+        "en": "21- كتاب الحج (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/21.mp3",
+      "duration": 1989,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-22",
+      "title": {
+        "ar": "22- كتاب الحج (02) من صحيح الترغيب والترهيب",
+        "en": "22- كتاب الحج (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/22.mp3",
+      "duration": 1901,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-23",
+      "title": {
+        "ar": "23- كتاب الحج (03) من صحيح الترغيب والترهيب",
+        "en": "23- كتاب الحج (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/23.mp3",
+      "duration": 2071,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-24",
+      "title": {
+        "ar": "24- كتاب الجهاد (01) من صحيح الترغيب والترهيب",
+        "en": "24- كتاب الجهاد (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/24.mp3",
+      "duration": 2076,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-25",
+      "title": {
+        "ar": "25- كتاب الجهاد (02) من صحيح الترغيب والترهيب",
+        "en": "25- كتاب الجهاد (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/25.mp3",
+      "duration": 1480,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-26",
+      "title": {
+        "ar": "26- كتاب الجهاد (03) من صحيح الترغيب والترهيب",
+        "en": "26- كتاب الجهاد (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/26.mp3",
+      "duration": 2461,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-27",
+      "title": {
+        "ar": "27- كتاب الجهاد (04) من صحيح الترغيب والترهيب",
+        "en": "27- كتاب الجهاد (04) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/27.mp3",
+      "duration": 2684,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-28",
+      "title": {
+        "ar": "28- كتاب الجهاد (05) من صحيح الترغيب والترهيب",
+        "en": "28- كتاب الجهاد (05) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/28.mp3",
+      "duration": 1359,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-29",
+      "title": {
+        "ar": "29- كتاب قراءة القرآن (01) من صحيح الترغيب والترهيب",
+        "en": "29- كتاب قراءة القرآن (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/29.mp3",
+      "duration": 1875,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-30",
+      "title": {
+        "ar": "30- كتاب قراءة القرآن (02) من صحيح الترغيب والترهيب",
+        "en": "30- كتاب قراءة القرآن (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/30.mp3",
+      "duration": 1663,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-31",
+      "title": {
+        "ar": "31- كتاب الذكر (01) من صحيح الترغيب والترهيب",
+        "en": "31- كتاب الذكر (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/31.mp3",
+      "duration": 2302,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-32",
+      "title": {
+        "ar": "32- كتاب الذكر (02) من صحيح الترغيب والترهيب",
+        "en": "32- كتاب الذكر (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/32.mp3",
+      "duration": 2207,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-33",
+      "title": {
+        "ar": "33- كتاب الذكر (03) من صحيح الترغيب والترهيب",
+        "en": "33- كتاب الذكر (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/33.mp3",
+      "duration": 2197,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-34",
+      "title": {
+        "ar": "34- كتاب الدعاء من صحيح الترغيب والترهيب",
+        "en": "34- كتاب الدعاء من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/34.mp3",
+      "duration": 2609,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-35",
+      "title": {
+        "ar": "35- كتاب البيوع (01) من صحيح الترغيب والترهيب",
+        "en": "35- كتاب البيوع (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/35.mp3",
+      "duration": 2083,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-36",
+      "title": {
+        "ar": "36- كتاب البيوع (02) من صحيح الترغيب والترهيب",
+        "en": "36- كتاب البيوع (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/36.mp3",
+      "duration": 1978,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-37",
+      "title": {
+        "ar": "37- كتاب البيوع (03) من صحيح الترغيب والترهيب",
+        "en": "37- كتاب البيوع (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/37.mp3",
+      "duration": 2163,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-38",
+      "title": {
+        "ar": "38- كتاب البيوع (04) من صحيح الترغيب والترهيب",
+        "en": "38- كتاب البيوع (04) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/38.mp3",
+      "duration": 2176,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-39",
+      "title": {
+        "ar": "39- كتاب النكاح (01) من صحيح الترغيب والترهيب",
+        "en": "39- كتاب النكاح (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/39.mp3",
+      "duration": 2309,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-40",
+      "title": {
+        "ar": "40- كتاب النكاح (02) من صحيح الترغيب والترهيب",
+        "en": "40- كتاب النكاح (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/40.mp3",
+      "duration": 1747,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-41",
+      "title": {
+        "ar": "41- كتاب النكاح (03) من صحيح الترغيب والترهيب",
+        "en": "41- كتاب النكاح (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/41.mp3",
+      "duration": 1403,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-42",
+      "title": {
+        "ar": "42- كتاب اللباس والزينة من صحيح الترغيب والترهيب",
+        "en": "42- كتاب اللباس والزينة من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/42.mp3",
+      "duration": 2933,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-43",
+      "title": {
+        "ar": "43- كتاب الطعام وغيره من صحيح الترغيب والترهيب",
+        "en": "43- كتاب الطعام وغيره من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/43.mp3",
+      "duration": 2059,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-44",
+      "title": {
+        "ar": "44- كتاب القضاء (01) وغيره من صحيح الترغيب والترهيب",
+        "en": "44- كتاب القضاء (01) وغيره من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/44.mp3",
+      "duration": 2548,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-45",
+      "title": {
+        "ar": "45- كتاب القضاء (02) وغيره من صحيح الترغيب والترهيب",
+        "en": "45- كتاب القضاء (02) وغيره من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/45.mp3",
+      "duration": 2983,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-46",
+      "title": {
+        "ar": "46- كتاب الحدود (01) من صحيح الترغيب والترهيب",
+        "en": "46- كتاب الحدود (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/46.mp3",
+      "duration": 2265,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-47",
+      "title": {
+        "ar": "47- كتاب الحدود (02) من صحيح الترغيب والترهيب",
+        "en": "47- كتاب الحدود (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/47.mp3",
+      "duration": 2498,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-48",
+      "title": {
+        "ar": "48- كتاب الحدود (03) من صحيح الترغيب والترهيب",
+        "en": "48- كتاب الحدود (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/48.mp3",
+      "duration": 2460,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-49",
+      "title": {
+        "ar": "49- كتاب البر والصلة وغيرهما (01) من صحيح الترغيب والترهيب",
+        "en": "49- كتاب البر والصلة وغيرهما (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/49.mp3",
+      "duration": 1788,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-50",
+      "title": {
+        "ar": "50- كتاب البر والصلة وغيرهما (02) من صحيح الترغيب والترهيب",
+        "en": "50- كتاب البر والصلة وغيرهما (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/50.mp3",
+      "duration": 2281,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-51",
+      "title": {
+        "ar": "51- كتاب البر والصلة وغيرهما (03) من صحيح الترغيب والترهيب",
+        "en": "51- كتاب البر والصلة وغيرهما (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/51.mp3",
+      "duration": 1870,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-52",
+      "title": {
+        "ar": "52- كتاب الأدب (01) من صحيح الترغيب والترهيب",
+        "en": "52- كتاب الأدب (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/52.mp3",
+      "duration": 2064,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-53",
+      "title": {
+        "ar": "53- كتاب الأدب (02) من صحيح الترغيب والترهيب",
+        "en": "53- كتاب الأدب (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/53.mp3",
+      "duration": 1942,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-54",
+      "title": {
+        "ar": "54- كتاب الأدب (03) من صحيح الترغيب والترهيب",
+        "en": "54- كتاب الأدب (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/54.mp3",
+      "duration": 2006,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-55",
+      "title": {
+        "ar": "55- كتاب الأدب (04) من صحيح الترغيب والترهيب",
+        "en": "55- كتاب الأدب (04) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/55.mp3",
+      "duration": 1741,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-56",
+      "title": {
+        "ar": "56- كتاب الأدب (05) من صحيح الترغيب والترهيب",
+        "en": "56- كتاب الأدب (05) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/56.mp3",
+      "duration": 1672,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-57",
+      "title": {
+        "ar": "57- كتاب الأدب (06) من صحيح الترغيب والترهيب",
+        "en": "57- كتاب الأدب (06) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/57.mp3",
+      "duration": 1392,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-58",
+      "title": {
+        "ar": "58- كتاب الأدب (07) من صحيح الترغيب والترهيب",
+        "en": "58- كتاب الأدب (07) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/58.mp3",
+      "duration": 2057,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-59",
+      "title": {
+        "ar": "59- كتاب الأدب (08) من صحيح الترغيب والترهيب",
+        "en": "59- كتاب الأدب (08) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/59.mp3",
+      "duration": 2194,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-60",
+      "title": {
+        "ar": "60- كتاب الأدب (09) من صحيح الترغيب والترهيب",
+        "en": "60- كتاب الأدب (09) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/60.mp3",
+      "duration": 2765,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-61",
+      "title": {
+        "ar": "61- كتاب الأدب (10) من صحيح الترغيب والترهيب",
+        "en": "61- كتاب الأدب (10) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/61.mp3",
+      "duration": 2730,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-62",
+      "title": {
+        "ar": "62- كتاب التوبة و الزهد (01) من صحيح الترغيب والترهيب",
+        "en": "62- كتاب التوبة و الزهد (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/62.mp3",
+      "duration": 2075,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-63",
+      "title": {
+        "ar": "63- كتاب التوبة و الزهد (02) من صحيح الترغيب والترهيب",
+        "en": "63- كتاب التوبة و الزهد (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/63.mp3",
+      "duration": 1537,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-64",
+      "title": {
+        "ar": "64- كتاب التوبة و الزهد (03) من صحيح الترغيب والترهيب",
+        "en": "64- كتاب التوبة و الزهد (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/64.mp3",
+      "duration": 1957,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-65",
+      "title": {
+        "ar": "65- كتاب التوبة و الزهد (04) من صحيح الترغيب والترهيب",
+        "en": "65- كتاب التوبة و الزهد (04) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/65.mp3",
+      "duration": 2858,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-66",
+      "title": {
+        "ar": "66- كتاب التوبة و الزهد (05) من صحيح الترغيب والترهيب",
+        "en": "66- كتاب التوبة و الزهد (05) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/66.mp3",
+      "duration": 2584,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-67",
+      "title": {
+        "ar": "67- كتاب الجنائز وما يتقدمها (01) من صحيح الترغيب والترهيب",
+        "en": "67- كتاب الجنائز وما يتقدمها (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/67.mp3",
+      "duration": 2537,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-68",
+      "title": {
+        "ar": "68- كتاب الجنائز وما يتقدمها (02) من صحيح الترغيب والترهيب",
+        "en": "68- كتاب الجنائز وما يتقدمها (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/68.mp3",
+      "duration": 2527,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-69",
+      "title": {
+        "ar": "69- كتاب الجنائز وما يتقدمها (03) من صحيح الترغيب والترهيب",
+        "en": "69- كتاب الجنائز وما يتقدمها (03) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/69.mp3",
+      "duration": 2938,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-70",
+      "title": {
+        "ar": "70- كتاب البعث وأهوال القيامة (01) من صحيح الترغيب والترهيب",
+        "en": "70- كتاب البعث وأهوال القيامة (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/70.mp3",
+      "duration": 3204,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-71",
+      "title": {
+        "ar": "71- كتاب البعث وأهوال القيامة (02) من صحيح الترغيب والترهيب",
+        "en": "71- كتاب البعث وأهوال القيامة (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/71.mp3",
+      "duration": 2847,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-72",
+      "title": {
+        "ar": "كتاب صفة النار من صحيح الترغيب والترهيب",
+        "en": "كتاب صفة النار من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/72.mp3",
+      "duration": 1817,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-73",
+      "title": {
+        "ar": "73- كتاب صفة الجنة (01) من صحيح الترغيب والترهيب",
+        "en": "73- كتاب صفة الجنة (01) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/73.mp3",
+      "duration": 2350,
+      "surahIndex": null
+    },
+    {
+      "id": "sahih_attargheeb-74",
+      "title": {
+        "ar": "74- كتاب صفة الجنة (02) من صحيح الترغيب والترهيب",
+        "en": "74- كتاب صفة الجنة (02) من صحيح الترغيب والترهيب"
+      },
+      "url": "https://archive.org/download/sahih_attargheeb/74.mp3",
+      "duration": 2191,
+      "surahIndex": null
+    }
+  ]
+}

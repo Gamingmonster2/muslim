@@ -1,0 +1,1155 @@
+{
+  "id": "Abdullah_Kamel_www.suratmp3.com",
+  "title": {
+    "ar": "المصحف الكامل — عبد الله كامل",
+    "en": "The Holy Qur'an — Complete — Abdullah Kamel"
+  },
+  "creator": {
+    "ar": "عبد الله كامل",
+    "en": "Abdullah Kamel"
+  },
+  "cover": "/images/library/Abdullah_Kamel_www.suratmp3.com.jpg",
+  "sourceUrl": "https://archive.org/details/Abdullah_Kamel_www.suratmp3.com",
+  "tracks": [
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/001.mp3",
+      "duration": 51,
+      "surahIndex": 1
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/002.mp3",
+      "duration": 7974,
+      "surahIndex": 2
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/003.mp3",
+      "duration": 4722,
+      "surahIndex": 3
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/004.mp3",
+      "duration": 5086,
+      "surahIndex": 4
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/005.mp3",
+      "duration": 4128,
+      "surahIndex": 5
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/006.mp3",
+      "duration": 4077,
+      "surahIndex": 6
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/007.mp3",
+      "duration": 4894,
+      "surahIndex": 7
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/008.mp3",
+      "duration": 1769,
+      "surahIndex": 8
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/009.mp3",
+      "duration": 3498,
+      "surahIndex": 9
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/010.mp3",
+      "duration": 2519,
+      "surahIndex": 10
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/011.mp3",
+      "duration": 2827,
+      "surahIndex": 11
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/012.mp3",
+      "duration": 2769,
+      "surahIndex": 12
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/013.mp3",
+      "duration": 1157,
+      "surahIndex": 13
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/014.mp3",
+      "duration": 1560,
+      "surahIndex": 14
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/015.mp3",
+      "duration": 991,
+      "surahIndex": 15
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/016.mp3",
+      "duration": 2607,
+      "surahIndex": 16
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/017.mp3",
+      "duration": 2120,
+      "surahIndex": 17
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/018.mp3",
+      "duration": 2175,
+      "surahIndex": 18
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/019.mp3",
+      "duration": 1398,
+      "surahIndex": 19
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/020.mp3",
+      "duration": 1859,
+      "surahIndex": 20
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/021.mp3",
+      "duration": 2020,
+      "surahIndex": 21
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/022.mp3",
+      "duration": 1938,
+      "surahIndex": 22
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/023.mp3",
+      "duration": 1717,
+      "surahIndex": 23
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/024.mp3",
+      "duration": 1980,
+      "surahIndex": 24
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/025.mp3",
+      "duration": 1309,
+      "surahIndex": 25
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/026.mp3",
+      "duration": 2005,
+      "surahIndex": 26
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/027.mp3",
+      "duration": 1849,
+      "surahIndex": 27
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/028.mp3",
+      "duration": 2098,
+      "surahIndex": 28
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/029.mp3",
+      "duration": 1463,
+      "surahIndex": 29
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/030.mp3",
+      "duration": 1162,
+      "surahIndex": 30
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/031.mp3",
+      "duration": 715,
+      "surahIndex": 31
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/032.mp3",
+      "duration": 570,
+      "surahIndex": 32
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/033.mp3",
+      "duration": 1922,
+      "surahIndex": 33
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/034.mp3",
+      "duration": 1277,
+      "surahIndex": 34
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/035.mp3",
+      "duration": 1340,
+      "surahIndex": 35
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/036.mp3",
+      "duration": 1146,
+      "surahIndex": 36
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/037.mp3",
+      "duration": 1455,
+      "surahIndex": 37
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/038.mp3",
+      "duration": 1079,
+      "surahIndex": 38
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/039.mp3",
+      "duration": 2095,
+      "surahIndex": 39
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/040.mp3",
+      "duration": 2002,
+      "surahIndex": 40
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/041.mp3",
+      "duration": 1253,
+      "surahIndex": 41
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/042.mp3",
+      "duration": 1241,
+      "surahIndex": 42
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/043.mp3",
+      "duration": 1334,
+      "surahIndex": 43
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/044.mp3",
+      "duration": 650,
+      "surahIndex": 44
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/045.mp3",
+      "duration": 786,
+      "surahIndex": 45
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/046.mp3",
+      "duration": 950,
+      "surahIndex": 46
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/047.mp3",
+      "duration": 806,
+      "surahIndex": 47
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/048.mp3",
+      "duration": 724,
+      "surahIndex": 48
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/049.mp3",
+      "duration": 497,
+      "surahIndex": 49
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/050.mp3",
+      "duration": 594,
+      "surahIndex": 50
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/051.mp3",
+      "duration": 507,
+      "surahIndex": 51
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/052.mp3",
+      "duration": 560,
+      "surahIndex": 52
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/053.mp3",
+      "duration": 456,
+      "surahIndex": 53
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/054.mp3",
+      "duration": 495,
+      "surahIndex": 54
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/055.mp3",
+      "duration": 624,
+      "surahIndex": 55
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/056.mp3",
+      "duration": 775,
+      "surahIndex": 56
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/057.mp3",
+      "duration": 871,
+      "surahIndex": 57
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/058.mp3",
+      "duration": 626,
+      "surahIndex": 58
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/059.mp3",
+      "duration": 653,
+      "surahIndex": 59
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/060.mp3",
+      "duration": 485,
+      "surahIndex": 60
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/061.mp3",
+      "duration": 343,
+      "surahIndex": 61
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/062.mp3",
+      "duration": 255,
+      "surahIndex": 62
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/063.mp3",
+      "duration": 290,
+      "surahIndex": 63
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/064.mp3",
+      "duration": 346,
+      "surahIndex": 64
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/065.mp3",
+      "duration": 389,
+      "surahIndex": 65
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/066.mp3",
+      "duration": 407,
+      "surahIndex": 66
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/067.mp3",
+      "duration": 453,
+      "surahIndex": 67
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/068.mp3",
+      "duration": 473,
+      "surahIndex": 68
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/069.mp3",
+      "duration": 456,
+      "surahIndex": 69
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/070.mp3",
+      "duration": 344,
+      "surahIndex": 70
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/071.mp3",
+      "duration": 340,
+      "surahIndex": 71
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/072.mp3",
+      "duration": 356,
+      "surahIndex": 72
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/073.mp3",
+      "duration": 268,
+      "surahIndex": 73
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/074.mp3",
+      "duration": 375,
+      "surahIndex": 74
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/075.mp3",
+      "duration": 256,
+      "surahIndex": 75
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/076.mp3",
+      "duration": 337,
+      "surahIndex": 76
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/077.mp3",
+      "duration": 300,
+      "surahIndex": 77
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/078.mp3",
+      "duration": 292,
+      "surahIndex": 78
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/079.mp3",
+      "duration": 236,
+      "surahIndex": 79
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/080.mp3",
+      "duration": 207,
+      "surahIndex": 80
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/081.mp3",
+      "duration": 173,
+      "surahIndex": 81
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/082.mp3",
+      "duration": 138,
+      "surahIndex": 82
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/083.mp3",
+      "duration": 309,
+      "surahIndex": 83
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/084.mp3",
+      "duration": 154,
+      "surahIndex": 84
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/085.mp3",
+      "duration": 177,
+      "surahIndex": 85
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/086.mp3",
+      "duration": 93,
+      "surahIndex": 86
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/087.mp3",
+      "duration": 106,
+      "surahIndex": 87
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/088.mp3",
+      "duration": 142,
+      "surahIndex": 88
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/089.mp3",
+      "duration": 262,
+      "surahIndex": 89
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/090.mp3",
+      "duration": 108,
+      "surahIndex": 90
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/091.mp3",
+      "duration": 90,
+      "surahIndex": 91
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/092.mp3",
+      "duration": 107,
+      "surahIndex": 92
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/093.mp3",
+      "duration": 67,
+      "surahIndex": 93
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/094.mp3",
+      "duration": 47,
+      "surahIndex": 94
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/095.mp3",
+      "duration": 72,
+      "surahIndex": 95
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/096.mp3",
+      "duration": 102,
+      "surahIndex": 96
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/097.mp3",
+      "duration": 78,
+      "surahIndex": 97
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/098.mp3",
+      "duration": 142,
+      "surahIndex": 98
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/099.mp3",
+      "duration": 64,
+      "surahIndex": 99
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/100.mp3",
+      "duration": 76,
+      "surahIndex": 100
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/101.mp3",
+      "duration": 90,
+      "surahIndex": 101
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/102.mp3",
+      "duration": 60,
+      "surahIndex": 102
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/103.mp3",
+      "duration": 42,
+      "surahIndex": 103
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/104.mp3",
+      "duration": 58,
+      "surahIndex": 104
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/105.mp3",
+      "duration": 46,
+      "surahIndex": 105
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/106.mp3",
+      "duration": 50,
+      "surahIndex": 106
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/107.mp3",
+      "duration": 51,
+      "surahIndex": 107
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/108.mp3",
+      "duration": 39,
+      "surahIndex": 108
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/109.mp3",
+      "duration": 55,
+      "surahIndex": 109
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/110.mp3",
+      "duration": 40,
+      "surahIndex": 110
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/111.mp3",
+      "duration": 45,
+      "surahIndex": 111
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/112.mp3",
+      "duration": 39,
+      "surahIndex": 112
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/113.mp3",
+      "duration": 52,
+      "surahIndex": 113
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Abdullah_Kamel_www.suratmp3.com/114.mp3",
+      "duration": 123,
+      "surahIndex": 114
+    }
+  ]
+}

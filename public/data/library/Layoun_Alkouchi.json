@@ -1,0 +1,1155 @@
+{
+  "id": "Layoun_Alkouchi",
+  "title": {
+    "ar": "المصحف المرتل برواية ورش — العيون الكوشي",
+    "en": "The Holy Qur'an — Warsh — Al-Ayoun Al-Kouchi"
+  },
+  "creator": {
+    "ar": "العيون الكوشي",
+    "en": "Al-Ayoun Al-Kouchi"
+  },
+  "cover": "/images/library/Layoun_Alkouchi.jpg",
+  "sourceUrl": "https://archive.org/details/Layoun_Alkouchi",
+  "tracks": [
+    {
+      "id": "Layoun_Alkouchi-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/001.mp3",
+      "duration": 36,
+      "surahIndex": 1
+    },
+    {
+      "id": "Layoun_Alkouchi-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/002.mp3",
+      "duration": 7725,
+      "surahIndex": 2
+    },
+    {
+      "id": "Layoun_Alkouchi-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/003.mp3",
+      "duration": 4455,
+      "surahIndex": 3
+    },
+    {
+      "id": "Layoun_Alkouchi-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/004.mp3",
+      "duration": 4519,
+      "surahIndex": 4
+    },
+    {
+      "id": "Layoun_Alkouchi-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/005.mp3",
+      "duration": 3364,
+      "surahIndex": 5
+    },
+    {
+      "id": "Layoun_Alkouchi-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/006.mp3",
+      "duration": 3615,
+      "surahIndex": 6
+    },
+    {
+      "id": "Layoun_Alkouchi-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/007.mp3",
+      "duration": 4681,
+      "surahIndex": 7
+    },
+    {
+      "id": "Layoun_Alkouchi-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/008.mp3",
+      "duration": 1502,
+      "surahIndex": 8
+    },
+    {
+      "id": "Layoun_Alkouchi-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/009.mp3",
+      "duration": 3168,
+      "surahIndex": 9
+    },
+    {
+      "id": "Layoun_Alkouchi-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/010.mp3",
+      "duration": 3396,
+      "surahIndex": 10
+    },
+    {
+      "id": "Layoun_Alkouchi-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/011.mp3",
+      "duration": 2192,
+      "surahIndex": 11
+    },
+    {
+      "id": "Layoun_Alkouchi-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/012.mp3",
+      "duration": 2232,
+      "surahIndex": 12
+    },
+    {
+      "id": "Layoun_Alkouchi-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/013.mp3",
+      "duration": 1067,
+      "surahIndex": 13
+    },
+    {
+      "id": "Layoun_Alkouchi-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/014.mp3",
+      "duration": 1058,
+      "surahIndex": 14
+    },
+    {
+      "id": "Layoun_Alkouchi-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/015.mp3",
+      "duration": 1023,
+      "surahIndex": 15
+    },
+    {
+      "id": "Layoun_Alkouchi-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/016.mp3",
+      "duration": 2336,
+      "surahIndex": 16
+    },
+    {
+      "id": "Layoun_Alkouchi-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/017.mp3",
+      "duration": 2041,
+      "surahIndex": 17
+    },
+    {
+      "id": "Layoun_Alkouchi-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/018.mp3",
+      "duration": 1907,
+      "surahIndex": 18
+    },
+    {
+      "id": "Layoun_Alkouchi-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/019.mp3",
+      "duration": 1189,
+      "surahIndex": 19
+    },
+    {
+      "id": "Layoun_Alkouchi-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/020.mp3",
+      "duration": 1639,
+      "surahIndex": 20
+    },
+    {
+      "id": "Layoun_Alkouchi-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/021.mp3",
+      "duration": 1530,
+      "surahIndex": 21
+    },
+    {
+      "id": "Layoun_Alkouchi-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/022.mp3",
+      "duration": 1507,
+      "surahIndex": 22
+    },
+    {
+      "id": "Layoun_Alkouchi-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/023.mp3",
+      "duration": 1298,
+      "surahIndex": 23
+    },
+    {
+      "id": "Layoun_Alkouchi-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/024.mp3",
+      "duration": 1713,
+      "surahIndex": 24
+    },
+    {
+      "id": "Layoun_Alkouchi-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/025.mp3",
+      "duration": 1055,
+      "surahIndex": 25
+    },
+    {
+      "id": "Layoun_Alkouchi-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/026.mp3",
+      "duration": 1701,
+      "surahIndex": 26
+    },
+    {
+      "id": "Layoun_Alkouchi-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/027.mp3",
+      "duration": 1381,
+      "surahIndex": 27
+    },
+    {
+      "id": "Layoun_Alkouchi-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/028.mp3",
+      "duration": 1600,
+      "surahIndex": 28
+    },
+    {
+      "id": "Layoun_Alkouchi-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/029.mp3",
+      "duration": 1261,
+      "surahIndex": 29
+    },
+    {
+      "id": "Layoun_Alkouchi-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/030.mp3",
+      "duration": 1072,
+      "surahIndex": 30
+    },
+    {
+      "id": "Layoun_Alkouchi-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/031.mp3",
+      "duration": 639,
+      "surahIndex": 31
+    },
+    {
+      "id": "Layoun_Alkouchi-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/032.mp3",
+      "duration": 453,
+      "surahIndex": 32
+    },
+    {
+      "id": "Layoun_Alkouchi-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/033.mp3",
+      "duration": 1572,
+      "surahIndex": 33
+    },
+    {
+      "id": "Layoun_Alkouchi-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/034.mp3",
+      "duration": 990,
+      "surahIndex": 34
+    },
+    {
+      "id": "Layoun_Alkouchi-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/035.mp3",
+      "duration": 963,
+      "surahIndex": 35
+    },
+    {
+      "id": "Layoun_Alkouchi-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/036.mp3",
+      "duration": 946,
+      "surahIndex": 36
+    },
+    {
+      "id": "Layoun_Alkouchi-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/037.mp3",
+      "duration": 1192,
+      "surahIndex": 37
+    },
+    {
+      "id": "Layoun_Alkouchi-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/038.mp3",
+      "duration": 922,
+      "surahIndex": 38
+    },
+    {
+      "id": "Layoun_Alkouchi-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/039.mp3",
+      "duration": 1377,
+      "surahIndex": 39
+    },
+    {
+      "id": "Layoun_Alkouchi-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/040.mp3",
+      "duration": 1539,
+      "surahIndex": 40
+    },
+    {
+      "id": "Layoun_Alkouchi-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/041.mp3",
+      "duration": 1047,
+      "surahIndex": 41
+    },
+    {
+      "id": "Layoun_Alkouchi-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/042.mp3",
+      "duration": 1063,
+      "surahIndex": 42
+    },
+    {
+      "id": "Layoun_Alkouchi-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/043.mp3",
+      "duration": 990,
+      "surahIndex": 43
+    },
+    {
+      "id": "Layoun_Alkouchi-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/044.mp3",
+      "duration": 424,
+      "surahIndex": 44
+    },
+    {
+      "id": "Layoun_Alkouchi-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/045.mp3",
+      "duration": 557,
+      "surahIndex": 45
+    },
+    {
+      "id": "Layoun_Alkouchi-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/046.mp3",
+      "duration": 730,
+      "surahIndex": 46
+    },
+    {
+      "id": "Layoun_Alkouchi-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/047.mp3",
+      "duration": 618,
+      "surahIndex": 47
+    },
+    {
+      "id": "Layoun_Alkouchi-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/048.mp3",
+      "duration": 637,
+      "surahIndex": 48
+    },
+    {
+      "id": "Layoun_Alkouchi-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/049.mp3",
+      "duration": 459,
+      "surahIndex": 49
+    },
+    {
+      "id": "Layoun_Alkouchi-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/050.mp3",
+      "duration": 451,
+      "surahIndex": 50
+    },
+    {
+      "id": "Layoun_Alkouchi-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/051.mp3",
+      "duration": 432,
+      "surahIndex": 51
+    },
+    {
+      "id": "Layoun_Alkouchi-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/052.mp3",
+      "duration": 384,
+      "surahIndex": 52
+    },
+    {
+      "id": "Layoun_Alkouchi-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/053.mp3",
+      "duration": 438,
+      "surahIndex": 53
+    },
+    {
+      "id": "Layoun_Alkouchi-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/054.mp3",
+      "duration": 417,
+      "surahIndex": 54
+    },
+    {
+      "id": "Layoun_Alkouchi-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/055.mp3",
+      "duration": 559,
+      "surahIndex": 55
+    },
+    {
+      "id": "Layoun_Alkouchi-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/056.mp3",
+      "duration": 556,
+      "surahIndex": 56
+    },
+    {
+      "id": "Layoun_Alkouchi-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/057.mp3",
+      "duration": 685,
+      "surahIndex": 57
+    },
+    {
+      "id": "Layoun_Alkouchi-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/058.mp3",
+      "duration": 589,
+      "surahIndex": 58
+    },
+    {
+      "id": "Layoun_Alkouchi-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/059.mp3",
+      "duration": 584,
+      "surahIndex": 59
+    },
+    {
+      "id": "Layoun_Alkouchi-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/060.mp3",
+      "duration": 560,
+      "surahIndex": 60
+    },
+    {
+      "id": "Layoun_Alkouchi-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/061.mp3",
+      "duration": 282,
+      "surahIndex": 61
+    },
+    {
+      "id": "Layoun_Alkouchi-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/062.mp3",
+      "duration": 232,
+      "surahIndex": 62
+    },
+    {
+      "id": "Layoun_Alkouchi-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/063.mp3",
+      "duration": 248,
+      "surahIndex": 63
+    },
+    {
+      "id": "Layoun_Alkouchi-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/064.mp3",
+      "duration": 292,
+      "surahIndex": 64
+    },
+    {
+      "id": "Layoun_Alkouchi-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/065.mp3",
+      "duration": 354,
+      "surahIndex": 65
+    },
+    {
+      "id": "Layoun_Alkouchi-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/066.mp3",
+      "duration": 335,
+      "surahIndex": 66
+    },
+    {
+      "id": "Layoun_Alkouchi-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/067.mp3",
+      "duration": 343,
+      "surahIndex": 67
+    },
+    {
+      "id": "Layoun_Alkouchi-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/068.mp3",
+      "duration": 335,
+      "surahIndex": 68
+    },
+    {
+      "id": "Layoun_Alkouchi-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/069.mp3",
+      "duration": 286,
+      "surahIndex": 69
+    },
+    {
+      "id": "Layoun_Alkouchi-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/070.mp3",
+      "duration": 236,
+      "surahIndex": 70
+    },
+    {
+      "id": "Layoun_Alkouchi-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/071.mp3",
+      "duration": 240,
+      "surahIndex": 71
+    },
+    {
+      "id": "Layoun_Alkouchi-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/072.mp3",
+      "duration": 277,
+      "surahIndex": 72
+    },
+    {
+      "id": "Layoun_Alkouchi-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/073.mp3",
+      "duration": 190,
+      "surahIndex": 73
+    },
+    {
+      "id": "Layoun_Alkouchi-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/074.mp3",
+      "duration": 281,
+      "surahIndex": 74
+    },
+    {
+      "id": "Layoun_Alkouchi-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/075.mp3",
+      "duration": 169,
+      "surahIndex": 75
+    },
+    {
+      "id": "Layoun_Alkouchi-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/076.mp3",
+      "duration": 279,
+      "surahIndex": 76
+    },
+    {
+      "id": "Layoun_Alkouchi-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/077.mp3",
+      "duration": 212,
+      "surahIndex": 77
+    },
+    {
+      "id": "Layoun_Alkouchi-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/078.mp3",
+      "duration": 216,
+      "surahIndex": 78
+    },
+    {
+      "id": "Layoun_Alkouchi-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/079.mp3",
+      "duration": 205,
+      "surahIndex": 79
+    },
+    {
+      "id": "Layoun_Alkouchi-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/080.mp3",
+      "duration": 168,
+      "surahIndex": 80
+    },
+    {
+      "id": "Layoun_Alkouchi-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/081.mp3",
+      "duration": 125,
+      "surahIndex": 81
+    },
+    {
+      "id": "Layoun_Alkouchi-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/082.mp3",
+      "duration": 96,
+      "surahIndex": 82
+    },
+    {
+      "id": "Layoun_Alkouchi-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/083.mp3",
+      "duration": 210,
+      "surahIndex": 83
+    },
+    {
+      "id": "Layoun_Alkouchi-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/084.mp3",
+      "duration": 121,
+      "surahIndex": 84
+    },
+    {
+      "id": "Layoun_Alkouchi-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/085.mp3",
+      "duration": 122,
+      "surahIndex": 85
+    },
+    {
+      "id": "Layoun_Alkouchi-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/086.mp3",
+      "duration": 71,
+      "surahIndex": 86
+    },
+    {
+      "id": "Layoun_Alkouchi-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/087.mp3",
+      "duration": 79,
+      "surahIndex": 87
+    },
+    {
+      "id": "Layoun_Alkouchi-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/088.mp3",
+      "duration": 103,
+      "surahIndex": 88
+    },
+    {
+      "id": "Layoun_Alkouchi-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/089.mp3",
+      "duration": 152,
+      "surahIndex": 89
+    },
+    {
+      "id": "Layoun_Alkouchi-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/090.mp3",
+      "duration": 94,
+      "surahIndex": 90
+    },
+    {
+      "id": "Layoun_Alkouchi-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/091.mp3",
+      "duration": 65,
+      "surahIndex": 91
+    },
+    {
+      "id": "Layoun_Alkouchi-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/092.mp3",
+      "duration": 85,
+      "surahIndex": 92
+    },
+    {
+      "id": "Layoun_Alkouchi-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/093.mp3",
+      "duration": 52,
+      "surahIndex": 93
+    },
+    {
+      "id": "Layoun_Alkouchi-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/094.mp3",
+      "duration": 30,
+      "surahIndex": 94
+    },
+    {
+      "id": "Layoun_Alkouchi-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/095.mp3",
+      "duration": 39,
+      "surahIndex": 95
+    },
+    {
+      "id": "Layoun_Alkouchi-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/096.mp3",
+      "duration": 78,
+      "surahIndex": 96
+    },
+    {
+      "id": "Layoun_Alkouchi-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/097.mp3",
+      "duration": 34,
+      "surahIndex": 97
+    },
+    {
+      "id": "Layoun_Alkouchi-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/098.mp3",
+      "duration": 100,
+      "surahIndex": 98
+    },
+    {
+      "id": "Layoun_Alkouchi-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/099.mp3",
+      "duration": 41,
+      "surahIndex": 99
+    },
+    {
+      "id": "Layoun_Alkouchi-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/100.mp3",
+      "duration": 47,
+      "surahIndex": 100
+    },
+    {
+      "id": "Layoun_Alkouchi-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/101.mp3",
+      "duration": 42,
+      "surahIndex": 101
+    },
+    {
+      "id": "Layoun_Alkouchi-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/102.mp3",
+      "duration": 37,
+      "surahIndex": 102
+    },
+    {
+      "id": "Layoun_Alkouchi-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/103.mp3",
+      "duration": 19,
+      "surahIndex": 103
+    },
+    {
+      "id": "Layoun_Alkouchi-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/104.mp3",
+      "duration": 38,
+      "surahIndex": 104
+    },
+    {
+      "id": "Layoun_Alkouchi-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/105.mp3",
+      "duration": 28,
+      "surahIndex": 105
+    },
+    {
+      "id": "Layoun_Alkouchi-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/106.mp3",
+      "duration": 29,
+      "surahIndex": 106
+    },
+    {
+      "id": "Layoun_Alkouchi-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/107.mp3",
+      "duration": 34,
+      "surahIndex": 107
+    },
+    {
+      "id": "Layoun_Alkouchi-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/108.mp3",
+      "duration": 16,
+      "surahIndex": 108
+    },
+    {
+      "id": "Layoun_Alkouchi-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/109.mp3",
+      "duration": 38,
+      "surahIndex": 109
+    },
+    {
+      "id": "Layoun_Alkouchi-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/110.mp3",
+      "duration": 22,
+      "surahIndex": 110
+    },
+    {
+      "id": "Layoun_Alkouchi-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/111.mp3",
+      "duration": 27,
+      "surahIndex": 111
+    },
+    {
+      "id": "Layoun_Alkouchi-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/112.mp3",
+      "duration": 12,
+      "surahIndex": 112
+    },
+    {
+      "id": "Layoun_Alkouchi-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/113.mp3",
+      "duration": 20,
+      "surahIndex": 113
+    },
+    {
+      "id": "Layoun_Alkouchi-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Layoun_Alkouchi/114.mp3",
+      "duration": 26,
+      "surahIndex": 114
+    }
+  ]
+}

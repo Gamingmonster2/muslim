@@ -1,0 +1,745 @@
+{
+  "id": "IdrissAbkar-up-by-muslem",
+  "title": {
+    "ar": "المصحف المرتل — إدريس أبكر",
+    "en": "The Holy Qur'an — Murattal — Idris Abkar"
+  },
+  "creator": {
+    "ar": "إدريس أبكر",
+    "en": "Idris Abkar"
+  },
+  "cover": "/images/library/IdrissAbkar-up-by-muslem.jpg",
+  "sourceUrl": "https://archive.org/details/IdrissAbkar-up-by-muslem",
+  "tracks": [
+    {
+      "id": "IdrissAbkar-up-by-muslem-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/001.mp3",
+      "duration": 41,
+      "surahIndex": 1
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/002.mp3",
+      "duration": 7028,
+      "surahIndex": 2
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/003.mp3",
+      "duration": 4710,
+      "surahIndex": 3
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/004.mp3",
+      "duration": 5061,
+      "surahIndex": 4
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/006.mp3",
+      "duration": 4049,
+      "surahIndex": 6
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/007.mp3",
+      "duration": 4635,
+      "surahIndex": 7
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/011.mp3",
+      "duration": 2294,
+      "surahIndex": 11
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/012.mp3",
+      "duration": 1938,
+      "surahIndex": 12
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/017.mp3",
+      "duration": 2173,
+      "surahIndex": 17
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/018.mp3",
+      "duration": 2207,
+      "surahIndex": 18
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/019.mp3",
+      "duration": 1336,
+      "surahIndex": 19
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/020.mp3",
+      "duration": 1853,
+      "surahIndex": 20
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/021.mp3",
+      "duration": 1752,
+      "surahIndex": 21
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/022.mp3",
+      "duration": 1714,
+      "surahIndex": 22
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/023.mp3",
+      "duration": 1617,
+      "surahIndex": 23
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/024.mp3",
+      "duration": 1899,
+      "surahIndex": 24
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/025.mp3",
+      "duration": 1599,
+      "surahIndex": 25
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/050.mp3",
+      "duration": 579,
+      "surahIndex": 50
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/051.mp3",
+      "duration": 517,
+      "surahIndex": 51
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/052.mp3",
+      "duration": 427,
+      "surahIndex": 52
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/053.mp3",
+      "duration": 490,
+      "surahIndex": 53
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/054.mp3",
+      "duration": 470,
+      "surahIndex": 54
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/055.mp3",
+      "duration": 607,
+      "surahIndex": 55
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/056.mp3",
+      "duration": 644,
+      "surahIndex": 56
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/057.mp3",
+      "duration": 793,
+      "surahIndex": 57
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/067.mp3",
+      "duration": 385,
+      "surahIndex": 67
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/068.mp3",
+      "duration": 383,
+      "surahIndex": 68
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/069.mp3",
+      "duration": 384,
+      "surahIndex": 69
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/070.mp3",
+      "duration": 371,
+      "surahIndex": 70
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/071.mp3",
+      "duration": 283,
+      "surahIndex": 71
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/072.mp3",
+      "duration": 344,
+      "surahIndex": 72
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/073.mp3",
+      "duration": 312,
+      "surahIndex": 73
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/074.mp3",
+      "duration": 356,
+      "surahIndex": 74
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/075.mp3",
+      "duration": 403,
+      "surahIndex": 75
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/076.mp3",
+      "duration": 450,
+      "surahIndex": 76
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/077.mp3",
+      "duration": 264,
+      "surahIndex": 77
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/078.mp3",
+      "duration": 220,
+      "surahIndex": 78
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/079.mp3",
+      "duration": 205,
+      "surahIndex": 79
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/080.mp3",
+      "duration": 165,
+      "surahIndex": 80
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/081.mp3",
+      "duration": 116,
+      "surahIndex": 81
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/082.mp3",
+      "duration": 87,
+      "surahIndex": 82
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/083.mp3",
+      "duration": 195,
+      "surahIndex": 83
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/084.mp3",
+      "duration": 120,
+      "surahIndex": 84
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/085.mp3",
+      "duration": 122,
+      "surahIndex": 85
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/086.mp3",
+      "duration": 73,
+      "surahIndex": 86
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/087.mp3",
+      "duration": 84,
+      "surahIndex": 87
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/088.mp3",
+      "duration": 104,
+      "surahIndex": 88
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/089.mp3",
+      "duration": 156,
+      "surahIndex": 89
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/090.mp3",
+      "duration": 88,
+      "surahIndex": 90
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/091.mp3",
+      "duration": 66,
+      "surahIndex": 91
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/092.mp3",
+      "duration": 91,
+      "surahIndex": 92
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/093.mp3",
+      "duration": 53,
+      "surahIndex": 93
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/094.mp3",
+      "duration": 32,
+      "surahIndex": 94
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/095.mp3",
+      "duration": 44,
+      "surahIndex": 95
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/096.mp3",
+      "duration": 83,
+      "surahIndex": 96
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/097.mp3",
+      "duration": 33,
+      "surahIndex": 97
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/098.mp3",
+      "duration": 109,
+      "surahIndex": 98
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/099.mp3",
+      "duration": 50,
+      "surahIndex": 99
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/100.mp3",
+      "duration": 53,
+      "surahIndex": 100
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/101.mp3",
+      "duration": 45,
+      "surahIndex": 101
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/102.mp3",
+      "duration": 39,
+      "surahIndex": 102
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/103.mp3",
+      "duration": 20,
+      "surahIndex": 103
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/104.mp3",
+      "duration": 43,
+      "surahIndex": 104
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/105.mp3",
+      "duration": 30,
+      "surahIndex": 105
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/106.mp3",
+      "duration": 27,
+      "surahIndex": 106
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/107.mp3",
+      "duration": 34,
+      "surahIndex": 107
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/108.mp3",
+      "duration": 17,
+      "surahIndex": 108
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/109.mp3",
+      "duration": 37,
+      "surahIndex": 109
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/110.mp3",
+      "duration": 31,
+      "surahIndex": 110
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/111.mp3",
+      "duration": 31,
+      "surahIndex": 111
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/112.mp3",
+      "duration": 16,
+      "surahIndex": 112
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/113.mp3",
+      "duration": 25,
+      "surahIndex": 113
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/IdrissAbkar-up-by-muslem/114.mp3",
+      "duration": 37,
+      "surahIndex": 114
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+{
+  "id": "Ali_Abdur-Rahman_al-Huthaify",
+  "title": {
+    "ar": "المصحف المرتل — علي عبد الرحمن الحذيفي",
+    "en": "The Holy Qur'an — Murattal — Ali Al-Huthaify"
+  },
+  "creator": {
+    "ar": "علي عبد الرحمن الحذيفي",
+    "en": "Ali Al-Huthaify"
+  },
+  "cover": "/images/library/Ali_Abdur-Rahman_al-Huthaify.jpg",
+  "sourceUrl": "https://archive.org/details/Ali_Abdur-Rahman_al-Huthaify",
+  "tracks": [
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/001.mp3",
+      "duration": 61,
+      "surahIndex": 1
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/002.mp3",
+      "duration": 8554,
+      "surahIndex": 2
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/003.mp3",
+      "duration": 4732,
+      "surahIndex": 3
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/004.mp3",
+      "duration": 4845,
+      "surahIndex": 4
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/005.mp3",
+      "duration": 3984,
+      "surahIndex": 5
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/006.mp3",
+      "duration": 4263,
+      "surahIndex": 6
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/007.mp3",
+      "duration": 4645,
+      "surahIndex": 7
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/008.mp3",
+      "duration": 1710,
+      "surahIndex": 8
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/009.mp3",
+      "duration": 3366,
+      "surahIndex": 9
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/010.mp3",
+      "duration": 2469,
+      "surahIndex": 10
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/011.mp3",
+      "duration": 2658,
+      "surahIndex": 11
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/012.mp3",
+      "duration": 2381,
+      "surahIndex": 12
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/013.mp3",
+      "duration": 1150,
+      "surahIndex": 13
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/014.mp3",
+      "duration": 1141,
+      "surahIndex": 14
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/015.mp3",
+      "duration": 951,
+      "surahIndex": 15
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/016.mp3",
+      "duration": 2411,
+      "surahIndex": 16
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/017.mp3",
+      "duration": 1811,
+      "surahIndex": 17
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/018.mp3",
+      "duration": 1899,
+      "surahIndex": 18
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/019.mp3",
+      "duration": 1100,
+      "surahIndex": 19
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/020.mp3",
+      "duration": 1723,
+      "surahIndex": 20
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/021.mp3",
+      "duration": 1592,
+      "surahIndex": 21
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/022.mp3",
+      "duration": 1679,
+      "surahIndex": 22
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/023.mp3",
+      "duration": 1438,
+      "surahIndex": 23
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/024.mp3",
+      "duration": 1786,
+      "surahIndex": 24
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/025.mp3",
+      "duration": 1095,
+      "surahIndex": 25
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/026.mp3",
+      "duration": 1972,
+      "surahIndex": 26
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/027.mp3",
+      "duration": 1670,
+      "surahIndex": 27
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/028.mp3",
+      "duration": 2037,
+      "surahIndex": 28
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/029.mp3",
+      "duration": 1395,
+      "surahIndex": 29
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/030.mp3",
+      "duration": 1197,
+      "surahIndex": 30
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/031.mp3",
+      "duration": 714,
+      "surahIndex": 31
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/032.mp3",
+      "duration": 545,
+      "surahIndex": 32
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/033.mp3",
+      "duration": 1775,
+      "surahIndex": 33
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/034.mp3",
+      "duration": 1144,
+      "surahIndex": 34
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/035.mp3",
+      "duration": 1038,
+      "surahIndex": 35
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/036.mp3",
+      "duration": 1059,
+      "surahIndex": 36
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/037.mp3",
+      "duration": 1454,
+      "surahIndex": 37
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/038.mp3",
+      "duration": 1073,
+      "surahIndex": 38
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/039.mp3",
+      "duration": 1638,
+      "surahIndex": 39
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/040.mp3",
+      "duration": 1651,
+      "surahIndex": 40
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/041.mp3",
+      "duration": 1178,
+      "surahIndex": 41
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/042.mp3",
+      "duration": 1275,
+      "surahIndex": 42
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/043.mp3",
+      "duration": 1309,
+      "surahIndex": 43
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/044.mp3",
+      "duration": 587,
+      "surahIndex": 44
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/045.mp3",
+      "duration": 700,
+      "surahIndex": 45
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/046.mp3",
+      "duration": 956,
+      "surahIndex": 46
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/047.mp3",
+      "duration": 775,
+      "surahIndex": 47
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/048.mp3",
+      "duration": 729,
+      "surahIndex": 48
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/049.mp3",
+      "duration": 527,
+      "surahIndex": 49
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/050.mp3",
+      "duration": 505,
+      "surahIndex": 50
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/051.mp3",
+      "duration": 535,
+      "surahIndex": 51
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/052.mp3",
+      "duration": 476,
+      "surahIndex": 52
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/053.mp3",
+      "duration": 518,
+      "surahIndex": 53
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/054.mp3",
+      "duration": 515,
+      "surahIndex": 54
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/055.mp3",
+      "duration": 727,
+      "surahIndex": 55
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/056.mp3",
+      "duration": 723,
+      "surahIndex": 56
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/057.mp3",
+      "duration": 812,
+      "surahIndex": 57
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/058.mp3",
+      "duration": 679,
+      "surahIndex": 58
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/059.mp3",
+      "duration": 656,
+      "surahIndex": 59
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/060.mp3",
+      "duration": 532,
+      "surahIndex": 60
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/061.mp3",
+      "duration": 317,
+      "surahIndex": 61
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/062.mp3",
+      "duration": 268,
+      "surahIndex": 62
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/063.mp3",
+      "duration": 288,
+      "surahIndex": 63
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/064.mp3",
+      "duration": 369,
+      "surahIndex": 64
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/065.mp3",
+      "duration": 446,
+      "surahIndex": 65
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/066.mp3",
+      "duration": 411,
+      "surahIndex": 66
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/067.mp3",
+      "duration": 501,
+      "surahIndex": 67
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/068.mp3",
+      "duration": 499,
+      "surahIndex": 68
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/069.mp3",
+      "duration": 410,
+      "surahIndex": 69
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/070.mp3",
+      "duration": 342,
+      "surahIndex": 70
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/071.mp3",
+      "duration": 317,
+      "surahIndex": 71
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/072.mp3",
+      "duration": 365,
+      "surahIndex": 72
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/073.mp3",
+      "duration": 278,
+      "surahIndex": 73
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/074.mp3",
+      "duration": 401,
+      "surahIndex": 74
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/075.mp3",
+      "duration": 235,
+      "surahIndex": 75
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/076.mp3",
+      "duration": 351,
+      "surahIndex": 76
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/077.mp3",
+      "duration": 322,
+      "surahIndex": 77
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/078.mp3",
+      "duration": 265,
+      "surahIndex": 78
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/079.mp3",
+      "duration": 260,
+      "surahIndex": 79
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/080.mp3",
+      "duration": 226,
+      "surahIndex": 80
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/081.mp3",
+      "duration": 168,
+      "surahIndex": 81
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/082.mp3",
+      "duration": 136,
+      "surahIndex": 82
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/083.mp3",
+      "duration": 302,
+      "surahIndex": 83
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/084.mp3",
+      "duration": 166,
+      "surahIndex": 84
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/085.mp3",
+      "duration": 168,
+      "surahIndex": 85
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/086.mp3",
+      "duration": 100,
+      "surahIndex": 86
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/087.mp3",
+      "duration": 109,
+      "surahIndex": 87
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/088.mp3",
+      "duration": 136,
+      "surahIndex": 88
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/089.mp3",
+      "duration": 203,
+      "surahIndex": 89
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/090.mp3",
+      "duration": 118,
+      "surahIndex": 90
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/091.mp3",
+      "duration": 87,
+      "surahIndex": 91
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/092.mp3",
+      "duration": 112,
+      "surahIndex": 92
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/093.mp3",
+      "duration": 66,
+      "surahIndex": 93
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/094.mp3",
+      "duration": 44,
+      "surahIndex": 94
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/095.mp3",
+      "duration": 59,
+      "surahIndex": 95
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/096.mp3",
+      "duration": 101,
+      "surahIndex": 96
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/097.mp3",
+      "duration": 46,
+      "surahIndex": 97
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/098.mp3",
+      "duration": 128,
+      "surahIndex": 98
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/099.mp3",
+      "duration": 57,
+      "surahIndex": 99
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/100.mp3",
+      "duration": 65,
+      "surahIndex": 100
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/101.mp3",
+      "duration": 60,
+      "surahIndex": 101
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/102.mp3",
+      "duration": 55,
+      "surahIndex": 102
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/103.mp3",
+      "duration": 27,
+      "surahIndex": 103
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/104.mp3",
+      "duration": 55,
+      "surahIndex": 104
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/105.mp3",
+      "duration": 42,
+      "surahIndex": 105
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/106.mp3",
+      "duration": 39,
+      "surahIndex": 106
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/107.mp3",
+      "duration": 49,
+      "surahIndex": 107
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/108.mp3",
+      "duration": 24,
+      "surahIndex": 108
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/109.mp3",
+      "duration": 53,
+      "surahIndex": 109
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/110.mp3",
+      "duration": 33,
+      "surahIndex": 110
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/111.mp3",
+      "duration": 38,
+      "surahIndex": 111
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/112.mp3",
+      "duration": 24,
+      "surahIndex": 112
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/113.mp3",
+      "duration": 34,
+      "surahIndex": 113
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Ali_Abdur-Rahman_al-Huthaify/114.mp3",
+      "duration": 44,
+      "surahIndex": 114
+    }
+  ]
+}

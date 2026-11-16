@@ -1,0 +1,293 @@
+{
+  "note": "قائمة انتقاء يدوية لمكتبة archive.org: مصاحف كاملة وشروح حديث فقط. لا أناشيد ولا شعر ولا مواد عامة.",
+  "items": [
+    {
+      "id": "Mishaari_Raashid_mp3",
+      "category": "mushaf",
+      "creatorAr": "مشاري راشد العفاسي",
+      "creatorEn": "Mishary Al-Afasy",
+      "titleAr": "المصحف المرتل كاملاً",
+      "titleEn": "The Holy Qur'an — Complete Recitation",
+      "kind": "murattal"
+    },
+    {
+      "id": "Maher_Al-Muaiqly_Quran",
+      "category": "mushaf",
+      "creatorAr": "ماهر المعيقلي",
+      "creatorEn": "Maher Al-Muaiqly",
+      "titleAr": "المصحف المرتل كاملاً",
+      "titleEn": "The Holy Qur'an — Complete Recitation",
+      "kind": "murattal"
+    },
+    {
+      "id": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem",
+      "category": "mushaf",
+      "creatorAr": "سعد الغامدي",
+      "creatorEn": "Saad Al-Ghamdi",
+      "titleAr": "المصحف المرتل (جودة عالية)",
+      "titleEn": "The Holy Qur'an — High Quality",
+      "kind": "murattal"
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144",
+      "category": "mushaf",
+      "creatorAr": "عبد الباسط عبد الصمد",
+      "creatorEn": "Abdul Basit Abdus-Samad",
+      "titleAr": "المصحف المجود",
+      "titleEn": "The Holy Qur'an — Mujawwad",
+      "kind": "mujawwad"
+    },
+    {
+      "id": "Al-Husaree_Almoalim",
+      "category": "mushaf",
+      "creatorAr": "محمود خليل الحصري",
+      "creatorEn": "Mahmoud Khalil Al-Husary",
+      "titleAr": "المصحف المعلم",
+      "titleEn": "Al-Mu'allim — Teaching Recitation",
+      "kind": "muallim"
+    },
+    {
+      "id": "Mahmood_Khaleel_Al-Husaree",
+      "category": "mushaf",
+      "creatorAr": "محمود خليل الحصري",
+      "creatorEn": "Mahmoud Khalil Al-Husary",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Mohammad_Sidik_Al-Menchaoui_Moaalem_uP_bY_mUSLEm",
+      "category": "mushaf",
+      "creatorAr": "محمد صديق المنشاوي",
+      "creatorEn": "Muhammad Siddiq Al-Minshawi",
+      "titleAr": "المصحف المعلم",
+      "titleEn": "Al-Mu'allim — Teaching Recitation",
+      "kind": "muallim"
+    },
+    {
+      "id": "Fares_Abbad_el-moslem.com",
+      "category": "mushaf",
+      "creatorAr": "فارس عباد",
+      "creatorEn": "Fares Abbad",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Yasser_Aldosari_MP3_Quran",
+      "category": "mushaf",
+      "creatorAr": "ياسر الدوسري",
+      "creatorEn": "Yasser Al-Dosari",
+      "titleAr": "المصحف كاملاً",
+      "titleEn": "The Holy Qur'an — Complete",
+      "kind": "murattal"
+    },
+    {
+      "id": "Ahmed_Al-Ajmi_Quran",
+      "category": "mushaf",
+      "creatorAr": "أحمد بن علي العجمي",
+      "creatorEn": "Ahmed Al-Ajmi",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Ali_Abdur-Rahman_al-Huthaify",
+      "category": "mushaf",
+      "creatorAr": "علي عبد الرحمن الحذيفي",
+      "creatorEn": "Ali Al-Huthaify",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "MoushafHaramMakki_Soudais_Shuraim_1415.Hijri",
+      "category": "mushaf",
+      "creatorAr": "عبد الرحمن السديس وسعود الشريم",
+      "creatorEn": "Abdulrahman Al-Sudais & Saud Al-Shuraim",
+      "titleAr": "المصحف المكي (1415هـ)",
+      "titleEn": "Makkah Recitation (1415 AH)",
+      "kind": "tarawih"
+    },
+    {
+      "id": "IdrissAbkar-up-by-muslem",
+      "category": "mushaf",
+      "creatorAr": "إدريس أبكر",
+      "creatorEn": "Idris Abkar",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Wadi3_Yamani",
+      "category": "mushaf",
+      "creatorAr": "وديع اليمني",
+      "creatorEn": "Wadi' Al-Yamani",
+      "titleAr": "المصحف كاملاً",
+      "titleEn": "The Holy Qur'an — Complete",
+      "kind": "murattal"
+    },
+    {
+      "id": "Ammar-Almulla",
+      "category": "mushaf",
+      "creatorAr": "عمار لؤي الملا",
+      "creatorEn": "Ammar Al-Mulla",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Abdullah_Al_Johany_www..suratmp3.com",
+      "category": "mushaf",
+      "creatorAr": "عبد الله عواد الجهني",
+      "creatorEn": "Abdullah Al-Johany",
+      "titleAr": "المصحف كاملاً",
+      "titleEn": "The Holy Qur'an — Complete",
+      "kind": "murattal"
+    },
+    {
+      "id": "Muhammad_Al-Tablawy",
+      "category": "mushaf",
+      "creatorAr": "محمد محمود الطبلاوي",
+      "creatorEn": "Muhammad Al-Tablawy",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Saud_Al-Shuraim_Quran",
+      "category": "mushaf",
+      "creatorAr": "سعود الشريم",
+      "creatorEn": "Saud Al-Shuraim",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Abdullah_Kamel_www.suratmp3.com",
+      "category": "mushaf",
+      "creatorAr": "عبد الله كامل",
+      "creatorEn": "Abdullah Kamel",
+      "titleAr": "المصحف الكامل",
+      "titleEn": "The Holy Qur'an — Complete",
+      "kind": "murattal"
+    },
+    {
+      "id": "Layoun_Alkouchi",
+      "category": "mushaf",
+      "creatorAr": "العيون الكوشي",
+      "creatorEn": "Al-Ayoun Al-Kouchi",
+      "titleAr": "المصحف المرتل برواية ورش",
+      "titleEn": "The Holy Qur'an — Warsh",
+      "kind": "murattal"
+    },
+    {
+      "id": "Abdul_Aziz_Al-Ahmad",
+      "category": "mushaf",
+      "creatorAr": "عبد العزيز الأحمد",
+      "creatorEn": "Abdulaziz Al-Ahmad",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "Ibrahim_Al-Akhdar",
+      "category": "mushaf",
+      "creatorAr": "إبراهيم الأخضر",
+      "creatorEn": "Ibrahim Al-Akhdar",
+      "titleAr": "المصحف المرتل",
+      "titleEn": "The Holy Qur'an — Murattal",
+      "kind": "murattal"
+    },
+    {
+      "id": "bokhari_audio",
+      "category": "hadith",
+      "creatorAr": "قراءة صوتية",
+      "creatorEn": "Audio Reading",
+      "titleAr": "صحيح البخاري — كتاب مسموع",
+      "titleEn": "Sahih Al-Bukhari — Audiobook",
+      "kind": "book"
+    },
+    {
+      "id": "saheh-muslim-mp3",
+      "category": "hadith",
+      "creatorAr": "قراءة صوتية",
+      "creatorEn": "Audio Reading",
+      "titleAr": "صحيح مسلم — كتاب مسموع",
+      "titleEn": "Sahih Muslim — Audiobook",
+      "kind": "book"
+    },
+    {
+      "id": "Riadh_Salihin_up-by-muslem",
+      "category": "hadith",
+      "creatorAr": "حمد الدريهم",
+      "creatorEn": "Hamad Al-Duraihim",
+      "titleAr": "رياض الصالحين — قراءة صوتية",
+      "titleEn": "Riyad As-Salihin — Audio Reading",
+      "kind": "book"
+    },
+    {
+      "id": "Riyad_As-Salihin_al-othaymeen",
+      "category": "hadith",
+      "creatorAr": "الشيخ محمد بن صالح العثيمين",
+      "creatorEn": "Shaykh Muhammad Al-Uthaymeen",
+      "titleAr": "شرح رياض الصالحين",
+      "titleEn": "Explanation of Riyad As-Salihin",
+      "kind": "sharh"
+    },
+    {
+      "id": "Sahih_Bukhari_alothaymeen",
+      "category": "hadith",
+      "creatorAr": "الشيخ محمد بن صالح العثيمين",
+      "creatorEn": "Shaykh Muhammad Al-Uthaymeen",
+      "titleAr": "شرح صحيح البخاري",
+      "titleEn": "Explanation of Sahih Al-Bukhari",
+      "kind": "sharh"
+    },
+    {
+      "id": "Sahih_Muslim_al-abbaad",
+      "category": "hadith",
+      "creatorAr": "الشيخ عبد المحسن العباد",
+      "creatorEn": "Shaykh Abdulmuhsin Al-Abbad",
+      "titleAr": "شرح صحيح مسلم",
+      "titleEn": "Explanation of Sahih Muslim",
+      "kind": "sharh"
+    },
+    {
+      "id": "Riyad_As-Salihin_ibn-Baz",
+      "category": "hadith",
+      "creatorAr": "الشيخ عبد العزيز بن باز",
+      "creatorEn": "Shaykh Abdulaziz Ibn Baz",
+      "titleAr": "شرح رياض الصالحين",
+      "titleEn": "Explanation of Riyad As-Salihin",
+      "kind": "sharh"
+    },
+    {
+      "id": "Sharh_Sahih_al-Bukhari",
+      "category": "hadith",
+      "creatorAr": "الشيخ عبد المحسن الزامل",
+      "creatorEn": "Shaykh Abdulmuhsin Al-Zamil",
+      "titleAr": "شرح صحيح البخاري",
+      "titleEn": "Explanation of Sahih Al-Bukhari",
+      "kind": "sharh"
+    },
+    {
+      "id": "Sharh__Sahih_al-Bukhari",
+      "category": "hadith",
+      "creatorAr": "الشيخ عبد الكريم الخضير",
+      "creatorEn": "Shaykh Abdulkarim Al-Khudheir",
+      "titleAr": "شرح صحيح البخاري",
+      "titleEn": "Explanation of Sahih Al-Bukhari",
+      "kind": "sharh"
+    },
+    {
+      "id": "sahih_attargheeb",
+      "category": "hadith",
+      "creatorAr": "أبو أحمد رشيد الشيظمي",
+      "creatorEn": "Abu Ahmad Rashid Al-Shayzami",
+      "titleAr": "صحيح الترغيب والترهيب — قراءة صوتية",
+      "titleEn": "Sahih At-Targheeb wat-Tarheeb — Audiobook",
+      "kind": "book"
+    }
+  ]
+}

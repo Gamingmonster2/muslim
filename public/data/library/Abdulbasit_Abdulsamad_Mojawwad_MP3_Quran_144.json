@@ -1,0 +1,1155 @@
+{
+  "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144",
+  "title": {
+    "ar": "المصحف المجود — عبد الباسط عبد الصمد",
+    "en": "The Holy Qur'an — Mujawwad — Abdul Basit Abdus-Samad"
+  },
+  "creator": {
+    "ar": "عبد الباسط عبد الصمد",
+    "en": "Abdul Basit Abdus-Samad"
+  },
+  "cover": "/images/library/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144.jpg",
+  "sourceUrl": "https://archive.org/details/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144",
+  "tracks": [
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/001.mp3",
+      "duration": 47,
+      "surahIndex": 1
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/002.mp3",
+      "duration": 9691,
+      "surahIndex": 2
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/003.mp3",
+      "duration": 5269,
+      "surahIndex": 3
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/004.mp3",
+      "duration": 5283,
+      "surahIndex": 4
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/005.mp3",
+      "duration": 4065,
+      "surahIndex": 5
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/006.mp3",
+      "duration": 4860,
+      "surahIndex": 6
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/007.mp3",
+      "duration": 5703,
+      "surahIndex": 7
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/008.mp3",
+      "duration": 1667,
+      "surahIndex": 8
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/009.mp3",
+      "duration": 3277,
+      "surahIndex": 9
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/010.mp3",
+      "duration": 2379,
+      "surahIndex": 10
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/011.mp3",
+      "duration": 2441,
+      "surahIndex": 11
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/012.mp3",
+      "duration": 2206,
+      "surahIndex": 12
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/013.mp3",
+      "duration": 1066,
+      "surahIndex": 13
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/014.mp3",
+      "duration": 1014,
+      "surahIndex": 14
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/015.mp3",
+      "duration": 835,
+      "surahIndex": 15
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/016.mp3",
+      "duration": 2467,
+      "surahIndex": 16
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/017.mp3",
+      "duration": 2226,
+      "surahIndex": 17
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/018.mp3",
+      "duration": 2332,
+      "surahIndex": 18
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/019.mp3",
+      "duration": 1408,
+      "surahIndex": 19
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/020.mp3",
+      "duration": 1914,
+      "surahIndex": 20
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/021.mp3",
+      "duration": 1831,
+      "surahIndex": 21
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/022.mp3",
+      "duration": 1870,
+      "surahIndex": 22
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/023.mp3",
+      "duration": 1538,
+      "surahIndex": 23
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/024.mp3",
+      "duration": 1656,
+      "surahIndex": 24
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/025.mp3",
+      "duration": 1015,
+      "surahIndex": 25
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/026.mp3",
+      "duration": 1853,
+      "surahIndex": 26
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/027.mp3",
+      "duration": 1871,
+      "surahIndex": 27
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/028.mp3",
+      "duration": 2250,
+      "surahIndex": 28
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/029.mp3",
+      "duration": 1488,
+      "surahIndex": 29
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/030.mp3",
+      "duration": 1178,
+      "surahIndex": 30
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/031.mp3",
+      "duration": 616,
+      "surahIndex": 31
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/032.mp3",
+      "duration": 449,
+      "surahIndex": 32
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/033.mp3",
+      "duration": 1594,
+      "surahIndex": 33
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/034.mp3",
+      "duration": 1032,
+      "surahIndex": 34
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/035.mp3",
+      "duration": 972,
+      "surahIndex": 35
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/036.mp3",
+      "duration": 871,
+      "surahIndex": 36
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/037.mp3",
+      "duration": 1142,
+      "surahIndex": 37
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/038.mp3",
+      "duration": 995,
+      "surahIndex": 38
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/039.mp3",
+      "duration": 1716,
+      "surahIndex": 39
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/040.mp3",
+      "duration": 1699,
+      "surahIndex": 40
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/041.mp3",
+      "duration": 1210,
+      "surahIndex": 41
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/042.mp3",
+      "duration": 1296,
+      "surahIndex": 42
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/043.mp3",
+      "duration": 1328,
+      "surahIndex": 43
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/044.mp3",
+      "duration": 547,
+      "surahIndex": 44
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/045.mp3",
+      "duration": 757,
+      "surahIndex": 45
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/046.mp3",
+      "duration": 1015,
+      "surahIndex": 46
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/047.mp3",
+      "duration": 845,
+      "surahIndex": 47
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/048.mp3",
+      "duration": 806,
+      "surahIndex": 48
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/049.mp3",
+      "duration": 505,
+      "surahIndex": 49
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/050.mp3",
+      "duration": 495,
+      "surahIndex": 50
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/051.mp3",
+      "duration": 538,
+      "surahIndex": 51
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/052.mp3",
+      "duration": 463,
+      "surahIndex": 52
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/053.mp3",
+      "duration": 511,
+      "surahIndex": 53
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/054.mp3",
+      "duration": 542,
+      "surahIndex": 54
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/055.mp3",
+      "duration": 618,
+      "surahIndex": 55
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/056.mp3",
+      "duration": 621,
+      "surahIndex": 56
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/057.mp3",
+      "duration": 803,
+      "surahIndex": 57
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/058.mp3",
+      "duration": 678,
+      "surahIndex": 58
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/059.mp3",
+      "duration": 691,
+      "surahIndex": 59
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/060.mp3",
+      "duration": 582,
+      "surahIndex": 60
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/061.mp3",
+      "duration": 316,
+      "surahIndex": 61
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/062.mp3",
+      "duration": 252,
+      "surahIndex": 62
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/063.mp3",
+      "duration": 274,
+      "surahIndex": 63
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/064.mp3",
+      "duration": 353,
+      "surahIndex": 64
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/065.mp3",
+      "duration": 430,
+      "surahIndex": 65
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/066.mp3",
+      "duration": 429,
+      "surahIndex": 66
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/067.mp3",
+      "duration": 494,
+      "surahIndex": 67
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/068.mp3",
+      "duration": 467,
+      "surahIndex": 68
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/069.mp3",
+      "duration": 420,
+      "surahIndex": 69
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/070.mp3",
+      "duration": 351,
+      "surahIndex": 70
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/071.mp3",
+      "duration": 356,
+      "surahIndex": 71
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/072.mp3",
+      "duration": 415,
+      "surahIndex": 72
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/073.mp3",
+      "duration": 298,
+      "surahIndex": 73
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/074.mp3",
+      "duration": 407,
+      "surahIndex": 74
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/075.mp3",
+      "duration": 253,
+      "surahIndex": 75
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/076.mp3",
+      "duration": 367,
+      "surahIndex": 76
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/077.mp3",
+      "duration": 287,
+      "surahIndex": 77
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/078.mp3",
+      "duration": 281,
+      "surahIndex": 78
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/079.mp3",
+      "duration": 260,
+      "surahIndex": 79
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/080.mp3",
+      "duration": 214,
+      "surahIndex": 80
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/081.mp3",
+      "duration": 149,
+      "surahIndex": 81
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/082.mp3",
+      "duration": 118,
+      "surahIndex": 82
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/083.mp3",
+      "duration": 255,
+      "surahIndex": 83
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/084.mp3",
+      "duration": 148,
+      "surahIndex": 84
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/085.mp3",
+      "duration": 145,
+      "surahIndex": 85
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/086.mp3",
+      "duration": 93,
+      "surahIndex": 86
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/087.mp3",
+      "duration": 105,
+      "surahIndex": 87
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/088.mp3",
+      "duration": 130,
+      "surahIndex": 88
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/089.mp3",
+      "duration": 193,
+      "surahIndex": 89
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/090.mp3",
+      "duration": 114,
+      "surahIndex": 90
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/091.mp3",
+      "duration": 85,
+      "surahIndex": 91
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/092.mp3",
+      "duration": 113,
+      "surahIndex": 92
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/093.mp3",
+      "duration": 64,
+      "surahIndex": 93
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/094.mp3",
+      "duration": 39,
+      "surahIndex": 94
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/095.mp3",
+      "duration": 50,
+      "surahIndex": 95
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/096.mp3",
+      "duration": 102,
+      "surahIndex": 96
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/097.mp3",
+      "duration": 41,
+      "surahIndex": 97
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/098.mp3",
+      "duration": 124,
+      "surahIndex": 98
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/099.mp3",
+      "duration": 55,
+      "surahIndex": 99
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/100.mp3",
+      "duration": 58,
+      "surahIndex": 100
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/101.mp3",
+      "duration": 56,
+      "surahIndex": 101
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/102.mp3",
+      "duration": 46,
+      "surahIndex": 102
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/103.mp3",
+      "duration": 23,
+      "surahIndex": 103
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/104.mp3",
+      "duration": 51,
+      "surahIndex": 104
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/105.mp3",
+      "duration": 34,
+      "surahIndex": 105
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/106.mp3",
+      "duration": 30,
+      "surahIndex": 106
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/107.mp3",
+      "duration": 39,
+      "surahIndex": 107
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/108.mp3",
+      "duration": 19,
+      "surahIndex": 108
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/109.mp3",
+      "duration": 41,
+      "surahIndex": 109
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/110.mp3",
+      "duration": 28,
+      "surahIndex": 110
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/111.mp3",
+      "duration": 33,
+      "surahIndex": 111
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/112.mp3",
+      "duration": 18,
+      "surahIndex": 112
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/113.mp3",
+      "duration": 29,
+      "surahIndex": 113
+    },
+    {
+      "id": "Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Abdulbasit_Abdulsamad_Mojawwad_MP3_Quran_144/114.mp3",
+      "duration": 34,
+      "surahIndex": 114
+    }
+  ]
+}

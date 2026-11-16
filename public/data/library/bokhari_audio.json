@@ -1,0 +1,955 @@
+{
+  "id": "bokhari_audio",
+  "title": {
+    "ar": "صحيح البخاري — كتاب مسموع — قراءة صوتية",
+    "en": "Sahih Al-Bukhari — Audiobook — Audio Reading"
+  },
+  "creator": {
+    "ar": "قراءة صوتية",
+    "en": "Audio Reading"
+  },
+  "cover": "/images/library/bokhari_audio.jpg",
+  "sourceUrl": "https://archive.org/details/bokhari_audio",
+  "tracks": [
+    {
+      "id": "bokhari_audio-1ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب بدء الوحي- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب بدء الوحي- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/1ssunnah-mqrwaa.mp3",
+      "duration": 1047,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-2ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الإيمان- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الإيمان- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/2ssunnah-mqrwaa.mp3",
+      "duration": 2642,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-3ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب العلم- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب العلم- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/3ssunnah-mqrwaa.mp3",
+      "duration": 4126,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-4ssunnah-mqrwaa",
+      "title": {
+        "ar": "ßÊÇÈ ÇáæÖæÁ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí",
+        "en": "ßÊÇÈ ÇáæÖæÁ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí"
+      },
+      "url": "https://archive.org/download/bokhari_audio/4ssunnah-mqrwaa.mp3",
+      "duration": 4491,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-5ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الغسل- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الغسل- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/5ssunnah-mqrwaa.mp3",
+      "duration": 1653,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-6ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحيض- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحيض- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/6ssunnah-mqrwaa.mp3",
+      "duration": 1586,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-7ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب التيمم- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب التيمم- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/7ssunnah-mqrwaa.mp3",
+      "duration": 1019,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-8ssunnah-mqrwaa",
+      "title": {
+        "ar": "ßÊÇÈ ÇáÕáÇÉ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí",
+        "en": "ßÊÇÈ ÇáÕáÇÉ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí"
+      },
+      "url": "https://archive.org/download/bokhari_audio/8ssunnah-mqrwaa.mp3",
+      "duration": 7183,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-9ssunnah-mqrwaa",
+      "title": {
+        "ar": "ÈÇÈ ãæÇÞíÊ ÇáÕáÇÉ æÝÖáåÇ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí",
+        "en": "ÈÇÈ ãæÇÞíÊ ÇáÕáÇÉ æÝÖáåÇ- ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí"
+      },
+      "url": "https://archive.org/download/bokhari_audio/9ssunnah-mqrwaa.mp3",
+      "duration": 3133,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-10ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب بدء الأذان- قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب بدء الأذان- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/10ssunnah-mqrwaa.mp3",
+      "duration": 11540,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-11ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب صلاة الخوف- قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب صلاة الخوف- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/11ssunnah-mqrwaa.mp3",
+      "duration": 442,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-12ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب في العيدين والتجمل فيه - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب في العيدين والتجمل فيه - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/12ssunnah-mqrwaa.mp3",
+      "duration": 1021,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-13ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الجمعة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الجمعة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/13ssunnah-mqrwaa.mp3",
+      "duration": 2396,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-14ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب ما جاء في الوتر - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب ما جاء في الوتر - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/14ssunnah-mqrwaa.mp3",
+      "duration": 274,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-15ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب ما جاء في الاستسقاء وخروج النبي صلى الله عليه وسلم في الاستسقاء - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب ما جاء في الاستسقاء وخروج النبي صلى الله عليه وسلم في الاستسقاء - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/15ssunnah-mqrwaa.mp3",
+      "duration": 1574,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-16ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب الصلاة في كسوف الشمس - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب الصلاة في كسوف الشمس - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/16ssunnah-mqrwaa.mp3",
+      "duration": 1379,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-17ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب ما جاء في سجود القرآن وسنتها - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب ما جاء في سجود القرآن وسنتها - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/17ssunnah-mqrwaa.mp3",
+      "duration": 476,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-18ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب ما جاء في التقصير وكم يقيم حتى يقصر- قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب ما جاء في التقصير وكم يقيم حتى يقصر- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/18ssunnah-mqrwaa.mp3",
+      "duration": 1258,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-19ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب التهجد بالليل - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب التهجد بالليل - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/19ssunnah-mqrwaa.mp3",
+      "duration": 2667,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-20ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب فضل الصلاة في مسجد مكة والمدينة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب فضل الصلاة في مسجد مكة والمدينة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/20ssunnah-mqrwaa.mp3",
+      "duration": 286,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-21ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب استعانة اليد في الصلاة إذا كان من أمر الصلاة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب استعانة اليد في الصلاة إذا كان من أمر الصلاة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/21ssunnah-mqrwaa.mp3",
+      "duration": 1239,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-22ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب ما جاء في السهو إذا قام من ركعتي الفريضة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب ما جاء في السهو إذا قام من ركعتي الفريضة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/22ssunnah-mqrwaa.mp3",
+      "duration": 716,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-23ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب في الجنائز ومن كان آخر كلامه لا إله إلا الله - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب في الجنائز ومن كان آخر كلامه لا إله إلا الله - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/23ssunnah-mqrwaa.mp3",
+      "duration": 6797,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-24ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الزكاة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الزكاة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/24ssunnah-mqrwaa.mp3",
+      "duration": 5689,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-25ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحج - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحج - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/25ssunnah-mqrwaa.mp3",
+      "duration": 10308,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-26ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب العمرة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب العمرة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/26ssunnah-mqrwaa.mp3",
+      "duration": 1379,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-27ssunnah-mqrwaa",
+      "title": {
+        "ar": "باب المحصر وجزاء الصيد - قراءة من كتاب صحيح الامام البخاري",
+        "en": "باب المحصر وجزاء الصيد - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/27ssunnah-mqrwaa.mp3",
+      "duration": 2580,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-28ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب فضائل المدينة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب فضائل المدينة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/28ssunnah-mqrwaa.mp3",
+      "duration": 835,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-29ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الصوم- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الصوم- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/29ssunnah-mqrwaa.mp3",
+      "duration": 5986,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-30ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب البيوع - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب البيوع - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/30ssunnah-mqrwaa.mp3",
+      "duration": 7244,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-31ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب السلم - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب السلم - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/31ssunnah-mqrwaa.mp3",
+      "duration": 517,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-32ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الشفعة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الشفعة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/32ssunnah-mqrwaa.mp3",
+      "duration": 141,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-33ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الإجارة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الإجارة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/33ssunnah-mqrwaa.mp3",
+      "duration": 1371,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-34ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحوالات - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحوالات - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/34ssunnah-mqrwaa.mp3",
+      "duration": 143,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-35ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الكفالة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الكفالة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/35ssunnah-mqrwaa.mp3",
+      "duration": 693,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-36ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الوكالة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الوكالة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/36ssunnah-mqrwaa.mp3",
+      "duration": 1107,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-37ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحرث والمزارعة- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحرث والمزارعة- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/37ssunnah-mqrwaa.mp3",
+      "duration": 1413,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-38ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الشرب والمساقاة- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الشرب والمساقاة- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/38ssunnah-mqrwaa.mp3",
+      "duration": 1345,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-39ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب في الاستقراض وأداء الديون والحجر والتفليس- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب في الاستقراض وأداء الديون والحجر والتفليس- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/39ssunnah-mqrwaa.mp3",
+      "duration": 1134,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-40ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الإشخاص والخصومات - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الإشخاص والخصومات - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/40ssunnah-mqrwaa.mp3",
+      "duration": 736,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-41ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب في اللقطة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب في اللقطة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/41ssunnah-mqrwaa.mp3",
+      "duration": 806,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-42ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب في المظالم - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب في المظالم - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/42ssunnah-mqrwaa.mp3",
+      "duration": 2212,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-43ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الشركة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الشركة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/43ssunnah-mqrwaa.mp3",
+      "duration": 1095,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-44ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الرهن - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الرهن - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/44ssunnah-mqrwaa.mp3",
+      "duration": 333,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-45ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب العتق- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب العتق- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/45ssunnah-mqrwaa.mp3",
+      "duration": 1694,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-46ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب المكاتَب- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب المكاتَب- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/46ssunnah-mqrwaa.mp3",
+      "duration": 474,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-47ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الهبة وفضلها- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الهبة وفضلها- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/47ssunnah-mqrwaa.mp3",
+      "duration": 3108,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-48ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الشهادات- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الشهادات- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/48ssunnah-mqrwaa.mp3",
+      "duration": 3485,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-49ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الصلح- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الصلح- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/49ssunnah-mqrwaa.mp3",
+      "duration": 1298,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-50ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الشروط - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الشروط - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/50ssunnah-mqrwaa.mp3",
+      "duration": 2300,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-51ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الوصايا - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الوصايا - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/51ssunnah-mqrwaa.mp3",
+      "duration": 2558,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-52ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الجهاد والسِّيَر- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الجهاد والسِّيَر- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/52ssunnah-mqrwaa.mp3",
+      "duration": 13400,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-53ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب فرض الخمس - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب فرض الخمس - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/53ssunnah-mqrwaa.mp3",
+      "duration": 3749,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-54ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الجزية - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الجزية - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/54ssunnah-mqrwaa.mp3",
+      "duration": 1899,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-55ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب بدء الخلق - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب بدء الخلق - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/55ssunnah-mqrwaa.mp3",
+      "duration": 5371,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-56ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب أحاديث الأنبياء صلوات الله عليهم - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب أحاديث الأنبياء صلوات الله عليهم - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/56ssunnah-mqrwaa.mp3",
+      "duration": 10076,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-57ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب المناقب- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب المناقب- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/57ssunnah-mqrwaa.mp3",
+      "duration": 6839,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-58ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب فضائل أصحاب النبي - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب فضائل أصحاب النبي - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/58ssunnah-mqrwaa.mp3",
+      "duration": 6147,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-59ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب مناقب الأنصار - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب مناقب الأنصار - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/59ssunnah-mqrwaa.mp3",
+      "duration": 9160,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-60ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب المغازي - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب المغازي - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/60ssunnah-mqrwaa.mp3",
+      "duration": 26075,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-61ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب التفسير - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب التفسير - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/61ssunnah-mqrwaa.mp3",
+      "duration": 34731,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-62ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب فضائل القرآن - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب فضائل القرآن - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/62ssunnah-mqrwaa.mp3",
+      "duration": 3648,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-63ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب النكاح - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب النكاح - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/63ssunnah-mqrwaa.mp3",
+      "duration": 8801,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-64ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الطلاق- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الطلاق- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/64ssunnah-mqrwaa.mp3",
+      "duration": 4917,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-65ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب النفقات- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب النفقات- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/65ssunnah-mqrwaa.mp3",
+      "duration": 1209,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-66ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأطعمة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأطعمة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/66ssunnah-mqrwaa.mp3",
+      "duration": 3714,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-67ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب العقيقة- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب العقيقة- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/67ssunnah-mqrwaa.mp3",
+      "duration": 354,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-68ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الذبائح والصيد- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الذبائح والصيد- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/68ssunnah-mqrwaa.mp3",
+      "duration": 3099,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-69ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأضاحي - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأضاحي - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/69ssunnah-mqrwaa.mp3",
+      "duration": 1167,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-70ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأشربة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأشربة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/70ssunnah-mqrwaa.mp3",
+      "duration": 2286,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-71ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب المرضى - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب المرضى - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/71ssunnah-mqrwaa.mp3",
+      "duration": 1740,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-72ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الطب - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الطب - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/72ssunnah-mqrwaa.mp3",
+      "duration": 4056,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-73ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب اللباس - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب اللباس - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/73ssunnah-mqrwaa.mp3",
+      "duration": 6521,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-74ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأدب - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأدب - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/74ssunnah-mqrwaa.mp3",
+      "duration": 10562,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-75ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الاستئذان - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الاستئذان - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/75ssunnah-mqrwaa.mp3",
+      "duration": 3522,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-76ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الدعوات - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الدعوات - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/76ssunnah-mqrwaa.mp3",
+      "duration": 4596,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-77ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الرقاق - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الرقاق - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/77ssunnah-mqrwaa.mp3",
+      "duration": 7571,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-78ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب القدر - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب القدر - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/78ssunnah-mqrwaa.mp3",
+      "duration": 1143,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-79ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأيمان والنذور - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأيمان والنذور - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/79ssunnah-mqrwaa.mp3",
+      "duration": 364,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-80ssunnah-mqrwaa",
+      "title": {
+        "ar": "ßÊÇÈ ßÝÇÑÇÊ ÇáÃíãÇä - ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí",
+        "en": "ßÊÇÈ ßÝÇÑÇÊ ÇáÃíãÇä - ÞÑÇÁÉ ãä ßÊÇÈ ÕÍíÍ ÇáÇãÇã ÇáÈÎÇÑí"
+      },
+      "url": "https://archive.org/download/bokhari_audio/80ssunnah-mqrwaa.mp3",
+      "duration": 623,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-81ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الفرائض- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الفرائض- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/81ssunnah-mqrwaa.mp3",
+      "duration": 2024,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-82ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحدود - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحدود - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/82ssunnah-mqrwaa.mp3",
+      "duration": 1026,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-83ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب المحاربين من أهل الكفر والردة- قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب المحاربين من أهل الكفر والردة- قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/83ssunnah-mqrwaa.mp3",
+      "duration": 2906,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-84ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الديات - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الديات - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/84ssunnah-mqrwaa.mp3",
+      "duration": 2531,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-85ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب استتابة المرتدين والمعاندين وقتالهم - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب استتابة المرتدين والمعاندين وقتالهم - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/85ssunnah-mqrwaa.mp3",
+      "duration": 1351,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-86ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الإكراه - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الإكراه - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/86ssunnah-mqrwaa.mp3",
+      "duration": 721,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-87ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الحيل - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الحيل - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/87ssunnah-mqrwaa.mp3",
+      "duration": 1346,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-88ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب التعبير - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب التعبير - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/88ssunnah-mqrwaa.mp3",
+      "duration": 3538,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-89ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الفتن - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الفتن - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/89ssunnah-mqrwaa.mp3",
+      "duration": 3191,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-90ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الأحكام - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الأحكام - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/90ssunnah-mqrwaa.mp3",
+      "duration": 4222,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-91ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب التمني - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب التمني - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/91ssunnah-mqrwaa.mp3",
+      "duration": 828,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-92ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب أخبار الآحاد - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب أخبار الآحاد - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/92ssunnah-mqrwaa.mp3",
+      "duration": 922,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-93ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب الاعتصام بالكتاب والسنة - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب الاعتصام بالكتاب والسنة - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/93ssunnah-mqrwaa.mp3",
+      "duration": 4691,
+      "surahIndex": null
+    },
+    {
+      "id": "bokhari_audio-94ssunnah-mqrwaa",
+      "title": {
+        "ar": "كتاب التوحيد - قراءة من كتاب صحيح الامام البخاري",
+        "en": "كتاب التوحيد - قراءة من كتاب صحيح الامام البخاري"
+      },
+      "url": "https://archive.org/download/bokhari_audio/94ssunnah-mqrwaa.mp3",
+      "duration": 10204,
+      "surahIndex": null
+    }
+  ]
+}

@@ -1,0 +1,1165 @@
+{
+  "id": "Al-Husaree_Almoalim",
+  "title": {
+    "ar": "المصحف المعلم — محمود خليل الحصري",
+    "en": "Al-Mu'allim — Teaching Recitation — Mahmoud Khalil Al-Husary"
+  },
+  "creator": {
+    "ar": "محمود خليل الحصري",
+    "en": "Mahmoud Khalil Al-Husary"
+  },
+  "cover": "/images/library/Al-Husaree_Almoalim.jpg",
+  "sourceUrl": "https://archive.org/details/Al-Husaree_Almoalim",
+  "tracks": [
+    {
+      "id": "Al-Husaree_Almoalim-001",
+      "title": {
+        "ar": "الفاتحة",
+        "en": "Al-Fatihah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/001.mp3",
+      "duration": 74,
+      "surahIndex": 1
+    },
+    {
+      "id": "Al-Husaree_Almoalim-002",
+      "title": {
+        "ar": "البقرة",
+        "en": "Al-Baqarah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/002.mp3",
+      "duration": 19820,
+      "surahIndex": 2
+    },
+    {
+      "id": "Al-Husaree_Almoalim-003",
+      "title": {
+        "ar": "آل عمران",
+        "en": "Aal-Imran"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/003.mp3",
+      "duration": 11153,
+      "surahIndex": 3
+    },
+    {
+      "id": "Al-Husaree_Almoalim-004",
+      "title": {
+        "ar": "النساء",
+        "en": "An-Nisa"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/004.mp3",
+      "duration": 12097,
+      "surahIndex": 4
+    },
+    {
+      "id": "Al-Husaree_Almoalim-005",
+      "title": {
+        "ar": "المائدة",
+        "en": "Al-Ma'idah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/005.mp3",
+      "duration": 9016,
+      "surahIndex": 5
+    },
+    {
+      "id": "Al-Husaree_Almoalim-006",
+      "title": {
+        "ar": "الأنعام",
+        "en": "Al-An'am"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/006.mp3",
+      "duration": 9286,
+      "surahIndex": 6
+    },
+    {
+      "id": "Al-Husaree_Almoalim-007",
+      "title": {
+        "ar": "الأعراف",
+        "en": "Al-A'raf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/007.mp3",
+      "duration": 9866,
+      "surahIndex": 7
+    },
+    {
+      "id": "Al-Husaree_Almoalim-008",
+      "title": {
+        "ar": "الأنفال",
+        "en": "Al-Anfal"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/008.mp3",
+      "duration": 4008,
+      "surahIndex": 8
+    },
+    {
+      "id": "Al-Husaree_Almoalim-009",
+      "title": {
+        "ar": "التوبة",
+        "en": "At-Tawbah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/009.mp3",
+      "duration": 8332,
+      "surahIndex": 9
+    },
+    {
+      "id": "Al-Husaree_Almoalim-010",
+      "title": {
+        "ar": "يونس",
+        "en": "Yunus"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/010.mp3",
+      "duration": 5749,
+      "surahIndex": 10
+    },
+    {
+      "id": "Al-Husaree_Almoalim-011",
+      "title": {
+        "ar": "هود",
+        "en": "Hud"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/011.mp3",
+      "duration": 5977,
+      "surahIndex": 11
+    },
+    {
+      "id": "Al-Husaree_Almoalim-012",
+      "title": {
+        "ar": "يوسف",
+        "en": "Yusuf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/012.mp3",
+      "duration": 5443,
+      "surahIndex": 12
+    },
+    {
+      "id": "Al-Husaree_Almoalim-013",
+      "title": {
+        "ar": "الرعد",
+        "en": "Ar-Ra'd"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/013.mp3",
+      "duration": 2583,
+      "surahIndex": 13
+    },
+    {
+      "id": "Al-Husaree_Almoalim-014",
+      "title": {
+        "ar": "إبراهيم",
+        "en": "Ibrahim"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/014.mp3",
+      "duration": 2644,
+      "surahIndex": 14
+    },
+    {
+      "id": "Al-Husaree_Almoalim-015",
+      "title": {
+        "ar": "الحجر",
+        "en": "Al-Hijr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/015.mp3",
+      "duration": 2099,
+      "surahIndex": 15
+    },
+    {
+      "id": "Al-Husaree_Almoalim-016",
+      "title": {
+        "ar": "النحل",
+        "en": "An-Nahl"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/016.mp3",
+      "duration": 5406,
+      "surahIndex": 16
+    },
+    {
+      "id": "Al-Husaree_Almoalim-017",
+      "title": {
+        "ar": "الإسراء",
+        "en": "Al-Isra"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/017.mp3",
+      "duration": 4830,
+      "surahIndex": 17
+    },
+    {
+      "id": "Al-Husaree_Almoalim-018",
+      "title": {
+        "ar": "الكهف",
+        "en": "Al-Kahf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/018.mp3",
+      "duration": 4832,
+      "surahIndex": 18
+    },
+    {
+      "id": "Al-Husaree_Almoalim-019",
+      "title": {
+        "ar": "مريم",
+        "en": "Maryam"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/019.mp3",
+      "duration": 2641,
+      "surahIndex": 19
+    },
+    {
+      "id": "Al-Husaree_Almoalim-020",
+      "title": {
+        "ar": "طه",
+        "en": "Ta-Ha"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/020.mp3",
+      "duration": 3689,
+      "surahIndex": 20
+    },
+    {
+      "id": "Al-Husaree_Almoalim-021",
+      "title": {
+        "ar": "الأنبياء",
+        "en": "Al-Anbiya"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/021.mp3",
+      "duration": 3763,
+      "surahIndex": 21
+    },
+    {
+      "id": "Al-Husaree_Almoalim-022",
+      "title": {
+        "ar": "الحج",
+        "en": "Al-Hajj"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/022.mp3",
+      "duration": 3884,
+      "surahIndex": 22
+    },
+    {
+      "id": "Al-Husaree_Almoalim-023",
+      "title": {
+        "ar": "المؤمنون",
+        "en": "Al-Mu'minun"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/023.mp3",
+      "duration": 2780,
+      "surahIndex": 23
+    },
+    {
+      "id": "Al-Husaree_Almoalim-024",
+      "title": {
+        "ar": "النور",
+        "en": "An-Nur"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/024.mp3",
+      "duration": 3742,
+      "surahIndex": 24
+    },
+    {
+      "id": "Al-Husaree_Almoalim-025",
+      "title": {
+        "ar": "الفرقان",
+        "en": "Al-Furqan"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/025.mp3",
+      "duration": 2348,
+      "surahIndex": 25
+    },
+    {
+      "id": "Al-Husaree_Almoalim-026",
+      "title": {
+        "ar": "الشعراء",
+        "en": "Ash-Shu'ara"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/026.mp3",
+      "duration": 4041,
+      "surahIndex": 26
+    },
+    {
+      "id": "Al-Husaree_Almoalim-027",
+      "title": {
+        "ar": "النمل",
+        "en": "An-Naml"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/027.mp3",
+      "duration": 3333,
+      "surahIndex": 27
+    },
+    {
+      "id": "Al-Husaree_Almoalim-028",
+      "title": {
+        "ar": "القصص",
+        "en": "Al-Qasas"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/028.mp3",
+      "duration": 3810,
+      "surahIndex": 28
+    },
+    {
+      "id": "Al-Husaree_Almoalim-029",
+      "title": {
+        "ar": "العنكبوت",
+        "en": "Al-Ankabut"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/029.mp3",
+      "duration": 2745,
+      "surahIndex": 29
+    },
+    {
+      "id": "Al-Husaree_Almoalim-030",
+      "title": {
+        "ar": "الروم",
+        "en": "Ar-Rum"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/030.mp3",
+      "duration": 2284,
+      "surahIndex": 30
+    },
+    {
+      "id": "Al-Husaree_Almoalim-031",
+      "title": {
+        "ar": "لقمان",
+        "en": "Luqman"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/031.mp3",
+      "duration": 1429,
+      "surahIndex": 31
+    },
+    {
+      "id": "Al-Husaree_Almoalim-032",
+      "title": {
+        "ar": "السجدة",
+        "en": "As-Sajdah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/032.mp3",
+      "duration": 1098,
+      "surahIndex": 32
+    },
+    {
+      "id": "Al-Husaree_Almoalim-033",
+      "title": {
+        "ar": "الأحزاب",
+        "en": "Al-Ahzab"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/033.mp3",
+      "duration": 3702,
+      "surahIndex": 33
+    },
+    {
+      "id": "Al-Husaree_Almoalim-034",
+      "title": {
+        "ar": "سبأ",
+        "en": "Saba"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/034.mp3",
+      "duration": 2391,
+      "surahIndex": 34
+    },
+    {
+      "id": "Al-Husaree_Almoalim-035",
+      "title": {
+        "ar": "فاطر",
+        "en": "Fatir"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/035.mp3",
+      "duration": 2209,
+      "surahIndex": 35
+    },
+    {
+      "id": "Al-Husaree_Almoalim-036",
+      "title": {
+        "ar": "يس",
+        "en": "Ya-Sin"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/036.mp3",
+      "duration": 1793,
+      "surahIndex": 36
+    },
+    {
+      "id": "Al-Husaree_Almoalim-037",
+      "title": {
+        "ar": "الصافات",
+        "en": "As-Saffat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/037.mp3",
+      "duration": 2223,
+      "surahIndex": 37
+    },
+    {
+      "id": "Al-Husaree_Almoalim-038",
+      "title": {
+        "ar": "ص",
+        "en": "Sad"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/038.mp3",
+      "duration": 1917,
+      "surahIndex": 38
+    },
+    {
+      "id": "Al-Husaree_Almoalim-039",
+      "title": {
+        "ar": "الزمر",
+        "en": "Az-Zumar"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/039.mp3",
+      "duration": 3411,
+      "surahIndex": 39
+    },
+    {
+      "id": "Al-Husaree_Almoalim-040",
+      "title": {
+        "ar": "غافر",
+        "en": "Ghafir"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/040.mp3",
+      "duration": 3456,
+      "surahIndex": 40
+    },
+    {
+      "id": "Al-Husaree_Almoalim-041",
+      "title": {
+        "ar": "فصلت",
+        "en": "Fussilat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/041.mp3",
+      "duration": 2460,
+      "surahIndex": 41
+    },
+    {
+      "id": "Al-Husaree_Almoalim-042",
+      "title": {
+        "ar": "الشورى",
+        "en": "Ash-Shura"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/042.mp3",
+      "duration": 2546,
+      "surahIndex": 42
+    },
+    {
+      "id": "Al-Husaree_Almoalim-043",
+      "title": {
+        "ar": "الزخرف",
+        "en": "Az-Zukhruf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/043.mp3",
+      "duration": 2447,
+      "surahIndex": 43
+    },
+    {
+      "id": "Al-Husaree_Almoalim-044",
+      "title": {
+        "ar": "الدخان",
+        "en": "Ad-Dukhan"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/044.mp3",
+      "duration": 982,
+      "surahIndex": 44
+    },
+    {
+      "id": "Al-Husaree_Almoalim-045",
+      "title": {
+        "ar": "الجاثية",
+        "en": "Al-Jathiyah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/045.mp3",
+      "duration": 1277,
+      "surahIndex": 45
+    },
+    {
+      "id": "Al-Husaree_Almoalim-046",
+      "title": {
+        "ar": "الأحقاف",
+        "en": "Al-Ahqaf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/046.mp3",
+      "duration": 1563,
+      "surahIndex": 46
+    },
+    {
+      "id": "Al-Husaree_Almoalim-047",
+      "title": {
+        "ar": "محمد",
+        "en": "Muhammad"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/047.mp3",
+      "duration": 1399,
+      "surahIndex": 47
+    },
+    {
+      "id": "Al-Husaree_Almoalim-048",
+      "title": {
+        "ar": "الفتح",
+        "en": "Al-Fath"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/048.mp3",
+      "duration": 1665,
+      "surahIndex": 48
+    },
+    {
+      "id": "Al-Husaree_Almoalim-049",
+      "title": {
+        "ar": "الحجرات",
+        "en": "Al-Hujurat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/049.mp3",
+      "duration": 966,
+      "surahIndex": 49
+    },
+    {
+      "id": "Al-Husaree_Almoalim-050",
+      "title": {
+        "ar": "ق",
+        "en": "Qaf"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/050.mp3",
+      "duration": 1092,
+      "surahIndex": 50
+    },
+    {
+      "id": "Al-Husaree_Almoalim-051",
+      "title": {
+        "ar": "الذاريات",
+        "en": "Adh-Dhariyat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/051.mp3",
+      "duration": 1002,
+      "surahIndex": 51
+    },
+    {
+      "id": "Al-Husaree_Almoalim-052",
+      "title": {
+        "ar": "الطور",
+        "en": "At-Tur"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/052.mp3",
+      "duration": 908,
+      "surahIndex": 52
+    },
+    {
+      "id": "Al-Husaree_Almoalim-053",
+      "title": {
+        "ar": "النجم",
+        "en": "An-Najm"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/053.mp3",
+      "duration": 1037,
+      "surahIndex": 53
+    },
+    {
+      "id": "Al-Husaree_Almoalim-054",
+      "title": {
+        "ar": "القمر",
+        "en": "Al-Qamar"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/054.mp3",
+      "duration": 931,
+      "surahIndex": 54
+    },
+    {
+      "id": "Al-Husaree_Almoalim-055",
+      "title": {
+        "ar": "الرحمن",
+        "en": "Ar-Rahman"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/055.mp3",
+      "duration": 1242,
+      "surahIndex": 55
+    },
+    {
+      "id": "Al-Husaree_Almoalim-056",
+      "title": {
+        "ar": "الواقعة",
+        "en": "Al-Waqi'ah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/056.mp3",
+      "duration": 1197,
+      "surahIndex": 56
+    },
+    {
+      "id": "Al-Husaree_Almoalim-057",
+      "title": {
+        "ar": "الحديد",
+        "en": "Al-Hadid"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/057.mp3",
+      "duration": 1403,
+      "surahIndex": 57
+    },
+    {
+      "id": "Al-Husaree_Almoalim-058",
+      "title": {
+        "ar": "المجادلة",
+        "en": "Al-Mujadila"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/058.mp3",
+      "duration": 1220,
+      "surahIndex": 58
+    },
+    {
+      "id": "Al-Husaree_Almoalim-059",
+      "title": {
+        "ar": "الحشر",
+        "en": "Al-Hashr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/059.mp3",
+      "duration": 1075,
+      "surahIndex": 59
+    },
+    {
+      "id": "Al-Husaree_Almoalim-060",
+      "title": {
+        "ar": "الممتحنة",
+        "en": "Al-Mumtahanah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/060.mp3",
+      "duration": 957,
+      "surahIndex": 60
+    },
+    {
+      "id": "Al-Husaree_Almoalim-061",
+      "title": {
+        "ar": "الصف",
+        "en": "As-Saff"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/061.mp3",
+      "duration": 564,
+      "surahIndex": 61
+    },
+    {
+      "id": "Al-Husaree_Almoalim-062",
+      "title": {
+        "ar": "الجمعة",
+        "en": "Al-Jumu'ah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/062.mp3",
+      "duration": 372,
+      "surahIndex": 62
+    },
+    {
+      "id": "Al-Husaree_Almoalim-063",
+      "title": {
+        "ar": "المنافقون",
+        "en": "Al-Munafiqun"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/063.mp3",
+      "duration": 405,
+      "surahIndex": 63
+    },
+    {
+      "id": "Al-Husaree_Almoalim-064",
+      "title": {
+        "ar": "التغابن",
+        "en": "At-Taghabun"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/064.mp3",
+      "duration": 568,
+      "surahIndex": 64
+    },
+    {
+      "id": "Al-Husaree_Almoalim-065",
+      "title": {
+        "ar": "الطلاق",
+        "en": "At-Talaq"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/065.mp3",
+      "duration": 745,
+      "surahIndex": 65
+    },
+    {
+      "id": "Al-Husaree_Almoalim-066",
+      "title": {
+        "ar": "التحريم",
+        "en": "At-Tahrim"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/066.mp3",
+      "duration": 695,
+      "surahIndex": 66
+    },
+    {
+      "id": "Al-Husaree_Almoalim-067",
+      "title": {
+        "ar": "الملك",
+        "en": "Al-Mulk"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/067.mp3",
+      "duration": 762,
+      "surahIndex": 67
+    },
+    {
+      "id": "Al-Husaree_Almoalim-068",
+      "title": {
+        "ar": "القلم",
+        "en": "Al-Qalam"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/068.mp3",
+      "duration": 845,
+      "surahIndex": 68
+    },
+    {
+      "id": "Al-Husaree_Almoalim-069",
+      "title": {
+        "ar": "الحاقة",
+        "en": "Al-Haqqah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/069.mp3",
+      "duration": 793,
+      "surahIndex": 69
+    },
+    {
+      "id": "Al-Husaree_Almoalim-070",
+      "title": {
+        "ar": "المعارج",
+        "en": "Al-Ma'arij"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/070.mp3",
+      "duration": 648,
+      "surahIndex": 70
+    },
+    {
+      "id": "Al-Husaree_Almoalim-071",
+      "title": {
+        "ar": "نوح",
+        "en": "Nuh"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/071.mp3",
+      "duration": 634,
+      "surahIndex": 71
+    },
+    {
+      "id": "Al-Husaree_Almoalim-072",
+      "title": {
+        "ar": "الجن",
+        "en": "Al-Jinn"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/072.mp3",
+      "duration": 787,
+      "surahIndex": 72
+    },
+    {
+      "id": "Al-Husaree_Almoalim-073",
+      "title": {
+        "ar": "المزمل",
+        "en": "Al-Muzzammil"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/073.mp3",
+      "duration": 608,
+      "surahIndex": 73
+    },
+    {
+      "id": "Al-Husaree_Almoalim-074",
+      "title": {
+        "ar": "المدثر",
+        "en": "Al-Muddaththir"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/074.mp3",
+      "duration": 781,
+      "surahIndex": 74
+    },
+    {
+      "id": "Al-Husaree_Almoalim-075",
+      "title": {
+        "ar": "القيامة",
+        "en": "Al-Qiyamah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/075.mp3",
+      "duration": 483,
+      "surahIndex": 75
+    },
+    {
+      "id": "Al-Husaree_Almoalim-076",
+      "title": {
+        "ar": "الإنسان",
+        "en": "Al-Insan"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/076.mp3",
+      "duration": 706,
+      "surahIndex": 76
+    },
+    {
+      "id": "Al-Husaree_Almoalim-077",
+      "title": {
+        "ar": "المرسلات",
+        "en": "Al-Mursalat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/077.mp3",
+      "duration": 612,
+      "surahIndex": 77
+    },
+    {
+      "id": "Al-Husaree_Almoalim-078",
+      "title": {
+        "ar": "النبأ",
+        "en": "An-Naba"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/078.mp3",
+      "duration": 590,
+      "surahIndex": 78
+    },
+    {
+      "id": "Al-Husaree_Almoalim-079",
+      "title": {
+        "ar": "النازعات",
+        "en": "An-Nazi'at"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/079.mp3",
+      "duration": 562,
+      "surahIndex": 79
+    },
+    {
+      "id": "Al-Husaree_Almoalim-080",
+      "title": {
+        "ar": "عبس",
+        "en": "Abasa"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/080.mp3",
+      "duration": 445,
+      "surahIndex": 80
+    },
+    {
+      "id": "Al-Husaree_Almoalim-081",
+      "title": {
+        "ar": "التكوير",
+        "en": "At-Takwir"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/081.mp3",
+      "duration": 311,
+      "surahIndex": 81
+    },
+    {
+      "id": "Al-Husaree_Almoalim-082",
+      "title": {
+        "ar": "الانفطار",
+        "en": "Al-Infitar"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/082.mp3",
+      "duration": 254,
+      "surahIndex": 82
+    },
+    {
+      "id": "Al-Husaree_Almoalim-083",
+      "title": {
+        "ar": "المطففين",
+        "en": "Al-Mutaffifin"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/083.mp3",
+      "duration": 560,
+      "surahIndex": 83
+    },
+    {
+      "id": "Al-Husaree_Almoalim-084",
+      "title": {
+        "ar": "الانشقاق",
+        "en": "Al-Inshiqaq"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/084.mp3",
+      "duration": 324,
+      "surahIndex": 84
+    },
+    {
+      "id": "Al-Husaree_Almoalim-085",
+      "title": {
+        "ar": "البروج",
+        "en": "Al-Buruj"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/085.mp3",
+      "duration": 326,
+      "surahIndex": 85
+    },
+    {
+      "id": "Al-Husaree_Almoalim-086",
+      "title": {
+        "ar": "الطارق",
+        "en": "At-Tariq"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/086.mp3",
+      "duration": 216,
+      "surahIndex": 86
+    },
+    {
+      "id": "Al-Husaree_Almoalim-087",
+      "title": {
+        "ar": "الأعلى",
+        "en": "Al-A'la"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/087.mp3",
+      "duration": 245,
+      "surahIndex": 87
+    },
+    {
+      "id": "Al-Husaree_Almoalim-088",
+      "title": {
+        "ar": "الغاشية",
+        "en": "Al-Ghashiyah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/088.mp3",
+      "duration": 305,
+      "surahIndex": 88
+    },
+    {
+      "id": "Al-Husaree_Almoalim-089",
+      "title": {
+        "ar": "الفجر",
+        "en": "Al-Fajr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/089.mp3",
+      "duration": 448,
+      "surahIndex": 89
+    },
+    {
+      "id": "Al-Husaree_Almoalim-090",
+      "title": {
+        "ar": "البلد",
+        "en": "Al-Balad"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/090.mp3",
+      "duration": 260,
+      "surahIndex": 90
+    },
+    {
+      "id": "Al-Husaree_Almoalim-091",
+      "title": {
+        "ar": "الشمس",
+        "en": "Ash-Shams"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/091.mp3",
+      "duration": 184,
+      "surahIndex": 91
+    },
+    {
+      "id": "Al-Husaree_Almoalim-092",
+      "title": {
+        "ar": "الليل",
+        "en": "Al-Layl"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/092.mp3",
+      "duration": 240,
+      "surahIndex": 92
+    },
+    {
+      "id": "Al-Husaree_Almoalim-093",
+      "title": {
+        "ar": "الضحى",
+        "en": "Ad-Duha"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/093.mp3",
+      "duration": 131,
+      "surahIndex": 93
+    },
+    {
+      "id": "Al-Husaree_Almoalim-094",
+      "title": {
+        "ar": "الشرح",
+        "en": "Ash-Sharh"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/094.mp3",
+      "duration": 81,
+      "surahIndex": 94
+    },
+    {
+      "id": "Al-Husaree_Almoalim-095",
+      "title": {
+        "ar": "التين",
+        "en": "At-Tin"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/095.mp3",
+      "duration": 109,
+      "surahIndex": 95
+    },
+    {
+      "id": "Al-Husaree_Almoalim-096",
+      "title": {
+        "ar": "العلق",
+        "en": "Al-Alaq"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/096.mp3",
+      "duration": 209,
+      "surahIndex": 96
+    },
+    {
+      "id": "Al-Husaree_Almoalim-097",
+      "title": {
+        "ar": "القدر",
+        "en": "Al-Qadr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/097.mp3",
+      "duration": 86,
+      "surahIndex": 97
+    },
+    {
+      "id": "Al-Husaree_Almoalim-098",
+      "title": {
+        "ar": "البينة",
+        "en": "Al-Bayyinah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/098.mp3",
+      "duration": 280,
+      "surahIndex": 98
+    },
+    {
+      "id": "Al-Husaree_Almoalim-099",
+      "title": {
+        "ar": "الزلزلة",
+        "en": "Az-Zalzalah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/099.mp3",
+      "duration": 123,
+      "surahIndex": 99
+    },
+    {
+      "id": "Al-Husaree_Almoalim-100",
+      "title": {
+        "ar": "العاديات",
+        "en": "Al-Adiyat"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/100.mp3",
+      "duration": 124,
+      "surahIndex": 100
+    },
+    {
+      "id": "Al-Husaree_Almoalim-101",
+      "title": {
+        "ar": "القارعة",
+        "en": "Al-Qari'ah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/101.mp3",
+      "duration": 117,
+      "surahIndex": 101
+    },
+    {
+      "id": "Al-Husaree_Almoalim-102",
+      "title": {
+        "ar": "التكاثر",
+        "en": "At-Takathur"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/102.mp3",
+      "duration": 90,
+      "surahIndex": 102
+    },
+    {
+      "id": "Al-Husaree_Almoalim-103",
+      "title": {
+        "ar": "العصر",
+        "en": "Al-Asr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/103.mp3",
+      "duration": 49,
+      "surahIndex": 103
+    },
+    {
+      "id": "Al-Husaree_Almoalim-104",
+      "title": {
+        "ar": "الهمزة",
+        "en": "Al-Humazah"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/104.mp3",
+      "duration": 100,
+      "surahIndex": 104
+    },
+    {
+      "id": "Al-Husaree_Almoalim-105",
+      "title": {
+        "ar": "الفيل",
+        "en": "Al-Fil"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/105.mp3",
+      "duration": 74,
+      "surahIndex": 105
+    },
+    {
+      "id": "Al-Husaree_Almoalim-106",
+      "title": {
+        "ar": "قريش",
+        "en": "Quraysh"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/106.mp3",
+      "duration": 63,
+      "surahIndex": 106
+    },
+    {
+      "id": "Al-Husaree_Almoalim-107",
+      "title": {
+        "ar": "الماعون",
+        "en": "Al-Ma'un"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/107.mp3",
+      "duration": 83,
+      "surahIndex": 107
+    },
+    {
+      "id": "Al-Husaree_Almoalim-108",
+      "title": {
+        "ar": "الكوثر",
+        "en": "Al-Kawthar"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/108.mp3",
+      "duration": 40,
+      "surahIndex": 108
+    },
+    {
+      "id": "Al-Husaree_Almoalim-109",
+      "title": {
+        "ar": "الكافرون",
+        "en": "Al-Kafirun"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/109.mp3",
+      "duration": 79,
+      "surahIndex": 109
+    },
+    {
+      "id": "Al-Husaree_Almoalim-110",
+      "title": {
+        "ar": "النصر",
+        "en": "An-Nasr"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/110.mp3",
+      "duration": 63,
+      "surahIndex": 110
+    },
+    {
+      "id": "Al-Husaree_Almoalim-111",
+      "title": {
+        "ar": "المسد",
+        "en": "Al-Masad"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/111.mp3",
+      "duration": 70,
+      "surahIndex": 111
+    },
+    {
+      "id": "Al-Husaree_Almoalim-112",
+      "title": {
+        "ar": "الإخلاص",
+        "en": "Al-Ikhlas"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/112.mp3",
+      "duration": 40,
+      "surahIndex": 112
+    },
+    {
+      "id": "Al-Husaree_Almoalim-113",
+      "title": {
+        "ar": "الفلق",
+        "en": "Al-Falaq"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/113.mp3",
+      "duration": 60,
+      "surahIndex": 113
+    },
+    {
+      "id": "Al-Husaree_Almoalim-114",
+      "title": {
+        "ar": "الناس",
+        "en": "An-Nas"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/114.mp3",
+      "duration": 72,
+      "surahIndex": 114
+    },
+    {
+      "id": "Al-Husaree_Almoalim-000-www.el-moslem.com",
+      "title": {
+        "ar": "introduction",
+        "en": "introduction"
+      },
+      "url": "https://archive.org/download/Al-Husaree_Almoalim/000-www.el-moslem.com.mp3",
+      "duration": 12,
+      "surahIndex": null
+    }
+  ]
+}
