@@ -1,0 +1,38 @@
+{
+  "name": "ruqyah-shariyyah",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "تطبيق الرقية الشرعية — استماع وقراءة ونص كامل وأدعية، بتصميم عربي ومشغّل صوت موحّد.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gamingmonster2/muslim.git"
+  },
+  "keywords": ["ruqyah", "islam", "arabic", "pwa", "react", "quran"],
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "icons": "node scripts/gen-icons.mjs",
+    "qa": "node scripts/qa.mjs http://localhost:4173/ home",
+    "qa:flow": "node scripts/qa-flow.mjs http://localhost:4173"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@fontsource/amiri": "^5.3.0",
+    "@fontsource/tajawal": "^5.3.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

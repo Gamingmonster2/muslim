@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="الرقية الشرعية">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12564c" />
+      <stop offset="1" stop-color="#082c26" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d9a6" />
+      <stop offset="1" stop-color="#a87c33" />
+    </linearGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#ffffff" opacity="0.05" />
+    </pattern>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)" />
+  <rect width="512" height="512" fill="url(#dots)" />
+
+  <path
+    d="M156 396V266a100 100 0 0 1 200 0v130"
+    fill="none"
+    stroke="url(#gold)"
+    stroke-width="15"
+    stroke-linecap="round"
+  />
+  <path
+    d="M186 396V268a70 70 0 0 1 140 0v128"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.18"
+    stroke-width="7"
+    stroke-linecap="round"
+  />
+  <path d="M186 200a70 70 0 0 1 140 0" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="7" />
+
+  <path
+    d="M256 240l16 38 38 16-38 16-16 38-16-38-38-16 38-16 16-38Z"
+    fill="url(#gold)"
+  />
+
+  <path d="M172 396h168" stroke="url(#gold)" stroke-width="15" stroke-linecap="round" />
+</svg>

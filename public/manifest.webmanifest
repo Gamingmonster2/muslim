@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "الرقية الشرعية — شفاء ورحمة",
+  "short_name": "الرقية الشرعية",
+  "description": "استمع إلى الرقية الشرعية بصوت الشيخ سعود الفايز والشيخ عصام العويد، واقرأ نص الرقية والأدعية.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e7",
+  "theme_color": "#0e4a42",
+  "categories": ["health", "lifestyle", "education"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
