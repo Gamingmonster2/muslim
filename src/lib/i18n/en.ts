@@ -101,7 +101,7 @@ export const en: Dictionary = {
     statsMushafs: "mushafs",
     statsTracks: "audio tracks",
     featuredBadge: "Featured reciter",
-    featuredTitle: "Ruqyah by Sheikh Essam Al-Owaid",
+    featuredTitle: "The complete Ruqyah recording",
     featuredDescription:
       "A recording to listen to in times of distress, anxiety or illness, by Allah's permission. Press play and begin a journey of tranquility.",
     featuredDuration: "Duration",

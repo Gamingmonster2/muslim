@@ -54,6 +54,8 @@ interface RawLibraryItem {
 }
 
 const rawScholars = (scholarsRaw as unknown as { scholars: RawScholar[] }).scholars;
+const featuredOrder =
+  (scholarsRaw as unknown as { featuredOrder?: string[] }).featuredOrder ?? [];
 const rawLibrary = (libraryRaw as unknown as { items: RawLibraryItem[] }).items;
 
 function normalizeTrack(track: RawTrack): Track {
@@ -97,6 +99,11 @@ export function getScholars(): Scholar[] {
 }
 
 export function getFeaturedScholar(): Scholar {
+  // الأولوية لترتيب المميزين في بيانات المحتوى (عصام العويد أولاً ثم سعود الفايز)
+  for (const id of featuredOrder) {
+    const found = scholars.find((scholar) => scholar.id === id);
+    if (found) return found;
+  }
   return scholars.find((scholar) => scholar.featured) ?? scholars[0];
 }
 

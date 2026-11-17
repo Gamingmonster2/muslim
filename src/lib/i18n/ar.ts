@@ -103,7 +103,7 @@ export const ar = {
     statsMushafs: "مصحفاً",
     statsTracks: "مساراً صوتياً",
     featuredBadge: "الشيخ المميز",
-    featuredTitle: "الرقية الشرعية للشيخ عصام العويد",
+    featuredTitle: "تسجيل الرقية الشرعية الكامل",
     featuredDescription:
       "تسجيل يُستمع إليه عند الضيق والهمّ والمرض بإذن الله. اضغط زر التشغيل وابدأ رحلة السكينة.",
     featuredDuration: "المدة",
