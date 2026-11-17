@@ -154,6 +154,17 @@ function main() {
   const precache = collectPrecache();
   fs.writeFileSync(path.join(OUT, "sw.js"), buildServiceWorker(precache), "utf8");
   console.log(`✓ sitemap.xml · robots.txt · sw.js (${precache.length} ملف pre-cache)`);
+
+  // توافق الاستضافة: بعض إعدادات Cloudflare تتوقع مجلد dist (من نسخة Vite السابقة).
+  // نُنتج نسخة مطابقة في dist لتنجح عملية النشر بأي من الإعدادين.
+  const DIST = path.join(ROOT, "dist");
+  try {
+    fs.rmSync(DIST, { recursive: true, force: true });
+    fs.cpSync(OUT, DIST, { recursive: true });
+    console.log("✓ dist/ (نسخة مطابقة من out/ لتوافق إعدادات Cloudflare)");
+  } catch (err) {
+    console.warn(`⚠ تعذّر إنشاء dist/: ${err.message}`);
+  }
 }
 
 main();

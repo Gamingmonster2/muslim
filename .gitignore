@@ -16,6 +16,9 @@
 /out/
 next-env.d.ts
 
+# build output mirror (created by postbuild for host compatibility)
+/dist
+
 # production
 /build
 
@@ -43,3 +46,4 @@ yarn-error.log*
 /research
 /muslim
 /.tmp
+/shots
