@@ -10,6 +10,7 @@ export function SectionHeading({
   actionHref,
   align = "start",
   className,
+  as = "h2",
 }: {
   eyebrow?: string;
   title: string;
@@ -18,7 +19,9 @@ export function SectionHeading({
   actionHref?: string;
   align?: "start" | "center";
   className?: string;
+  as?: "h1" | "h2";
 }) {
+  const Heading = as;
   return (
     <div
       className={cn(
@@ -40,9 +43,9 @@ export function SectionHeading({
         )}
       >
         <div>
-          <h2 className="font-display text-2xl font-bold leading-tight text-foreground sm:text-3xl">
+          <Heading className="font-display text-2xl font-bold leading-tight text-foreground sm:text-3xl">
             {title}
-          </h2>
+          </Heading>
           {description && (
             <p className="mt-2 max-w-2xl text-sm leading-relaxed text-muted-foreground sm:text-base">
               {description}

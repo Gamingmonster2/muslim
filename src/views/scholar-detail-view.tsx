@@ -2,12 +2,14 @@ import { notFound } from "next/navigation";
 import { PlayAllButton } from "@/components/player/play-buttons";
 import { TrackRow } from "@/components/player/track-row";
 import { ScholarCard } from "@/components/scholars/scholar-card";
+import { JsonLd } from "@/components/seo/json-ld";
 import { DefaultArt } from "@/components/shared/default-art";
 import { Container } from "@/components/shared/container";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { formatNumber } from "@/lib/format";
 import { getRelatedScholars, getScholar } from "@/lib/content";
 import { getDictionary, localePath, scholarPath } from "@/lib/i18n";
+import { buildBreadcrumbSchema, buildPersonSchema } from "@/lib/schema";
 import type { Locale, PlayerContext } from "@/lib/types";
 import { Headphones, Heart, Mic2 } from "lucide-react";
 
@@ -29,6 +31,16 @@ export function ScholarDetailView({ locale, id }: { locale: Locale; id: string }
 
   return (
     <div className="pb-10">
+      <JsonLd
+        data={[
+          buildPersonSchema(scholar, locale),
+          buildBreadcrumbSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.nav.scholars, path: "/scholars" },
+            { name: scholar.name[locale], path: `/scholars/${scholar.id}` },
+          ]),
+        ]}
+      />
       {/* الغلاف */}
       <div className="relative overflow-hidden border-b border-border/50 bg-muted/30">
         <div className="pointer-events-none absolute -top-24 start-1/3 size-96 rounded-full bg-primary/10 blur-3xl" />

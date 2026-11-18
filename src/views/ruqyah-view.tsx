@@ -1,10 +1,12 @@
 import { PlayAllButton } from "@/components/player/play-buttons";
 import { TrackRow } from "@/components/player/track-row";
+import { JsonLd } from "@/components/seo/json-ld";
 import { DefaultArt } from "@/components/shared/default-art";
 import { Container } from "@/components/shared/container";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { formatNumber } from "@/lib/format";
 import { getScholars } from "@/lib/content";
+import { buildBreadcrumbSchema, buildCollectionPageSchema } from "@/lib/schema";
 import { getDictionary, scholarPath } from "@/lib/i18n";
 import type { Locale, PlayerContext } from "@/lib/types";
 import { Headphones, Info, ShieldCheck } from "lucide-react";
@@ -19,12 +21,26 @@ export function RuqyahView({ locale }: { locale: Locale }) {
 
   return (
     <div className="py-10">
+      <JsonLd
+        data={[
+          buildCollectionPageSchema(locale, {
+            name: dict.ruqyah.title,
+            path: "/ruqyah",
+            description: dict.ruqyah.description,
+          }),
+          buildBreadcrumbSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.ruqyah.title, path: "/ruqyah" },
+          ]),
+        ]}
+      />
       <Container>
         <SectionHeading
           eyebrow={dict.brand.tagline}
           title={dict.ruqyah.title}
           description={dict.ruqyah.description}
           align="center"
+          as="h1"
         />
 
         {/* آداب الاستماع */}

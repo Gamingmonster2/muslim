@@ -27,6 +27,7 @@ export function DesignView({ locale }: { locale: Locale }) {
           title="نماذج التصميم — Design samples"
           description="استعراض لألوان وخطوط ومكوّنات المنصة، للمراجعة والتطوير."
           align="center"
+          as="h1"
         />
 
         {/* الألوان */}

@@ -9,7 +9,7 @@ const dict = getDictionary("ar");
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
-  title: { default: dict.meta.siteTitle, template: `%s — ${dict.brand.name}` },
+  title: { default: dict.meta.siteTitle, template: `%s | ${dict.brand.name}` },
   description: dict.meta.siteDescription,
   keywords: [dict.meta.keywords],
   openGraph: {

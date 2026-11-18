@@ -1,7 +1,10 @@
 import { notFound } from "next/navigation";
 import { AdhkarReader } from "@/components/adhkar/adhkar-reader";
+import { JsonLd } from "@/components/seo/json-ld";
 import { buildMetadata } from "@/lib/metadata";
 import { getAdhkarCategories } from "@/lib/content";
+import { getDictionary } from "@/lib/i18n";
+import { buildBreadcrumbSchema } from "@/lib/schema";
 
 export function generateStaticParams() {
   return getAdhkarCategories().map((category) => ({ id: category.id }));
@@ -29,5 +32,19 @@ export default async function Page({
   const { id } = await params;
   const category = getAdhkarCategories().find((item) => item.id === id);
   if (!category) notFound();
-  return <AdhkarReader category={category} locale="ar" />;
+  const dict = getDictionary("ar");
+  return (
+    <>
+      <JsonLd
+        data={[
+          buildBreadcrumbSchema("ar", [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.adhkar.title, path: "/adhkar" },
+            { name: category.title.ar, path: `/adhkar/${id}` },
+          ]),
+        ]}
+      />
+      <AdhkarReader category={category} locale="ar" />
+    </>
+  );
 }

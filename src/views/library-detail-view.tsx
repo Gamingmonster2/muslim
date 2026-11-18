@@ -1,11 +1,13 @@
 import { notFound } from "next/navigation";
 import { TrackListLoader } from "@/components/library/track-list-loader";
 import { PlayAllButton } from "@/components/player/play-buttons";
+import { JsonLd } from "@/components/seo/json-ld";
 import { DefaultArt } from "@/components/shared/default-art";
 import { Container } from "@/components/shared/container";
 import { getLibraryItem } from "@/lib/content";
 import { formatMinutesHuman } from "@/lib/format";
 import { getDictionary, libraryPath } from "@/lib/i18n";
+import { buildAudioSchema, buildBreadcrumbSchema } from "@/lib/schema";
 import type { Locale, PlayerContext } from "@/lib/types";
 import { CalendarDays, Download, Layers, Timer } from "lucide-react";
 
@@ -30,6 +32,16 @@ export function LibraryDetailView({ locale, id }: { locale: Locale; id: string }
 
   return (
     <div className="pb-10">
+      <JsonLd
+        data={[
+          buildAudioSchema(item, locale),
+          buildBreadcrumbSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.nav.library, path: "/library" },
+            { name: item.title[locale], path: `/library/${item.id}` },
+          ]),
+        ]}
+      />
       <Container className="py-10">
         <div className="grid gap-8 lg:grid-cols-3">
           <div className="lg:col-span-1">

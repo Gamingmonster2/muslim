@@ -1,7 +1,9 @@
 import { Container } from "@/components/shared/container";
 import { SectionHeading } from "@/components/shared/section-heading";
+import { JsonLd } from "@/components/seo/json-ld";
 import { getAdhkarCategories } from "@/lib/content";
 import { getDictionary, adhkarPath } from "@/lib/i18n";
+import { buildBreadcrumbSchema, buildCollectionPageSchema } from "@/lib/schema";
 import type { Locale } from "@/lib/types";
 import { BedDouble, Heart, HeartPulse, Moon, Sun, Sunrise } from "lucide-react";
 
@@ -29,12 +31,26 @@ export function AdhkarView({ locale }: { locale: Locale }) {
 
   return (
     <div className="py-10">
+      <JsonLd
+        data={[
+          buildCollectionPageSchema(locale, {
+            name: dict.adhkar.title,
+            path: "/adhkar",
+            description: dict.adhkar.description,
+          }),
+          buildBreadcrumbSchema(locale, [
+            { name: dict.nav.home, path: "/" },
+            { name: dict.adhkar.title, path: "/adhkar" },
+          ]),
+        ]}
+      />
       <Container>
         <SectionHeading
           eyebrow={dict.brand.tagline}
           title={dict.adhkar.categoriesTitle}
           description={dict.adhkar.categoriesDescription}
           align="center"
+          as="h1"
         />
         <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {categories.map((category) => {

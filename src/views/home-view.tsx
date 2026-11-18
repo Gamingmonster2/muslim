@@ -1,6 +1,7 @@
 import { Hero } from "@/components/home/hero";
 import { LibraryCard } from "@/components/library/library-card";
 import { ScholarCard } from "@/components/scholars/scholar-card";
+import { JsonLd } from "@/components/seo/json-ld";
 import { Container } from "@/components/shared/container";
 import { SectionHeading } from "@/components/shared/section-heading";
 import {
@@ -10,6 +11,11 @@ import {
   getSiteStats,
 } from "@/lib/content";
 import { getDictionary, adhkarPath, localePath } from "@/lib/i18n";
+import {
+  buildOrganizationSchema,
+  buildScholarsItemList,
+  buildWebsiteSchema,
+} from "@/lib/schema";
 import type { Locale } from "@/lib/types";
 import { BookOpen, HeartPulse, MoonStar, Sparkles } from "lucide-react";
 
@@ -59,6 +65,13 @@ export function HomeView({ locale }: { locale: Locale }) {
 
   return (
     <div>
+      <JsonLd
+        data={[
+          buildWebsiteSchema(locale),
+          buildOrganizationSchema(),
+          buildScholarsItemList(getScholars(), locale),
+        ]}
+      />
       <Hero locale={locale} stats={stats} featured={featured} />
 
       {/* شيوخ آخرون */}

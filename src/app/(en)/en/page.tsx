@@ -8,6 +8,7 @@ export const metadata = buildMetadata("en", {
   title: dict.meta.siteTitle,
   description: dict.meta.siteDescription,
   path: "/",
+  absolute: true,
 });
 
 export default function Page() {

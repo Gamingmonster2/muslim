@@ -15,7 +15,7 @@ export function AboutView({ locale }: { locale: Locale }) {
   return (
     <div className="py-10">
       <Container className="max-w-4xl">
-        <SectionHeading eyebrow={dict.brand.name} title={dict.about.title} align="center" />
+        <SectionHeading eyebrow={dict.brand.name} title={dict.about.title} align="center" as="h1" />
         <p className="mx-auto mt-4 max-w-2xl text-center text-base leading-relaxed text-muted-foreground sm:text-lg">
           {dict.about.lead}
         </p>

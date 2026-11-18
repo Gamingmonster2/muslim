@@ -3,7 +3,7 @@ import type { Dictionary } from "./ar";
 export const en: Dictionary = {
   meta: {
     siteName: "ListenYourDeen",
-    siteTitle: "ListenYourDeen — Ruqyah & Islamic Audio Library",
+    siteTitle: "ListenYourDeen — Ruqyah, Adhkar & Audio Library",
     siteDescription:
       "An Islamic audio platform for Ruqyah, daily adhkar and tasbeeh, with a curated library of Qur'an recitations and explanations of the Sunnah.",
     keywords:

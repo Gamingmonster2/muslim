@@ -10,6 +10,8 @@ export function buildMetadata(
     description: string;
     path?: string;
     noIndex?: boolean;
+    /** يمنع إضافة اسم العلامة تلقائياً (للصفحة الرئيسية فقط) */
+    absolute?: boolean;
   }
 ): Metadata {
   const dict = getDictionary(locale);
@@ -20,7 +22,9 @@ export function buildMetadata(
 
   return {
     metadataBase: new URL(site.url),
-    title: opts.title,
+    title: opts.absolute
+      ? { absolute: opts.title }
+      : { absolute: `${opts.title} | ${dict.brand.name}` },
     description: opts.description,
     alternates: { canonical, languages: { ar: arPath, en: enPath } },
     openGraph: {
